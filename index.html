@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noticiario CIFP La Granja</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --primary-color: #2C5F5F;
+            --primary-light: #4CAF50;
+            --secondary-color: #66BB6A;
+            --accent-color: #4CAF50;
+            --background-color: #F1F8F4;
+            --card-bg: #ffffff;
+            --text-dark: #1B4D3E;
+            --text-body: #2C5F5F;
+            --text-light: #78909c;
+            --shadow-sm: 0 2px 4px rgba(44, 95, 95, 0.05);
+            --shadow-md: 0 4px 6px rgba(44, 95, 95, 0.1);
+            --shadow-lg: 0 10px 15px rgba(44, 95, 95, 0.1);
+            --radius: 12px;
+            --font-main: 'Outfit', sans-serif;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: var(--font-main);
+            background-color: var(--background-color);
+            color: var(--text-body);
+            line-height: 1.6;
+        }
+
+        .main-header {
+            background: linear-gradient(135deg, var(--primary-color), var(--text-dark));
+            color: white;
+            padding: 1.5rem 0;
+            box-shadow: var(--shadow-md);
+        }
+
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        .logo-area {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .logo-text {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--accent-color);
+            background: white;
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+        }
+
+        .title-group h1 {
+            font-size: 1.8rem;
+            font-weight: 700;
+            line-height: 1.2;
+        }
+
+        .title-group p {
+            font-size: 0.9rem;
+            opacity: 0.9;
+            font-weight: 300;
+        }
+
+        .filters {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            cursor: pointer;
+            font-family: var(--font-main);
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .filter-btn:hover,
+        .filter-btn.active {
+            background: var(--accent-color);
+            color: var(--text-dark);
+            border-color: var(--accent-color);
+            transform: translateY(-2px);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 2rem;
+        }
+
+        .family-filters {
+            margin-bottom: 2rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            background: var(--card-bg);
+            padding: 1rem;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow-sm);
+        }
+
+        .filter-label {
+            font-weight: 600;
+            color: var(--text-dark);
+        }
+
+        #family-select {
+            padding: 0.5rem;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            font-family: var(--font-main);
+            flex-grow: 1;
+            max-width: 300px;
+        }
+
+        .news-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+
+        .news-card {
+            background: var(--card-bg);
+            border-radius: var(--radius);
+            overflow: hidden;
+            box-shadow: var(--shadow-sm);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        .news-card:hover {
+            transform: translateY(-5px);
+            box-shadow: var(--shadow-lg);
+        }
+
+        .card-image {
+            height: 200px;
+            overflow: hidden;
+            position: relative;
+            background: linear-gradient(135deg, var(--primary-light), var(--secondary-color));
+        }
+
+        .card-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.5s ease;
+        }
+
+        .news-card:hover .card-image img {
+            transform: scale(1.05);
+        }
+
+        .card-badge {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            background: var(--accent-color);
+            color: var(--text-dark);
+            padding: 0.25rem 0.75rem;
+            border-radius: 12px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        .card-content {
+            padding: 1.5rem;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .card-meta {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.8rem;
+            color: var(--text-light);
+            margin-bottom: 0.5rem;
+        }
+
+        .news-scope {
+            font-weight: 600;
+            color: var(--primary-light);
+            text-transform: uppercase;
+        }
+
+        .card-title {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: var(--text-dark);
+            margin-bottom: 0.75rem;
+            line-height: 1.3;
+        }
+
+        .card-summary {
+            font-size: 0.95rem;
+            color: var(--text-body);
+            margin-bottom: 1.5rem;
+            flex-grow: 1;
+        }
+
+        .card-footer {
+            border-top: 1px solid #eee;
+            padding-top: 1rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .family-tag {
+            background: var(--background-color);
+            color: var(--primary-color);
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+
+        .read-more {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 0.25rem;
+        }
+
+        .read-more:hover {
+            text-decoration: underline;
+        }
+
+        .main-footer {
+            background: var(--text-dark);
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            margin-top: 4rem;
+        }
+
+        @media (max-width: 768px) {
+            .header-content {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .filters {
+                justify-content: center;
+                margin-top: 1rem;
+            }
+
+            .family-filters {
+                flex-direction: column;
+                align-items: stretch;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header class="main-header">
+        <div class="header-content">
+            <div class="logo-area">
+                <div class="logo-text">CIFP La Granja</div>
+                <div class="title-group">
+                    <h1>Noticiario La Granja</h1>
+                    <p>Actualidad de nuestras familias profesionales</p>
+                </div>
+            </div>
+            <nav class="filters">
+                <button class="filter-btn active" data-filter="all">Todas</button>
+                <button class="filter-btn" data-filter="nacional">Nacional</button>
+                <button class="filter-btn" data-filter="cantabria">Cantabria</button>
+                <button class="filter-btn" data-filter="cifp">CIFP La Granja</button>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="family-filters">
+            <span class="filter-label">Filtrar por Familia:</span>
+            <select id="family-select">
+                <option value="all">Todas las Familias</option>
+                <option value="agraria">Agraria</option>
+                <option value="alimentarias">Industrias Alimentarias</option>
+                <option value="transporte">Transporte y Mantenimiento de Vehículos</option>
+                <option value="seguridad">Seguridad y Medio Ambiente</option>
+            </select>
+        </div>
+
+        <div id="news-grid" class="news-grid">
+            <!-- News items will be injected here by JS -->
+        </div>
+    </main>
+
+    <footer class="main-footer">
+        <p>&copy; 2025 CIFP La Granja. Formando profesionales del futuro.</p>
+    </footer>
+
+    <script>
+        // NOTA: Las imagenes usan URLs de Unsplash. Para SharePoint, puedes:
+        // 1. Subir las imagenes a la biblioteca de SharePoint y cambiar las URLs
+        // 2. Usar las URLs de Unsplash directamente (como esta ahora)
+
+        const newsData = [
+            {
+                title: "Alerta por Peste Porcina Africana en Cataluña",
+                summary: "Detectados casos en jabalíes silvestres. El sector porcino extrema precauciones y se paralizan exportaciones fuera de la UE.",
+                date: "2025-12-02",
+                category: "seguridad",
+                scope: "nacional",
+                image: "https://images.unsplash.com/photo-1560493676-04071c5f467b?w=800&q=80",
+                source: "El País",
+                url: "https://elpais.com/espana/catalunya/"
+            },
+            {
+                title: "Dermatosis Nodular Contagiosa afecta al vacuno",
+                summary: "Brotes confirmados en Girona obligan a ampliar la vacunación a más de 600.000 animales para contener la enfermedad.",
+                date: "2025-12-01",
+                category: "seguridad",
+                scope: "nacional",
+                image: "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=800&q=80",
+                source: "La Voz de Galicia",
+                url: "https://www.lavozdegalicia.es/"
+            },
+            {
+                title: "Protestas del sector agrícola por costes",
+                summary: "Agricultores y ganaderos se movilizan por los bajos precios y el aumento de costes de producción y energía.",
+                date: "2025-11-28",
+                category: "agraria",
+                scope: "nacional",
+                image: "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=800&q=80",
+                source: "Agrodigital",
+                url: "https://www.agrodigital.com/"
+            },
+            {
+                title: "Bruselas busca duplicar jóvenes agricultores",
+                summary: "La UE propone destinar el 6% del gasto agrícola a la renovación generacional para 2040.",
+                date: "2025-11-30",
+                category: "agraria",
+                scope: "nacional",
+                image: "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=800&q=80",
+                source: "20 Minutos",
+                url: "https://www.20minutos.es/"
+            },
+            {
+                title: "Ventas de tractores crecen un 23,75% en 2025",
+                summary: "Entre enero y mayo se vendieron 4.590 tractores nuevos. John Deere y New Holland lideran el mercado español.",
+                date: "2025-11-25",
+                category: "transporte",
+                scope: "nacional",
+                image: "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?w=800&q=80",
+                source: "Agronegocios",
+                url: "https://www.agronegocios.es/"
+            },
+            {
+                title: "John Deere presenta su primer tractor eléctrico",
+                summary: "El prototipo E-Power marca el inicio de la electrificación en maquinaria agrícola de gran potencia.",
+                date: "2025-11-20",
+                category: "transporte",
+                scope: "nacional",
+                image: "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=800&q=80",
+                source: "Ecomercio Agrario",
+                url: "https://www.ecomercioagrario.com/"
+            },
+            {
+                title: "DEMOAGRO 2025 reúne las últimas innovaciones",
+                summary: "La mayor feria demostrativa de maquinaria agrícola de España se celebró en mayo en Medina del Campo.",
+                date: "2025-05-22",
+                category: "transporte",
+                scope: "nacional",
+                image: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&q=80",
+                source: "DEMOAGRO",
+                url: "https://www.demoagro.es/"
+            },
+            {
+                title: "FIMA 2026 se celebrará en febrero en Zaragoza",
+                summary: "La 44ª edición de la Feria Internacional de Maquinaria Agrícola tendrá lugar del 10 al 14 de febrero de 2026.",
+                date: "2025-11-15",
+                category: "transporte",
+                scope: "nacional",
+                image: "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=800&q=80",
+                source: "Feria de Zaragoza",
+                url: "https://www.feriazaragoza.com/"
+            },
+            {
+                title: "Acuerdo presupuestario para el sector primario",
+                summary: "Organizaciones agrarias instan a aprobar el presupuesto 2026 para asegurar ayudas como el Plan de Recría.",
+                date: "2025-12-03",
+                category: "agraria",
+                scope: "cantabria",
+                image: "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
+                source: "El Diario Montañés",
+                url: "https://www.eldiariomontanes.es/"
+            },
+            {
+                title: "Se reanuda el movimiento de ganado",
+                summary: "Cantabria permite el traslado de ganado desde el 5 de diciembre, manteniendo la prohibición de ferias.",
+                date: "2025-12-02",
+                category: "agraria",
+                scope: "cantabria",
+                image: "https://images.unsplash.com/photo-1516467508483-a7212febe31a?w=800&q=80",
+                source: "Gobierno de Cantabria",
+                url: "https://www.cantabria.es/"
+            },
+            {
+                title: "Nuevo Plan de Gestión del Lobo",
+                summary: "Cantabria culmina un plan para equilibrar la conservación de la especie con la viabilidad de la ganadería.",
+                date: "2025-12-01",
+                category: "seguridad",
+                scope: "cantabria",
+                image: "https://images.unsplash.com/photo-1614027164847-1b28cfe1df60?w=800&q=80",
+                source: "Agronews",
+                url: "https://agronewscastillayleon.com/"
+            },
+            {
+                title: "Ayudas para razas autóctonas de Cantabria",
+                summary: "Convocadas ayudas 2026 para asociaciones que promuevan razas autóctonas: Vaca Pasiega, Caballo Monchino y Gallina Pedresa.",
+                date: "2025-12-01",
+                category: "agraria",
+                scope: "cantabria",
+                image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=800&q=80",
+                source: "Agropopular",
+                url: "https://www.agropopular.com/"
+            },
+            {
+                title: "Medidas preventivas contra Peste Porcina Africana",
+                summary: "Cantabria refuerza bioseguridad en granjas y aumenta muestreo de jabalíes tras foco detectado en Barcelona.",
+                date: "2025-11-29",
+                category: "seguridad",
+                scope: "cantabria",
+                image: "https://images.unsplash.com/photo-1560493676-04071c5f467b?w=800&q=80",
+                source: "Cantabria Económica",
+                url: "https://www.cantabriaeconomica.com/"
+            },
+            {
+                title: "Renedo acogerá la Feria de la Leche 2025",
+                summary: "Programación variada de actividades para celebrar la tradición láctea de Cantabria en Renedo de Piélagos.",
+                date: "2025-11-27",
+                category: "alimentarias",
+                scope: "cantabria",
+                image: "https://images.unsplash.com/photo-1628088062854-d1870b4553da?w=800&q=80",
+                source: "El Mirador Digital",
+                url: "https://www.elmiradordigital.es/"
+            },
+            {
+                title: "Éxito en 'Sabor en Cantabria'",
+                summary: "El centro presentó su mantequilla artesanal de Vaca Pasiega, destacando la calidad de sus productos alimentarios.",
+                date: "2025-10-22",
+                category: "alimentarias",
+                scope: "cifp",
+                image: "https://images.unsplash.com/photo-1628088062854-d1870b4553da?w=800&q=80",
+                source: "CIFP La Granja",
+                url: "https://cifplagranja.com/"
+            },
+            {
+                title: "Anfitriones del evento 'I+D Agro'",
+                summary: "La Cadena Ser organizó en nuestras instalaciones un encuentro sobre el futuro de la ganadería y la FP.",
+                date: "2025-10-15",
+                category: "agraria",
+                scope: "cifp",
+                image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=800&q=80",
+                source: "Cadena Ser",
+                url: "https://cadenaser.com/"
+            },
+            {
+                title: "Proyecto Erasmus+ 'VET Skills'",
+                summary: "Visita de socios europeos para compartir mejores prácticas en formación forestal y competiciones de skills.",
+                date: "2025-10-10",
+                category: "seguridad",
+                scope: "cifp",
+                image: "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=800&q=80",
+                source: "Erasmus+",
+                url: "https://erasmus-plus.ec.europa.eu/"
+            },
+            {
+                title: "Reconocimiento como Centro de Excelencia",
+                summary: "El Ministerio otorga 895.600€ para impulsar la innovación y la investigación de la vaca roja pasiega.",
+                date: "2025-09-01",
+                category: "agraria",
+                scope: "cifp",
+                image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=800&q=80",
+                source: "Ministerio de Educación",
+                url: "https://www.educacionyfp.gob.es/"
+            },
+            {
+                title: "CIFP La Granja participa en Cantabria Skills 2025",
+                summary: "El centro compite en Arte Floral y Maquinaria, con demos de Forestales. Los ganadores irán a SpainSkills 2026.",
+                date: "2025-11-20",
+                category: "seguridad",
+                scope: "cifp",
+                image: "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=800&q=80",
+                source: "YouTube CIFP",
+                url: "https://www.youtube.com/"
+            },
+            {
+                title: "Participación en XXX Congreso EuropeaEspaña",
+                summary: "Director Karlos Miko y Jefe de Estudios Eduardo Ecay presentaron propuestas formativas innovadoras el 26 de marzo.",
+                date: "2025-03-26",
+                category: "agraria",
+                scope: "cifp",
+                image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=800&q=80",
+                source: "CIFP La Granja",
+                url: "https://cifplagranja.com/"
+            },
+            {
+                title: "Bienvenida a más de 550 estudiantes",
+                summary: "El CIFP La Granja inició el curso 2025/2026 con un récord de alumnado y más de 70 profesores.",
+                date: "2025-09-11",
+                category: "agraria",
+                scope: "cifp",
+                image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=800&q=80",
+                source: "CIFP La Granja",
+                url: "https://cifplagranja.com/"
+            },
+            {
+                title: "Victoria en concurso Start Innova",
+                summary: "El centro celebró el último claustro del curso 2024-2025 destacando el triunfo en el concurso de innovación.",
+                date: "2025-07-01",
+                category: "agraria",
+                scope: "cifp",
+                image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=800&q=80",
+                source: "CIFP La Granja",
+                url: "https://cifplagranja.com/"
+            }
+        ];
+
+        const newsGrid = document.getElementById('news-grid');
+        const scopeButtons = document.querySelectorAll('.filter-btn');
+        const familySelect = document.getElementById('family-select');
+
+        let currentScope = 'all';
+        let currentFamily = 'all';
+
+        function renderNews() {
+            newsGrid.innerHTML = '';
+
+            const filteredNews = newsData.filter(item => {
+                const scopeMatch = currentScope === 'all' || item.scope === currentScope;
+                const familyMatch = currentFamily === 'all' || item.category === currentFamily;
+                return scopeMatch && familyMatch;
+            });
+
+            if (filteredNews.length === 0) {
+                newsGrid.innerHTML = '<p style="grid-column: 1/-1; text-align: center; color: var(--text-light);">No hay noticias que coincidan con los filtros.</p>';
+                return;
+            }
+
+            filteredNews.forEach(item => {
+                const card = document.createElement('article');
+                card.className = 'news-card';
+
+                const categoryNames = {
+                    'agraria': 'Agraria',
+                    'alimentarias': 'Ind. Alimentarias',
+                    'transporte': 'Transporte y Mant.',
+                    'seguridad': 'Seguridad y Medio Ambiente'
+                };
+
+                const scopeNames = {
+                    'nacional': 'Nacional',
+                    'cantabria': 'Cantabria',
+                    'cifp': 'CIFP La Granja'
+                };
+
+                card.innerHTML = `
+                    <div class="card-image">
+                        <img src="${item.image}" alt="${item.title}">
+                        <span class="card-badge">${categoryNames[item.category] || item.category}</span>
+                    </div>
+                    <div class="card-content">
+                        <div class="card-meta">
+                            <span class="news-scope">${scopeNames[item.scope]}</span>
+                            <span class="news-date">${new Date(item.date).toLocaleDateString('es-ES')}</span>
+                        </div>
+                        <h3 class="card-title">${item.title}</h3>
+                        <p class="card-summary">${item.summary}</p>
+                        <div class="card-footer">
+                            <span class="family-tag">Fuente: ${item.source}</span>
+                            <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="read-more">Leer más &rarr;</a>
+                        </div>
+                    </div>
+                `;
+                newsGrid.appendChild(card);
+            });
+        }
+
+        scopeButtons.forEach(btn => {
+            btn.addEventListener('click', () => {
+                scopeButtons.forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentScope = btn.dataset.filter;
+                renderNews();
+            });
+        });
+
+        familySelect.addEventListener('change', (e) => {
+            currentFamily = e.target.value;
+            renderNews();
+        });
+
+        renderNews();
+    </script>
+</body>
+
+</html>
