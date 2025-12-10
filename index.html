@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,6 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+
     <style>
         :root {
             --primary-color: #2C5F5F;
@@ -24,23 +26,27 @@
             --radius: 12px;
             --font-main: 'Outfit', sans-serif;
         }
+
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
+
         body {
             font-family: var(--font-main);
             background-color: var(--background-color);
             color: var(--text-body);
             line-height: 1.6;
         }
+
         .main-header {
             background: linear-gradient(135deg, var(--primary-color), var(--text-dark));
             color: white;
             padding: 1.5rem 0;
             box-shadow: var(--shadow-md);
         }
+
         .header-content {
             max-width: 1200px;
             margin: 0 auto;
@@ -51,31 +57,37 @@
             flex-wrap: wrap;
             gap: 1rem;
         }
+
         .logo-area {
             display: flex;
             align-items: center;
             gap: 1rem;
         }
+
         .logo-img {
             height: 60px;
             width: auto;
             object-fit: contain;
         }
+
         .title-group h1 {
             font-size: 1.8rem;
             font-weight: 700;
             line-height: 1.2;
         }
+
         .title-group p {
             font-size: 0.9rem;
             opacity: 0.9;
             font-weight: 300;
         }
+
         .filters {
             display: flex;
             gap: 0.5rem;
             flex-wrap: wrap;
         }
+
         .filter-btn {
             background: rgba(255, 255, 255, 0.1);
             border: 1px solid rgba(255, 255, 255, 0.2);
@@ -87,6 +99,7 @@
             font-weight: 600;
             transition: all 0.3s ease;
         }
+
         .filter-btn:hover,
         .filter-btn.active {
             background: var(--accent-color);
@@ -94,11 +107,13 @@
             border-color: var(--accent-color);
             transform: translateY(-2px);
         }
+
         .container {
             max-width: 1200px;
             margin: 2rem auto;
             padding: 0 2rem;
         }
+
         .family-filters {
             margin-bottom: 2rem;
             display: flex;
@@ -109,10 +124,12 @@
             border-radius: var(--radius);
             box-shadow: var(--shadow-sm);
         }
+
         .filter-label {
             font-weight: 600;
             color: var(--text-dark);
         }
+
         #family-select {
             padding: 0.5rem;
             border-radius: 8px;
@@ -121,11 +138,13 @@
             flex-grow: 1;
             max-width: 300px;
         }
+
         .news-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
             gap: 2rem;
         }
+
         .news-card {
             background: var(--card-bg);
             border-radius: var(--radius);
@@ -136,25 +155,30 @@
             flex-direction: column;
             height: 100%;
         }
+
         .news-card:hover {
             transform: translateY(-5px);
             box-shadow: var(--shadow-lg);
         }
+
         .card-image {
             height: 200px;
             overflow: hidden;
             position: relative;
             background: linear-gradient(135deg, var(--primary-light), var(--secondary-color));
         }
+
         .card-image img {
             width: 100%;
             height: 100%;
             object-fit: cover;
             transition: transform 0.5s ease;
         }
+
         .news-card:hover .card-image img {
             transform: scale(1.05);
         }
+
         .card-badge {
             position: absolute;
             top: 1rem;
@@ -168,12 +192,14 @@
             text-transform: uppercase;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
         }
+
         .card-content {
             padding: 1.5rem;
             flex-grow: 1;
             display: flex;
             flex-direction: column;
         }
+
         .card-meta {
             display: flex;
             justify-content: space-between;
@@ -181,11 +207,13 @@
             color: var(--text-light);
             margin-bottom: 0.5rem;
         }
+
         .news-scope {
             font-weight: 600;
             color: var(--primary-light);
             text-transform: uppercase;
         }
+
         .card-title {
             font-size: 1.25rem;
             font-weight: 700;
@@ -193,12 +221,14 @@
             margin-bottom: 0.75rem;
             line-height: 1.3;
         }
+
         .card-summary {
             font-size: 0.95rem;
             color: var(--text-body);
             margin-bottom: 1.5rem;
             flex-grow: 1;
         }
+
         .card-footer {
             border-top: 1px solid #eee;
             padding-top: 1rem;
@@ -206,6 +236,7 @@
             justify-content: space-between;
             align-items: center;
         }
+
         .family-tag {
             background: var(--background-color);
             color: var(--primary-color);
@@ -214,6 +245,7 @@
             font-size: 0.8rem;
             font-weight: 600;
         }
+
         .read-more {
             color: var(--primary-color);
             text-decoration: none;
@@ -223,9 +255,11 @@
             align-items: center;
             gap: 0.25rem;
         }
+
         .read-more:hover {
             text-decoration: underline;
         }
+
         .main-footer {
             background: var(--text-dark);
             color: white;
@@ -233,15 +267,18 @@
             padding: 2rem;
             margin-top: 4rem;
         }
+
         @media (max-width: 768px) {
             .header-content {
                 flex-direction: column;
                 align-items: stretch;
             }
+
             .filters {
                 justify-content: center;
                 margin-top: 1rem;
             }
+
             .family-filters {
                 flex-direction: column;
                 align-items: stretch;
@@ -249,6 +286,7 @@
         }
     </style>
 </head>
+
 <body>
     <header class="main-header">
         <div class="header-content">
@@ -267,6 +305,7 @@
             </nav>
         </div>
     </header>
+
     <main class="container">
         <div class="family-filters">
             <span class="filter-label">Filtrar por Familia:</span>
@@ -278,13 +317,16 @@
                 <option value="seguridad">Seguridad y Medio Ambiente</option>
             </select>
         </div>
+
         <div id="news-grid" class="news-grid">
             <!-- News items will be injected here by JS -->
         </div>
     </main>
+
     <footer class="main-footer">
         <p>&copy; 2025 CIFP La Granja. Formando profesionales del futuro.</p>
     </footer>
+
     <script>
         const newsData = [
             {
@@ -548,36 +590,45 @@
                 url: "https://www.google.com/search?q=CIFP+La+Granja+Start+Innova+2025"
             }
         ];
+
         const newsGrid = document.getElementById('news-grid');
         const scopeButtons = document.querySelectorAll('.filter-btn');
         const familySelect = document.getElementById('family-select');
+
         let currentScope = 'all';
         let currentFamily = 'all';
+
         function renderNews() {
             newsGrid.innerHTML = '';
+
             const filteredNews = newsData.filter(item => {
                 const scopeMatch = currentScope === 'all' || item.scope === currentScope;
                 const familyMatch = currentFamily === 'all' || item.category === currentFamily;
                 return scopeMatch && familyMatch;
             });
+
             if (filteredNews.length === 0) {
                 newsGrid.innerHTML = '<p style="grid-column: 1/-1; text-align: center; color: var(--text-light);">No hay noticias que coincidan con los filtros.</p>';
                 return;
             }
+
             filteredNews.forEach(item => {
                 const card = document.createElement('article');
                 card.className = 'news-card';
+
                 const categoryNames = {
                     'agraria': 'Agraria',
                     'alimentarias': 'Ind. Alimentarias',
                     'transporte': 'Transporte y Mant.',
                     'seguridad': 'Seguridad y Medio Ambiente'
                 };
+
                 const scopeNames = {
                     'nacional': 'Nacional',
                     'cantabria': 'Cantabria',
                     'cifp': 'CIFP La Granja'
                 };
+
                 card.innerHTML = `
                     <div class="card-image">
                         <img src="${item.image}" alt="${item.title}">
@@ -599,6 +650,7 @@
                 newsGrid.appendChild(card);
             });
         }
+
         scopeButtons.forEach(btn => {
             btn.addEventListener('click', () => {
                 scopeButtons.forEach(b => b.classList.remove('active'));
@@ -607,11 +659,14 @@
                 renderNews();
             });
         });
+
         familySelect.addEventListener('change', (e) => {
             currentFamily = e.target.value;
             renderNews();
         });
+
         renderNews();
     </script>
 </body>
+
 </html>
