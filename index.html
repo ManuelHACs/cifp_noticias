@@ -7,6 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    
     <style>
         :root {
             --primary-color: #2C5F5F;
@@ -18,9 +19,9 @@
             --text-dark: #1B4D3E;
             --text-body: #2C5F5F;
             --text-light: #78909c;
-            --shadow-sm: 0 2px 4px rgba(44, 95, 95, 0.05);
-            --shadow-md: 0 4px 6px rgba(44, 95, 95, 0.1);
-            --shadow-lg: 0 10px 15px rgba(44, 95, 95, 0.1);
+            --shadow-sm: 0 2px 4px rgba(44,95,95,0.05);
+            --shadow-md: 0 4px 6px rgba(44,95,95,0.1);
+            --shadow-lg: 0 10px 15px rgba(44,95,95,0.1);
             --radius: 12px;
             --font-main: 'Outfit', sans-serif;
         }
@@ -77,8 +78,8 @@
             flex-wrap: wrap;
         }
         .filter-btn {
-            background: rgba(255, 255, 255, 0.1);
-            border: 1px solid rgba(255, 255, 255, 0.2);
+            background: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.2);
             color: white;
             padding: 0.5rem 1rem;
             border-radius: 20px;
@@ -87,8 +88,7 @@
             font-weight: 600;
             transition: all 0.3s ease;
         }
-        .filter-btn:hover,
-        .filter-btn.active {
+        .filter-btn:hover, .filter-btn.active {
             background: var(--accent-color);
             color: var(--text-dark);
             border-color: var(--accent-color);
@@ -166,7 +166,7 @@
             font-size: 0.75rem;
             font-weight: 700;
             text-transform: uppercase;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
         }
         .card-content {
             padding: 1.5rem;
@@ -238,10 +238,12 @@
                 flex-direction: column;
                 align-items: stretch;
             }
+            
             .filters {
                 justify-content: center;
                 margin-top: 1rem;
             }
+            
             .family-filters {
                 flex-direction: column;
                 align-items: stretch;
@@ -288,44 +290,44 @@
     <script>
         const newsData = [
             {
-                title: "Cantabria prorroga suspensión de ferias por DNC",
-                summary: "La medida se mantiene hasta el 31 de diciembre para controlar la Dermatosis Nodular Contagiosa. Se permiten movimientos directos a matadero.",
-                date: "2025-12-10",
+                title: "Cantabria paga 4 millones en ayudas agroalimentarias",
+                summary: "El Gobierno de Cantabria abona casi 4 millones de euros a 43 industrias del sector para fomentar su desarrollo y competitividad.",
+                date: "2025-12-12",
                 category: "agraria",
                 scope: "cantabria",
-                image: "https://images.unsplash.com/photo-1545468800-85cc9bc6ecf7?w=800&q=80",
-                source: "Europa Press",
-                url: "https://www.europapress.es/cantabria/noticia-cantabria-prorroga-suspension-ferias-ganaderas-finales-ano-dermatosis-nodular-20251201123456.html"
+                image: "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
+                source: "Gobierno de Cantabria",
+                url: "https://www.cantabria.es/web/gobierno/actualidad"
             },
             {
-                title: "Queserías Lafuente invertirá 50 millones en la región",
-                summary: "La empresa láctea anuncia un plan estratégico que creará 60 nuevos empleos y reforzará el sector agroalimentario local.",
-                date: "2025-12-09",
+                title: "Campaña 'Sabe a Norte' impulsa el consumo local",
+                summary: "La ODECA lanza una campaña especial de Navidad para promocionar los productos con sello de calidad de Cantabria.",
+                date: "2025-12-11",
                 category: "alimentarias",
                 scope: "cantabria",
-                image: "https://images.unsplash.com/photo-1628088062854-d1870b4553da?w=800&q=80",
-                source: "Sodercan",
-                url: "https://www.sodercan.es/queserias-lafuente-invertira-50-millones-en-cantabria/"
+                image: "https://images.unsplash.com/photo-1606787366850-de6330128bfc?w=800&q=80",
+                source: "Alimentos de Cantabria",
+                url: "https://www.alimentosdecantabria.com"
             },
             {
-                title: "Llegan los tractores 100% autónomos con IA",
-                summary: "John Deere y Kubota presentan sus nuevos modelos que no requieren conductor, revolucionando la eficiencia en el campo.",
-                date: "2025-12-08",
+                title: "John Deere revela su nueva tecnología autónoma",
+                summary: "Presentada la nueva generación de tractores autónomos y kits de actualización para 2025, mejorando la eficiencia en el campo.",
+                date: "2025-12-10",
                 category: "transporte",
                 scope: "nacional",
                 image: "https://images.unsplash.com/photo-1562657520-b42c8ce1316e?w=800&q=80",
-                source: "Farm Machinery Sales",
-                url: "https://www.farmmachinerysales.com.au/editorial/details/ces-2025-john-deere-unveils-next-gen-autonomous-machines-144321/"
+                source: "John Deere",
+                url: "https://www.deere.com/en/autonomous-tractor/"
             },
             {
-                title: "8,4 millones para prevención de incendios en 2025",
-                summary: "El Gobierno de Cantabria refuerza el operativo forestal y la formación de agentes para la campaña del próximo año.",
-                date: "2025-12-07",
+                title: "304.000€ para policías locales y protección civil",
+                summary: "El Gobierno refuerza la seguridad y emergencias con nuevas ayudas para equipamiento y vehículos en los municipios.",
+                date: "2025-12-15",
                 category: "seguridad",
                 scope: "cantabria",
-                image: "https://images.unsplash.com/photo-1425913397330-cf8af2ff40a1?w=800&q=80",
-                source: "Europa Press",
-                url: "https://www.europapress.es/cantabria/noticia-gobierno-cantabria-destina-84-millones-prevencion-incendios-2025-20251207123456.html"
+                image: "https://images.unsplash.com/photo-1596627632363-241315518b53?w=800&q=80",
+                source: "Gobierno de Cantabria",
+                url: "https://www.cantabria.es/web/direccion-general-proteccion-civil-y-emergencias"
             },
             {
                 title: "Alerta por Peste Porcina Africana en Cataluña",
