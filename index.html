@@ -7,6 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
     
     <style>
         :root {
@@ -151,6 +152,7 @@
             height: 100%;
             object-fit: cover;
             transition: transform 0.5s ease;
+            background-color: white; /* Ensures transparent logos look good */
         }
         .news-card:hover .card-image img {
             transform: scale(1.05);
@@ -255,29 +257,18 @@
     <header class="main-header">
         <div class="header-content">
             <div class="logo-area">
+                <img src="assets/cifp_la_granja_building_1764761811807.png" alt="Logo CIFP La Granja" class="logo-img">
                 <img src="logo2.png" alt="CIFP La Granja" class="logo-img">
                 <div class="title-group">
                     <h1>Noticiario La Granja</h1>
                     <p>Actualidad de nuestras familias profesionales</p>
-                </div>
-            </div>
-            <nav class="filters">
-                <button class="filter-btn active" data-filter="all">Todas</button>
-                <button class="filter-btn" data-filter="nacional">Nacional</button>
-                <button class="filter-btn" data-filter="cantabria">Cantabria</button>
-                <button class="filter-btn" data-filter="cifp">CIFP La Granja</button>
-            </nav>
-        </div>
-    </header>
-    <main class="container">
-        <div class="family-filters">
-            <span class="filter-label">Filtrar por Familia:</span>
-            <select id="family-select">
                 <option value="all">Todas las Familias</option>
                 <option value="agraria">Agraria</option>
                 <option value="alimentarias">Industrias Alimentarias</option>
+                <option value="transporte">Transporte y Mantenimiento</option>
                 <option value="transporte">Transporte y Mantenimiento de Vehículos</option>
                 <option value="seguridad">Seguridad y Medio Ambiente</option>
+                <option value="deportivas">Actividades Físicas y Deportivas</option>
             </select>
         </div>
         <div id="news-grid" class="news-grid">
@@ -287,6 +278,7 @@
     <footer class="main-footer">
         <p>&copy; 2025 CIFP La Granja. Formando profesionales del futuro.</p>
     </footer>
+    <script src="script.js"></script>
     <script>
         const newsData = [
             {
@@ -295,9 +287,9 @@
                 date: "2025-12-12",
                 category: "agraria",
                 scope: "cantabria",
-                image: "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
-                source: "Gobierno de Cantabria",
-                url: "https://www.cantabria.es/web/gobierno/actualidad"
+                image: "https://img.europapress.es/fotoweb/fotonoticia_20241212130706_1200.jpg",
+                source: "Europa Press",
+                url: "https://www.europapress.es/cantabria/noticia-gobierno-cantabria-inicia-pago-casi-4-millones-euros-43-industrias-agroalimentarias-20241212130706.html"
             },
             {
                 title: "Campaña 'Sabe a Norte' impulsa el consumo local",
@@ -305,9 +297,9 @@
                 date: "2025-12-11",
                 category: "alimentarias",
                 scope: "cantabria",
-                image: "https://images.unsplash.com/photo-1606787366850-de6330128bfc?w=800&q=80",
-                source: "Alimentos de Cantabria",
-                url: "https://www.alimentosdecantabria.com"
+                image: "https://www.sabeanorte.com/documents/33877265/33877347/Logo+Sabe+a+Norte+-+CANTABRIA.svg/2b604a32-6764-0544-d3bc-143bd08f0b4f?t=1763371940729&download=true",
+                source: "Sabe a Norte",
+                url: "https://www.sabeanorte.com"
             },
             {
                 title: "John Deere revela su nueva tecnología autónoma",
@@ -315,9 +307,9 @@
                 date: "2025-12-10",
                 category: "transporte",
                 scope: "nacional",
-                image: "https://images.unsplash.com/photo-1562657520-b42c8ce1316e?w=800&q=80",
+                image: "https://www.deere.com/assets/images/common/our-company/news/r4f175043_rrd-992x558.jpg",
                 source: "John Deere",
-                url: "https://www.deere.com/en/autonomous-tractor/"
+                url: "https://www.deere.com/en/news/all-news/autonomous-tractor-reveal/"
             },
             {
                 title: "304.000€ para policías locales y protección civil",
@@ -327,7 +319,7 @@
                 scope: "cantabria",
                 image: "https://images.unsplash.com/photo-1596627632363-241315518b53?w=800&q=80",
                 source: "Gobierno de Cantabria",
-                url: "https://www.cantabria.es/web/direccion-general-proteccion-civil-y-emergencias"
+                url: "https://www.cantabria.es/web/comunicados/detalle/-/journal_content/56_INSTANCE_DETALLE/16413/24682468"
             },
             {
                 title: "Alerta por Peste Porcina Africana en Cataluña",
@@ -616,4 +608,6 @@
         renderNews();
     </script>
 </body>
+</html>
+</html>
 </html>
