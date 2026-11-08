@@ -1,0 +1,47 @@
+name: Actualizar noticias
+
+on:
+  schedule:
+    # Cada 3 horas entre las 6:00 y las 21:00 (hora UTC; en Cantabria es 1-2 h más)
+    - cron: "17 5-20/3 * * *"
+  workflow_dispatch:        # botón "Run workflow" para lanzarlo a mano
+  push:
+    branches: [main]
+    paths:
+      - config.json
+      - scripts/**
+      - .github/workflows/actualizar-noticias.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-noticias
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Descargar y clasificar noticias
+        run: python scripts/actualizar_noticias.py
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "noticiario-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json feed.xml
+          if git diff --cached --quiet; then
+            echo "Sin noticias nuevas."
+          else
+            git commit -m "Actualizar noticias $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git pull --rebase --autostash
+            git push
+          fi
