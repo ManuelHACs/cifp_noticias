@@ -10,62 +10,62 @@
     {
       "q": "\"CIFP La Granja\" OR \"La Granja de Heras\" OR \"IES La Granja\" Heras",
       "ambito": "cifp",
-      "area": "fp",
+      "area": "centro",
       "dias": 180
     },
     {
-      "q": "formación profesional Cantabria (agraria OR forestal OR ganadería OR jardinería OR \"industrias alimentarias\" OR \"química ambiental\" OR electromecánica)",
+      "q": "formación profesional Cantabria (agraria OR agropecuaria OR forestal OR ganadería OR jardinería OR ecuestre OR \"productos alimenticios\" OR \"salud ambiental\" OR electromecánica)",
       "ambito": "cantabria",
-      "area": "fp",
+      "area": "centro",
       "dias": 45
     },
     {
-      "q": "Cantabria (ganadería OR ganaderos OR vacuno OR \"sector lácteo\" OR leche OR \"sanidad animal\")",
-      "ambito": "cantabria",
-      "area": "ganaderia",
-      "dias": 21
-    },
-    {
-      "q": "Cantabria (agricultura OR agricultores OR agrario OR \"sector primario\" OR \"medio rural\")",
+      "q": "Cantabria (agricultura OR agricultores OR agrario OR \"sector primario\" OR huerta OR \"agricultura ecológica\" OR agroecología)",
       "ambito": "cantabria",
       "area": "agricultura",
       "dias": 21
     },
     {
-      "q": "Cantabria (forestal OR montes OR \"incendio forestal\" OR eucalipto OR repoblación OR madera)",
+      "q": "Cantabria (ganadería OR ganaderos OR vacuno OR ovino OR \"sanidad animal\" OR veterinarios OR \"feria de ganado\")",
       "ambito": "cantabria",
-      "area": "forestal",
+      "area": "ganaderia",
       "dias": 21
     },
     {
-      "q": "Cantabria (\"industria alimentaria\" OR agroalimentaria OR agroalimentario OR quesos OR ODECA OR \"Alimentos de Cantabria\")",
+      "q": "Cantabria (caballos OR hípica OR ecuestre OR equino OR \"concurso de saltos\" OR \"caballo monchino\")",
       "ambito": "cantabria",
-      "area": "alimentarias",
-      "dias": 21
+      "area": "ecuestre",
+      "dias": 30
     },
     {
-      "q": "Cantabria (biodiversidad OR \"espacios naturales\" OR lobo OR \"medio natural\" OR \"guardas forestales\" OR \"agentes del medio natural\")",
-      "ambito": "cantabria",
-      "area": "medioambiente",
-      "dias": 21
-    },
-    {
-      "q": "Cantabria (jardinería OR paisajismo OR viveros OR floristería OR \"parques y jardines\")",
+      "q": "Cantabria (jardinería OR paisajismo OR viveros OR floristería OR \"parques y jardines\" OR \"arte floral\")",
       "ambito": "cantabria",
       "area": "jardineria",
       "dias": 30
     },
     {
-      "q": "Cantabria (\"calidad del agua\" OR \"calidad del aire\" OR contaminación OR depuradora OR vertido OR \"aguas residuales\" OR \"salud ambiental\")",
+      "q": "Cantabria (forestal OR montes OR \"incendio forestal\" OR eucalipto OR repoblación OR biodiversidad OR lobo OR \"espacios naturales\" OR \"agentes del medio natural\")",
       "ambito": "cantabria",
-      "area": "quimica",
+      "area": "forestal",
       "dias": 21
     },
     {
-      "q": "Cantabria (\"maquinaria agrícola\" OR tractor OR \"taller agrícola\" OR \"maquinaria forestal\" OR \"gasóleo agrícola\")",
+      "q": "Cantabria (quesos OR lácteos OR quesería OR \"industria láctea\" OR agroalimentaria OR ODECA OR \"Alimentos de Cantabria\")",
+      "ambito": "cantabria",
+      "area": "alimentarias",
+      "dias": 21
+    },
+    {
+      "q": "Cantabria (\"maquinaria agrícola\" OR tractor OR \"maquinaria forestal\" OR \"taller agrícola\" OR \"gasóleo agrícola\")",
       "ambito": "cantabria",
       "area": "maquinaria",
       "dias": 30
+    },
+    {
+      "q": "Cantabria (\"calidad del agua\" OR \"calidad del aire\" OR contaminación OR depuradora OR vertido OR legionela OR plagas OR \"salud ambiental\")",
+      "ambito": "cantabria",
+      "area": "quimica",
+      "dias": 21
     },
     {
       "q": "\"Ministerio de Agricultura\" OR PAC agricultores España",
@@ -74,50 +74,69 @@
       "dias": 7
     },
     {
-      "q": "ganadería España (\"sanidad animal\" OR \"peste porcina\" OR \"lengua azul\" OR \"dermatosis nodular\" OR \"sector lácteo\")",
+      "q": "\"producción ecológica\" OR \"agricultura ecológica\" OR agroecología España",
+      "ambito": "nacional",
+      "area": "agricultura",
+      "dias": 10
+    },
+    {
+      "q": "ganadería España (\"sanidad animal\" OR \"peste porcina\" OR \"lengua azul\" OR \"dermatosis nodular\" OR \"bienestar animal\")",
       "ambito": "nacional",
       "area": "ganaderia",
       "dias": 7
     },
     {
-      "q": "\"sector forestal\" OR \"gestión forestal\" OR \"incendios forestales\" España",
+      "q": "\"sector equino\" OR \"actividades ecuestres\" OR \"turismo ecuestre\" OR \"doma clásica\" España",
+      "ambito": "nacional",
+      "area": "ecuestre",
+      "dias": 21
+    },
+    {
+      "q": "paisajismo OR \"arte floral\" OR \"sector viverista\" OR \"jardinería sostenible\" España",
+      "ambito": "nacional",
+      "area": "jardineria",
+      "dias": 14
+    },
+    {
+      "q": "\"sector forestal\" OR \"gestión forestal\" OR \"incendios forestales\" OR \"medio natural\" España",
       "ambito": "nacional",
       "area": "forestal",
       "dias": 7
     },
     {
-      "q": "\"industria alimentaria\" OR \"industria agroalimentaria\" España",
+      "q": "\"sector lácteo\" OR \"industria láctea\" OR queserías OR \"industria alimentaria\" España",
       "ambito": "nacional",
       "area": "alimentarias",
       "dias": 7
     },
     {
-      "q": "\"maquinaria agrícola\" OR tractores OR \"agricultura de precisión\" España",
+      "q": "\"maquinaria agrícola\" OR \"agricultura de precisión\" OR electromecánica tractores OR \"ITV agrícola\" España",
       "ambito": "nacional",
       "area": "maquinaria",
       "dias": 14
     },
     {
-      "q": "\"química ambiental\" OR \"salud ambiental\" OR \"laboratorio ambiental\" OR \"calidad del agua\" España",
+      "q": "\"salud ambiental\" OR \"sanidad ambiental\" OR \"química ambiental\" OR legionela OR \"mosquito tigre\" OR \"control de plagas\" España",
       "ambito": "nacional",
       "area": "quimica",
       "dias": 10
     },
     {
-      "q": "electromecánica (\"maquinaria agrícola\" OR tractores OR \"vehículos agrícolas\") OR \"mantenimiento de maquinaria agrícola\" OR \"ITV agrícola\"",
+      "q": "\"formación profesional\" (agraria OR agropecuaria OR forestal OR ecuestre OR \"productos lácteos\" OR \"salud ambiental\" OR \"electromecánica de maquinaria\")",
       "ambito": "nacional",
-      "area": "maquinaria",
-      "dias": 30
-    },
-    {
-      "q": "\"formación profesional\" (agraria OR forestal OR agropecuaria OR \"industrias alimentarias\" OR \"química ambiental\" OR \"electromecánica de maquinaria\")",
-      "ambito": "nacional",
-      "area": "fp",
+      "area": "centro",
       "dias": 21
     }
   ],
-  "_ayuda_feeds": "Fuentes RSS directas. Solo se publican las noticias que encajan en alguna área por palabras clave. Si una fuente falla, se ignora y se sigue con las demás.",
+  "_ayuda_feeds": "Fuentes RSS directas. Con 'aceptar_todo' se publican todas sus noticias (p. ej. la web del centro); si no, solo las que encajan en alguna área por palabras clave. Si una fuente falla, se ignora.",
   "feeds": [
+    {
+      "url": "https://cifplagranja.com/feed/",
+      "fuente": "CIFP La Granja",
+      "ambito": "cifp",
+      "area": "centro",
+      "aceptar_todo": true
+    },
     {
       "url": "https://www.agroinformacion.com/feed/",
       "fuente": "Agroinformación",
@@ -134,30 +153,40 @@
       "ambito": "nacional"
     }
   ],
-  "_ayuda_areas": "Áreas temáticas y sus palabras clave (sin tildes y en minúsculas da igual: se normaliza).",
+  "_ayuda_areas": "Áreas temáticas según la oferta del CIFP La Granja (cifplagranja.com). Las palabras se comparan sin tildes ni mayúsculas; un espacio al final obliga a palabra completa.",
   "areas": {
     "agricultura": {
-      "nombre": "Agricultura",
+      "nombre": "Agricultura y agroecología",
+      "ciclos": "FPB Actividades Agropecuarias · GM Producción Agropecuaria · GM Producción Agroecológica",
       "palabras": [
         "agricultura",
         "agricultor",
         "agricola",
         "agrario",
         "agraria",
+        "agropecuari",
+        "agroecolog",
+        "ecologic",
         "cultivo",
         "cosecha",
         "cereal",
         "hortaliza",
         "huerta",
+        "horticultura",
         "fruta",
+        "frutal",
         "manzana",
         "patata",
         "pac ",
         "politica agraria",
         "regadio",
         "fertiliz",
+        "compost",
         "fitosanitario",
-        "plaga",
+        "plaga agricola",
+        "semilla",
+        "apicultura",
+        "miel",
         "sector primario",
         "asaja",
         "coag",
@@ -165,7 +194,8 @@
       ]
     },
     "ganaderia": {
-      "nombre": "Ganadería",
+      "nombre": "Ganadería y sanidad animal",
+      "ciclos": "GS Ganadería y Asistencia en Sanidad Animal · GM Producción Agropecuaria",
       "palabras": [
         "ganader",
         "ganado",
@@ -174,12 +204,13 @@
         "ovino",
         "caprino",
         "porcino",
-        "equino",
-        "caballo",
-        "leche",
-        "lacteo",
+        "avicola",
+        "gallina",
+        "cinegetic",
+        "leche cruda",
         "explotacion ganadera",
         "sanidad animal",
+        "bienestar animal",
         "veterinari",
         "lengua azul",
         "peste porcina",
@@ -188,12 +219,60 @@
         "feria de ganado",
         "pasiega",
         "tudanca",
-        "monchina",
-        "raza autoctona"
+        "raza autoctona",
+        "reproduccion animal",
+        "inseminacion"
+      ]
+    },
+    "ecuestre": {
+      "nombre": "Actividades ecuestres",
+      "ciclos": "GM Actividades Ecuestres",
+      "palabras": [
+        "ecuestre",
+        "equino",
+        "caballo",
+        "yegua",
+        "potro",
+        "hipica",
+        "hipico",
+        "doma",
+        "salto de obstaculos",
+        "concurso de saltos",
+        "raid",
+        "herrador",
+        "monchino",
+        "pura raza español",
+        "turismo ecuestre",
+        "equitacion"
+      ]
+    },
+    "jardineria": {
+      "nombre": "Jardinería, floristería y paisajismo",
+      "ciclos": "FPB Agrojardinería y Composiciones Florales · GM Jardinería y Floristería · GS Paisajismo y Medio Rural",
+      "palabras": [
+        "jardin",
+        "jardineria",
+        "paisajismo",
+        "paisaj",
+        "vivero",
+        "viverista",
+        "floristeria",
+        "floral",
+        "flor ",
+        "flores",
+        "composicion floral",
+        "zonas verdes",
+        "parques y jardines",
+        "arbol singular",
+        "arbolado urbano",
+        "poda",
+        "cesped",
+        "medio rural"
       ]
     },
     "forestal": {
-      "nombre": "Forestal",
+      "nombre": "Forestal y medio natural",
+      "ciclos": "GS Gestión Forestal y del Medio Natural",
       "palabras": [
         "forestal",
         "monte",
@@ -205,17 +284,10 @@
         "madera",
         "incendio",
         "silvicultura",
-        "aprovechamiento forestal",
         "pino",
         "roble",
-        "castaño"
-      ]
-    },
-    "medioambiente": {
-      "nombre": "Medio ambiente",
-      "palabras": [
-        "medio ambiente",
-        "medioambiental",
+        "castaño",
+        "medio natural",
         "biodiversidad",
         "lobo",
         "oso ",
@@ -226,19 +298,76 @@
         "red natura",
         "agentes del medio natural",
         "guardas",
-        "cambio climatico",
-        "sequia",
-        "rio ",
         "caza",
-        "pesca fluvial"
+        "pesca fluvial",
+        "cambio climatico"
+      ]
+    },
+    "alimentarias": {
+      "nombre": "Industrias alimentarias (lácteos)",
+      "ciclos": "GM Elaboración de Productos Alimenticios (perfil Productos Lácteos)",
+      "palabras": [
+        "lacteo",
+        "lactea",
+        "queso",
+        "quesera",
+        "queseria",
+        "yogur",
+        "mantequilla",
+        "leche",
+        "alimentari",
+        "agroalimentari",
+        "industria alimentaria",
+        "obrador",
+        "conserva",
+        "sobao",
+        "quesada",
+        "seguridad alimentaria",
+        "trazabilidad",
+        "odeca",
+        "denominacion de origen",
+        "indicacion geografica",
+        "sabe a norte",
+        "alimentos de cantabria"
+      ]
+    },
+    "maquinaria": {
+      "nombre": "Electromecánica de maquinaria",
+      "ciclos": "GM Electromecánica de Maquinaria (perfil Agroforestal e Industrial)",
+      "palabras": [
+        "electromecanica",
+        "maquinaria",
+        "tractor",
+        "cosechadora",
+        "john deere",
+        "new holland",
+        "fendt",
+        "claas",
+        "kubota",
+        "agricultura de precision",
+        "dron",
+        "robot",
+        "itv agricola",
+        "apero",
+        "taller",
+        "mecanico",
+        "motor diesel",
+        "hidraulic",
+        "mantenimiento de maquinaria",
+        "maquinaria forestal",
+        "maquinaria industrial",
+        "gasoleo agricola",
+        "biocombustible"
       ]
     },
     "quimica": {
-      "nombre": "Química ambiental",
+      "nombre": "Química y salud ambiental",
+      "ciclos": "GS Química y Salud Ambiental · GM Sanidad Ambiental Aplicada",
       "palabras": [
         "quimica ambiental",
         "salud ambiental",
         "sanidad ambiental",
+        "salud publica",
         "calidad del aire",
         "calidad del agua",
         "agua potable",
@@ -254,84 +383,19 @@
         "reciclaje",
         "legionela",
         "control de plagas",
+        "plaga urbana",
+        "desinfeccion",
+        "mosquito tigre",
+        "vectores",
         "suelos contaminados",
         "microplastico",
         "quimico",
         "quimica"
       ]
     },
-    "jardineria": {
-      "nombre": "Jardinería y paisajismo",
-      "palabras": [
-        "jardin",
-        "jardineria",
-        "paisajismo",
-        "paisaj",
-        "vivero",
-        "floristeria",
-        "flor ",
-        "flores",
-        "zonas verdes",
-        "arbol singular",
-        "poda",
-        "cesped"
-      ]
-    },
-    "alimentarias": {
-      "nombre": "Industrias alimentarias",
-      "palabras": [
-        "alimentari",
-        "agroalimentari",
-        "industria alimentaria",
-        "queso",
-        "quesera",
-        "conserva",
-        "anchoa",
-        "panaderia",
-        "obrador",
-        "embutido",
-        "sobao",
-        "quesada",
-        "seguridad alimentaria",
-        "odeca",
-        "denominacion de origen",
-        "indicacion geografica",
-        "sabe a norte",
-        "alimentos de cantabria"
-      ]
-    },
-    "maquinaria": {
-      "nombre": "Maquinaria y electromecánica",
-      "palabras": [
-        "maquinaria",
-        "tractor",
-        "cosechadora",
-        "john deere",
-        "new holland",
-        "fendt",
-        "agricultura de precision",
-        "dron",
-        "robot",
-        "itv agricola",
-        "apero",
-        "electromecanica",
-        "mecanica agricola",
-        "mecanico",
-        "taller",
-        "motor diesel",
-        "hidraulic",
-        "mantenimiento de maquinaria",
-        "vehiculos agricolas",
-        "vehiculo agricola",
-        "maquinaria forestal",
-        "gasoleo agricola",
-        "biocombustible",
-        "tractorista",
-        "cosechadoras"
-      ]
-    },
-    "fp": {
-      "nombre": "FP y educación",
+    "centro": {
+      "nombre": "El centro y la FP",
+      "ciclos": "Noticias del CIFP La Granja y de la FP agraria",
       "palabras": [
         "formacion profesional",
         " fp ",
@@ -344,7 +408,11 @@
         "alumnado",
         "estudiantes",
         "consejeria de educacion",
-        "curso de especializacion"
+        "curso de especializacion",
+        "certificado de profesionalidad",
+        "erasmus",
+        "graduacion",
+        "skills"
       ]
     }
   },

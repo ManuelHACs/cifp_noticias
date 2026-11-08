@@ -5,6 +5,20 @@ Noticiario que se actualiza solo con noticias sobre el CIFP La Granja y sobre ag
 - Web: https://manuelhacs.github.io/cifp_noticias/
 - RSS para suscribirse: https://manuelhacs.github.io/cifp_noticias/feed.xml
 
+## Áreas (según la oferta del centro)
+
+| Área | Ciclos relacionados |
+|---|---|
+| Agricultura y agroecología | FPB Actividades Agropecuarias · GM Producción Agropecuaria · GM Producción Agroecológica |
+| Ganadería y sanidad animal | GS Ganadería y Asistencia en Sanidad Animal |
+| Actividades ecuestres | GM Actividades Ecuestres |
+| Jardinería, floristería y paisajismo | FPB Agrojardinería y Composiciones Florales · GM Jardinería y Floristería · GS Paisajismo y Medio Rural |
+| Forestal y medio natural | GS Gestión Forestal y del Medio Natural |
+| Industrias alimentarias (lácteos) | GM Elaboración de Productos Alimenticios |
+| Electromecánica de maquinaria | GM Electromecánica de Maquinaria (agroforestal e industrial) |
+| Química y salud ambiental | GS Química y Salud Ambiental · GM Sanidad Ambiental Aplicada |
+| El centro y la FP | Noticias del propio CIFP (incluido el RSS de cifplagranja.com) |
+
 ## Cómo funciona
 
 1. Cada 3 horas (de 7:00 a 22:00, aprox.) GitHub Actions ejecuta `scripts/actualizar_noticias.py`.
