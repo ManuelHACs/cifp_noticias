@@ -3,7 +3,7 @@
 
   "titulo": "Noticiario CIFP La Granja",
   "url_sitio": "https://manuelhacs.github.io/cifp_noticias/",
-  "max_noticias": 200,
+  "max_noticias": 250,
   "dias_maximos": 45,
   "dias_maximos_cifp": 180,
 
@@ -50,5 +50,5 @@
   "palabras_cantabria": ["cantabria", "cantabro", "cantabra", "santander", "torrelavega", "medio cudeyo", "heras", "liebana", "campoo", "reinosa", "laredo", "castro urdiales", "besaya", "asón", "trasmiera", "cabarceno", "odeca", "pasiega", "tudanca"],
 
   "_ayuda_excluir": "Si un titular contiene alguna de estas palabras, no se publica.",
-  "excluir": ["horoscopo", "loteria", "futbol", "baloncesto", "racing de santander", "esquela"]
+  "excluir": ["horoscopo", "loteria", "futbol", "baloncesto", "racing de santander", "esquela", "nfl", "liga ", "champions"]
 }
