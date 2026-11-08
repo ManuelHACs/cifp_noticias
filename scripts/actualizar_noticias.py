@@ -159,8 +159,8 @@ class Clasificador:
             puntos[defecto] = puntos.get(defecto, 0) + 1  # pequeño empujón
         if not puntos:
             return None
-        # "fp" solo gana si no hay un área técnica clara
-        mejor = max(puntos, key=lambda k: (puntos[k] - (1 if k == "fp" else 0), k != "fp"))
+        # "centro" solo gana si no hay un área técnica clara
+        mejor = max(puntos, key=lambda k: (puntos[k] - (1 if k == "centro" else 0), k != "centro"))
         return mejor
 
     def ambito(self, titulo: str, resumen: str, defecto: str) -> str:
@@ -192,11 +192,15 @@ def procesar(items, origen: dict, clasif: Clasificador, es_google: bool, limite:
             continue
         if clasif.excluida(titulo):
             continue
-        defecto_area = origen.get("area") if es_google else None
+        aceptar_todo = origen.get("aceptar_todo", False)
+        defecto_area = origen.get("area") if (es_google or aceptar_todo) else None
         area = clasif.area(titulo, resumen, defecto_area)
         if area is None:
             continue  # feed general sin relación con nuestras áreas
-        ambito = clasif.ambito(titulo, resumen, origen.get("ambito", "nacional"))
+        if aceptar_todo and origen.get("ambito") == "cifp":
+            ambito = "cifp"  # noticias publicadas por el propio centro
+        else:
+            ambito = clasif.ambito(titulo, resumen, origen.get("ambito", "nacional"))
         salida.append({
             "id": clave_titulo(titulo),
             "titulo": titulo,
@@ -242,6 +246,11 @@ def main() -> int:
             anteriores = json.loads(SALIDA_JSON.read_text(encoding="utf-8")).get("noticias", [])
         except (ValueError, AttributeError):
             pass
+
+    # si se han renombrado o quitado áreas en config.json, se reclasifican las antiguas
+    for n in anteriores:
+        if n.get("area") not in cfg["areas"]:
+            n["area"] = clasif.area(n["titulo"], n.get("resumen", ""), "centro")
 
     por_id: dict[str, dict] = {}
     for n in anteriores + nuevas:  # las nuevas sobrescriben
