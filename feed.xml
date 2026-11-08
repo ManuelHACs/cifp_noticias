@@ -5,14 +5,14 @@
   <link>https://manuelhacs.github.io/cifp_noticias/</link>
   <description>Actualidad agraria, ganadera, forestal y agroalimentaria para el CIFP La Granja, Cantabria y España.</description>
   <language>es-ES</language>
-  <lastBuildDate>Sun, 08 Nov 2026 22:51:07 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 22:51:30 +0000</lastBuildDate>
   <atom:link href="https://manuelhacs.github.io/cifp_noticias/feed.xml" rel="self" type="application/rss+xml" />
   <item>
    <title>El Ministerio de Agricultura, Pesca y Alimentación establece la retirada del 12 % del aceite de oliva en la campaña 2026/2027</title>
    <link>https://news.google.com/rss/articles/CBMizwJBVV95cUxOeVFlS1lxZFlnU216MTdUTml5WjNxR2RuREZvTG5YLTU3empSSEtWcFRIU3JvdUh0N1gwVHBKVmxaMm8xRFYwSXVtQTdDaVFJRUpSWVpwaHlma0FyMXBEQUFjX3lsNmZMZHR2YXR2WHNZaU5QNVoycVBiNWRNa1JhMGhncVdDU1Z3UVk5LU1HUnVSX05TR3Z0ejYwZDdNR2lQM0hlazRnTlhBMDBNdlBIRGhoU01OVUVIOU43NnFKRUM3WVVSS1lONlNkTHY4RzBtWXlwNHlwLXg4bnliUllHZlVFMjR2YmItTXBxZXlYdlRSZG5MLVBKMXNPdzlvRFpUZFg4SXk0SkdCX3hrN0NDWkIzczNYR0tvOG96SFdJaG9rSWpiMkpuYTVaVWFiOTg5WFlsVGNvTXItRVdOM2xFblEwUzA4N2tZRENnZkU0aw?oc=5</link>
    <guid isPermaLink="false">016f724ea44eeedf</guid>
    <pubDate>Sun, 08 Nov 2026 21:53:36 +0000</pubDate>
-   <category>Agricultura</category>
+   <category>Agricultura y agroecología</category>
    <category>Nacional</category>
    <source url="https://news.google.com/rss/articles/CBMizwJBVV95cUxOeVFlS1lxZFlnU216MTdUTml5WjNxR2RuREZvTG5YLTU3empSSEtWcFRIU3JvdUh0N1gwVHBKVmxaMm8xRFYwSXVtQTdDaVFJRUpSWVpwaHlma0FyMXBEQUFjX3lsNmZMZHR2YXR2WHNZaU5QNVoycVBiNWRNa1JhMGhncVdDU1Z3UVk5LU1HUnVSX05TR3Z0ejYwZDdNR2lQM0hlazRnTlhBMDBNdlBIRGhoU01OVUVIOU43NnFKRUM3WVVSS1lONlNkTHY4RzBtWXlwNHlwLXg4bnliUllHZlVFMjR2YmItTXBxZXlYdlRSZG5MLVBKMXNPdzlvRFpUZFg4SXk0SkdCX3hrN0NDWkIzczNYR0tvOG96SFdJaG9rSWpiMkpuYTVaVWFiOTg5WFlsVGNvTXItRVdOM2xFblEwUzA4N2tZRENnZkU0aw?oc=5">Ministerio de Agricultura, Pesca y Alimentación</source>
    <description>Ministerio de Agricultura, Pesca y Alimentación · Nacional</description>
@@ -22,7 +22,7 @@
    <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPOENwOFl6MUZjVzQxMDFjU2s5aFgtUDRpQ1dYbHNiZm5GcTJZdUpPTDR4QmVWR1ZEMXNVMVRoa0J3U0lWNF8wVnFqVGdKXzFwSEc0eTk4V3BNUWZLTTJ2Slp1dkJSbk02VE1LRnRDTTZKZ1hzbnlIb1BwMWdoWnNFRVRyUThCdDZ6RHRWSi12S0RSYmZUa0J3?oc=5</link>
    <guid isPermaLink="false">e247a6e06bd0bf91</guid>
    <pubDate>Sun, 08 Nov 2026 20:00:28 +0000</pubDate>
-   <category>Ganadería</category>
+   <category>Ganadería y sanidad animal</category>
    <category>Nacional</category>
    <source url="https://news.google.com/rss/articles/CBMilwFBVV95cUxPOENwOFl6MUZjVzQxMDFjU2s5aFgtUDRpQ1dYbHNiZm5GcTJZdUpPTDR4QmVWR1ZEMXNVMVRoa0J3U0lWNF8wVnFqVGdKXzFwSEc0eTk4V3BNUWZLTTJ2Slp1dkJSbk02VE1LRnRDTTZKZ1hzbnlIb1BwMWdoWnNFRVRyUThCdDZ6RHRWSi12S0RSYmZUa0J3?oc=5">Agronews Castilla y León</source>
    <description>Agronews Castilla y León · Nacional</description>
@@ -32,27 +32,47 @@
    <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMTI4bUlqdzFKTWJHQVFHUjNiQ1pLQXdQcXpUbmMtWDYzT1UwbHc2dlVTdFFweWZtRm51TjRHYlc3bXdsYUtMYS1uTDhMVHVid1VrSUpWUl9JOTdEdDRjUUxFMnd3ZGFObDRsRkN0bnVCNXhyeGFqeU1YMkx2NmRYUG1hQkpjSUt2ODhTbXdpSzJ4R3RTR2ZjR2d6d0lYOWwzRTJCZk9LNl9MNTdxbjIzbk1pUTBHTEUtamJfMmpQekFBajg1U3VpeDRkbTRkMGhpSy1n0gHYAUFVX3lxTE50VUV6NlNJbFEwMXFhSkJxQU9lSHM2UDk1Yi1zc1F2bGlKTE1ONFlzeWprd0VnMVQ3YmcyWFBwMHQwQXBmRXlPSTd0RUNIdUx3M0szd095Sjd3OUpBc3J1LTg0R0NBcHNRODV4bTlXWGdjblA1b0VqUkl4RXJfYlFIOWZVVFRtUXRSdjdNWC03TGhTLTRqY0ozbFZ6VGozYXZnZEhZeERWbm9XemcwQ3Z0eVFLQ3czeTEwYnF5ME1EeG9Pb2Nad2F2X3pHdDlFNVh0YkFFcE82NA?oc=5</link>
    <guid isPermaLink="false">f3c34491ec9f2bb7</guid>
    <pubDate>Sun, 08 Nov 2026 19:23:41 +0000</pubDate>
-   <category>Forestal</category>
+   <category>Forestal y medio natural</category>
    <category>Nacional</category>
    <source url="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMTI4bUlqdzFKTWJHQVFHUjNiQ1pLQXdQcXpUbmMtWDYzT1UwbHc2dlVTdFFweWZtRm51TjRHYlc3bXdsYUtMYS1uTDhMVHVid1VrSUpWUl9JOTdEdDRjUUxFMnd3ZGFObDRsRkN0bnVCNXhyeGFqeU1YMkx2NmRYUG1hQkpjSUt2ODhTbXdpSzJ4R3RTR2ZjR2d6d0lYOWwzRTJCZk9LNl9MNTdxbjIzbk1pUTBHTEUtamJfMmpQekFBajg1U3VpeDRkbTRkMGhpSy1n0gHYAUFVX3lxTE50VUV6NlNJbFEwMXFhSkJxQU9lSHM2UDk1Yi1zc1F2bGlKTE1ONFlzeWprd0VnMVQ3YmcyWFBwMHQwQXBmRXlPSTd0RUNIdUx3M0szd095Sjd3OUpBc3J1LTg0R0NBcHNRODV4bTlXWGdjblA1b0VqUkl4RXJfYlFIOWZVVFRtUXRSdjdNWC03TGhTLTRqY0ozbFZ6VGozYXZnZEhZeERWbm9XemcwQ3Z0eVFLQ3czeTEwYnF5ME1EeG9Pb2Nad2F2X3pHdDlFNVh0YkFFcE82NA?oc=5">COPE</source>
    <description>COPE · Nacional</description>
+  </item>
+  <item>
+   <title>Lozoyuela se convierte en epicentro de agroecología al acoger la Asamblea Anual de la Red TERRAE</title>
+   <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNWmMzV3V5QjdiNHFiRVhEbXpiSVg5WnNmRGlRVXNFYWxxNk9YU1VMazM4elJSaW10TFRYU0N0Sm9xb2NtakRZX0gxMTNjaEJLZmZzbVFZbEVuZ0ZiSmRuaWVqNW9sRTBhNjRyY1dzbXNGbEdieWpBZ3l6Wmc1Q09rNjV6NWlZc29qUjhQVkJwNWlmTXA1WG9Gb2NoRVRrYmMzSzdFa3IzeUNBOGg1ZFVNWkphUlhzMGw1anZGLUdGczRkS1pxWXBURE9OZmdpc00?oc=5</link>
+   <guid isPermaLink="false">10c6e8e52d0c0ab4</guid>
+   <pubDate>Sun, 08 Nov 2026 18:35:57 +0000</pubDate>
+   <category>Agricultura y agroecología</category>
+   <category>Nacional</category>
+   <source url="https://news.google.com/rss/articles/CBMizwFBVV95cUxNWmMzV3V5QjdiNHFiRVhEbXpiSVg5WnNmRGlRVXNFYWxxNk9YU1VMazM4elJSaW10TFRYU0N0Sm9xb2NtakRZX0gxMTNjaEJLZmZzbVFZbEVuZ0ZiSmRuaWVqNW9sRTBhNjRyY1dzbXNGbEdieWpBZ3l6Wmc1Q09rNjV6NWlZc29qUjhQVkJwNWlmTXA1WG9Gb2NoRVRrYmMzSzdFa3IzeUNBOGg1ZFVNWkphUlhzMGw1anZGLUdGczRkS1pxWXBURE9OZmdpc00?oc=5">Senda Norte</source>
+   <description>Senda Norte · Nacional</description>
   </item>
   <item>
    <title>El Gobierno destina 2,4 millones a agricultores</title>
    <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOWEFqSmFfU2MtUFptbGVXcnRpSkNYUnZkV2xITVRnelBJQTUxQmZpd0lqeERfdmp2NnhsRENHcVh1d0VSNVdHanY5eGpMMEZYampmemZienBIOVNZMXlaWkhwTTlGSDlOZnhIRUx1Z0U1Nk9pa2FkNm84cF9SN0NnV25SeW1LdkRES0RVcDd5TzNjMlRKVVJ0TU5jQkRZRDJSTmZBVtIBqgFBVV95cUxPcjFhcXRDWW04aWkzclNFNVRPVzd2MFEzWXJDM2R6eU9ZYm5FZXVGQWNRZHE4VGpIcGxLeG1vTzhmNm1EakNqWG5KUGs4RkdudDc5X1JNYm9SRjNWeUpVWWE4QjhfMmNfdmIxSWZiaUprLVlVS2s5OE9kQWVpRHdQYVlhUkxEenlFVEl4RktSb0xJWHJQUi1aMjY1MlhWZW1CV1dPbkF6d1lqZw?oc=5</link>
    <guid isPermaLink="false">996e35218ca82f3a</guid>
    <pubDate>Sun, 08 Nov 2026 18:29:52 +0000</pubDate>
-   <category>Agricultura</category>
+   <category>Agricultura y agroecología</category>
    <category>Nacional</category>
    <source url="https://news.google.com/rss/articles/CBMipAFBVV95cUxOWEFqSmFfU2MtUFptbGVXcnRpSkNYUnZkV2xITVRnelBJQTUxQmZpd0lqeERfdmp2NnhsRENHcVh1d0VSNVdHanY5eGpMMEZYampmemZienBIOVNZMXlaWkhwTTlGSDlOZnhIRUx1Z0U1Nk9pa2FkNm84cF9SN0NnV25SeW1LdkRES0RVcDd5TzNjMlRKVVJ0TU5jQkRZRDJSTmZBVtIBqgFBVV95cUxPcjFhcXRDWW04aWkzclNFNVRPVzd2MFEzWXJDM2R6eU9ZYm5FZXVGQWNRZHE4VGpIcGxLeG1vTzhmNm1EakNqWG5KUGs4RkdudDc5X1JNYm9SRjNWeUpVWWE4QjhfMmNfdmIxSWZiaUprLVlVS2s5OE9kQWVpRHdQYVlhUkxEenlFVEl4RktSb0xJWHJQUi1aMjY1MlhWZW1CV1dPbkF6d1lqZw?oc=5">Ideal</source>
    <description>Ideal · Nacional</description>
+  </item>
+  <item>
+   <title>El Gobierno da prioridad al bienestar animal frente a la ganadería</title>
+   <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUWE5NHhQRmdram9SWG1tRHR3OHdKS1Ixc3VVY3VZR2JVLTBJQ1FCbU5YSklJRzl1bUVCWktIS2ozZFRmRW9lbmtTUkhwX0thZ2pGZ2R5dzdtZDExOFVaUnlBNGdSUXNVbDdqM0RVc2lGNzV6ZGRlTk5LalRIbHpFbnNfM3c4SnJGVDM0Z0dXN1dqQ0ltY1QtdXhLTm5WOEoyQlFqNFZfRG5VZXZ1RFFhM2FaYzdINXM0aE5fcUFDa1Q5Y0hfbnJwZw?oc=5</link>
+   <guid isPermaLink="false">e830fb55abcb570a</guid>
+   <pubDate>Sun, 08 Nov 2026 17:58:26 +0000</pubDate>
+   <category>Ganadería y sanidad animal</category>
+   <category>Nacional</category>
+   <source url="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUWE5NHhQRmdram9SWG1tRHR3OHdKS1Ixc3VVY3VZR2JVLTBJQ1FCbU5YSklJRzl1bUVCWktIS2ozZFRmRW9lbmtTUkhwX0thZ2pGZ2R5dzdtZDExOFVaUnlBNGdSUXNVbDdqM0RVc2lGNzV6ZGRlTk5LalRIbHpFbnNfM3c4SnJGVDM0Z0dXN1dqQ0ltY1QtdXhLTm5WOEoyQlFqNFZfRG5VZXZ1RFFhM2FaYzdINXM0aE5fcUFDa1Q5Y0hfbnJwZw?oc=5">The Portugal News</source>
+   <description>The Portugal News · Nacional</description>
   </item>
   <item>
    <title>Los incendios arrasan casi 300.000 hectáreas en España, el 44% de toda la superficie quemada en la Unión...</title>
    <link>https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVUtva1J2WmVfR1dOM1J0a25oa1VoRERfTlJobkR3ampUekRHSm9OM1VxbUlWZXVfeUJNZ1JvclJvekUwUERoRktWQmljZVJMUmZKTWdyMjFTUlFyTmd5U2xSV0pzS3lPaldRdVM5WmtuQXcyc053V29tTnFjZ0JNVjNZV00wS0VTWHBLXzlVSFBaci1CRU52SXVXTVB4OGVSYzBiMmxMb29iOW0zSmowRW5JVnRveFp2bF90TWNxUGwyakNSS0NISm8zeDVVRzJVUFZsdFM0eDM3NTJ1R0hkNUlkTTVXeDlHLVHSAeoBQVVfeXFMUFVLb2tSdlplX0dXTjNSdGtuaGtVaEREX05SaG5Ed2pqVHpER0pvTjNVcW1JVmV1X3lCTWdSb3JSb3pFMFBEaEZLVkJpY2VSTFJmSk1ncjIxU1JRck5neVNsUldKc0t5T2pXUXVTOVprbkF3MnNOd1dvbU5xY2dCTVYzWVdNMEtFU1hwS185VUhQWnItQkVOdkl1V01QeDhlUmMwYjJsTG9vYjltM0pqMEVuSVZ0b3hadmxfdE1jcVBsMmpDUktDSEpvM3g1VUcyVVBWbHRTNHgzNzUydUdIZDVJZE01V3g5Ry1R?oc=5</link>
    <guid isPermaLink="false">dc7dc97681116f66</guid>
    <pubDate>Sun, 08 Nov 2026 15:45:49 +0000</pubDate>
-   <category>Forestal</category>
+   <category>Forestal y medio natural</category>
    <category>Nacional</category>
    <source url="https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVUtva1J2WmVfR1dOM1J0a25oa1VoRERfTlJobkR3ampUekRHSm9OM1VxbUlWZXVfeUJNZ1JvclJvekUwUERoRktWQmljZVJMUmZKTWdyMjFTUlFyTmd5U2xSV0pzS3lPaldRdVM5WmtuQXcyc053V29tTnFjZ0JNVjNZV00wS0VTWHBLXzlVSFBaci1CRU52SXVXTVB4OGVSYzBiMmxMb29iOW0zSmowRW5JVnRveFp2bF90TWNxUGwyakNSS0NISm8zeDVVRzJVUFZsdFM0eDM3NTJ1R0hkNUlkTTVXeDlHLVHSAeoBQVVfeXFMUFVLb2tSdlplX0dXTjNSdGtuaGtVaEREX05SaG5Ed2pqVHpER0pvTjNVcW1JVmV1X3lCTWdSb3JSb3pFMFBEaEZLVkJpY2VSTFJmSk1ncjIxU1JRck5neVNsUldKc0t5T2pXUXVTOVprbkF3MnNOd1dvbU5xY2dCTVYzWVdNMEtFU1hwS185VUhQWnItQkVOdkl1V01QeDhlUmMwYjJsTG9vYjltM0pqMEVuSVZ0b3hadmxfdE1jcVBsMmpDUktDSEpvM3g1VUcyVVBWbHRTNHgzNzUydUdIZDVJZE01V3g5Ry1R?oc=5">La Gaceta de la Iberosfera</source>
    <description>La Gaceta de la Iberosfera · Nacional</description>
@@ -62,7 +82,7 @@
    <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0dzR1gyaTk4dkxvSGY1eFc5c2w1eHZLeDZxVXFNN01ZNmRVT05sUlE1b1F1QzdEUzl0eTZycjJZUzB3LXVweXBqOERGMlF4dGt5VXpxck1Sa2hMbGpsMGdoSDlFQmhfbXVHb2VpMkxCeVN5MDg2dlY0TkNsdHlZcHptSzlwUWEyZm5yU0R6MUI0YTAwaWk5aVF0cHBKU3M3bUtNWE1IYXRqbXM?oc=5</link>
    <guid isPermaLink="false">68ede7e80ed1cfde</guid>
    <pubDate>Sun, 08 Nov 2026 15:34:28 +0000</pubDate>
-   <category>Agricultura</category>
+   <category>Agricultura y agroecología</category>
    <category>Nacional</category>
    <source url="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0dzR1gyaTk4dkxvSGY1eFc5c2w1eHZLeDZxVXFNN01ZNmRVT05sUlE1b1F1QzdEUzl0eTZycjJZUzB3LXVweXBqOERGMlF4dGt5VXpxck1Sa2hMbGpsMGdoSDlFQmhfbXVHb2VpMkxCeVN5MDg2dlY0TkNsdHlZcHptSzlwUWEyZm5yU0R6MUI0YTAwaWk5aVF0cHBKU3M3bUtNWE1IYXRqbXM?oc=5">Cadiznoticias</source>
    <description>Cadiznoticias · Nacional</description>
@@ -72,7 +92,7 @@
    <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa1V6Vk5xRk94Mmw2ZVFyRGtra3NjUm5fcFNlQ1pGMGRXNnNBZnlkanE3MnlheEVXUURwaTJkMERVenFRWWlIZWRjb00zZ2t4SXNiLVZCRmtJVlRHcnZhVmtQQzRPRUR1SE9MLUxidzJzZE4wNGp3RWhvdjFkYWNYSHBHZDhFVUJDTlNUR3NJcnV0Z3RWY3lVQU4zVmtqMDVZd0RtWkFULW1PMHJRVFpMMzRQQ3JxZTB3NFRoakpTa2sxLWI4a0hmeTZSenk5R19IWndxQ3ViV210eDBUUkE?oc=5</link>
    <guid isPermaLink="false">09eb0540e0ec1ef0</guid>
    <pubDate>Sun, 08 Nov 2026 13:46:11 +0000</pubDate>
-   <category>Química ambiental</category>
+   <category>Química y salud ambiental</category>
    <category>Nacional</category>
    <source url="https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa1V6Vk5xRk94Mmw2ZVFyRGtra3NjUm5fcFNlQ1pGMGRXNnNBZnlkanE3MnlheEVXUURwaTJkMERVenFRWWlIZWRjb00zZ2t4SXNiLVZCRmtJVlRHcnZhVmtQQzRPRUR1SE9MLUxidzJzZE4wNGp3RWhvdjFkYWNYSHBHZDhFVUJDTlNUR3NJcnV0Z3RWY3lVQU4zVmtqMDVZd0RtWkFULW1PMHJRVFpMMzRQQ3JxZTB3NFRoakpTa2sxLWI4a0hmeTZSenk5R19IWndxQ3ViV210eDBUUkE?oc=5">Rota al dia</source>
    <description>Rota al dia · Nacional</description>
@@ -82,7 +102,7 @@
    <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbmJWM0pPY3pTY3BUM0NscmFIbEJWSk03Ymp5UEUwbXVYLVdWV1F3X3BFVmZlZWd6cVRqMzFubTRCbDR3YXNSaEhHbVRwczRMSEdBaW01WVRrZEg5YUt2RlJyN0JmM2huOXp5YUREUnhuZ0lVSzg4QVNfakMzR3l3YXg0MTlFWU1GcEo4cmExRk4xSkR0YjU2bS1Xa2FENFUwT29qNlpOVDVhX01NUWtFT3pFY0IxY3lkbk5IS2FKeWdTTkhPZzRxbURMN1h0dDlWcWVkemR6RTN0U2JON05xeXVsbkM?oc=5</link>
    <guid isPermaLink="false">68d2aa41ec0343d4</guid>
    <pubDate>Sun, 08 Nov 2026 13:32:52 +0000</pubDate>
-   <category>Medio ambiente</category>
+   <category>Forestal y medio natural</category>
    <category>Cantabria</category>
    <source url="https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbmJWM0pPY3pTY3BUM0NscmFIbEJWSk03Ymp5UEUwbXVYLVdWV1F3X3BFVmZlZWd6cVRqMzFubTRCbDR3YXNSaEhHbVRwczRMSEdBaW01WVRrZEg5YUt2RlJyN0JmM2huOXp5YUREUnhuZ0lVSzg4QVNfakMzR3l3YXg0MTlFWU1GcEo4cmExRk4xSkR0YjU2bS1Xa2FENFUwT29qNlpOVDVhX01NUWtFT3pFY0IxY3lkbk5IS2FKeWdTTkhPZzRxbURMN1h0dDlWcWVkemR6RTN0U2JON05xeXVsbkM?oc=5">Europa Press</source>
    <description>Europa Press · Cantabria</description>
@@ -92,7 +112,7 @@
    <link>https://news.google.com/rss/articles/CBMiggJBVV95cUxNWl95Qnd2SGhtaEJTczE1TTlxMTkwUTVGNDItOWp5TUZkeGdpTzlDRVVKM0l5NmtxMlpsM2dHek1IYjZLUXJpU01jTEJ5UUh4SmlOV0xSQ1FXblBIekd2dDBBS051S3BpVXJTUDg0dVVlY1RuSDR4dVdra2VicV9WREVPRGpBTW1EVlExbEZ3SnN2TW9Nak8yYWh2cjgwNHFkbTlDWWo2TS1kYU5CV1BaLV82eWlhMFFhNGVULUNzdFF2ZWs3YW53NDNDRFY1U2VzRTV5dWVIUGxNWmxfbDN0VU5fUzNOMXR6eE1HS2VIVnFUQ2hZZkJBZ010Wkdhc2tNSkE?oc=5</link>
    <guid isPermaLink="false">fce2354965e58029</guid>
    <pubDate>Sun, 08 Nov 2026 12:45:49 +0000</pubDate>
-   <category>Jardinería y paisajismo</category>
+   <category>Jardinería, floristería y paisajismo</category>
    <category>Cantabria</category>
    <source url="https://news.google.com/rss/articles/CBMiggJBVV95cUxNWl95Qnd2SGhtaEJTczE1TTlxMTkwUTVGNDItOWp5TUZkeGdpTzlDRVVKM0l5NmtxMlpsM2dHek1IYjZLUXJpU01jTEJ5UUh4SmlOV0xSQ1FXblBIekd2dDBBS051S3BpVXJTUDg0dVVlY1RuSDR4dVdra2VicV9WREVPRGpBTW1EVlExbEZ3SnN2TW9Nak8yYWh2cjgwNHFkbTlDWWo2TS1kYU5CV1BaLV82eWlhMFFhNGVULUNzdFF2ZWs3YW53NDNDRFY1U2VzRTV5dWVIUGxNWmxfbDN0VU5fUzNOMXR6eE1HS2VIVnFUQ2hZZkJBZ010Wkdhc2tNSkE?oc=5">Europa Press</source>
    <description>Europa Press · Cantabria</description>
@@ -102,7 +122,7 @@
    <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTZ2Nk5HLUhqeUNHdTBSNUFOZmpIWUhSNkhwVHR1QnRVLXN4enM3TDdjdFliWGJPbFFKdEtQVDRfbnQ2dERxaTFpeDJTNTd4U3pYUFA5NWtHYk5kdk5QemdnWjNMeUJaN0Jjd3l2cWpGTExKQXJtTWxoZ2VQX1NkQ3hnVTk4UkZRZFlWa3BhalJXdjZXVDVXdUpSenFGNmNUQ05fWkJMSWhxYnF0aUFFRE1WRm92dw?oc=5</link>
    <guid isPermaLink="false">b769d3cad213fc25</guid>
    <pubDate>Sun, 08 Nov 2026 11:47:47 +0000</pubDate>
-   <category>Agricultura</category>
+   <category>Agricultura y agroecología</category>
    <category>Nacional</category>
    <source url="https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTZ2Nk5HLUhqeUNHdTBSNUFOZmpIWUhSNkhwVHR1QnRVLXN4enM3TDdjdFliWGJPbFFKdEtQVDRfbnQ2dERxaTFpeDJTNTd4U3pYUFA5NWtHYk5kdk5QemdnWjNMeUJaN0Jjd3l2cWpGTExKQXJtTWxoZ2VQX1NkQ3hnVTk4UkZRZFlWa3BhalJXdjZXVDVXdUpSenFGNmNUQ05fWkJMSWhxYnF0aUFFRE1WRm92dw?oc=5">https://tuperiodico.soy/</source>
    <description>https://tuperiodico.soy/ · Nacional</description>
@@ -112,17 +132,27 @@
    <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxObk1LUWZUVUJMQm82NnhCTTVrYTJSNmM4RTNwSUdfbGdPY1BSbnpzUkZBdFhUMUdCUENheWlkZlJ6czdzb0hVMnBKaTQxSW53eGNPYmdpVmkyT09IOTBRd25HejhOYTR1aDNFVnF2X3NJbjA2QzJPRzhLX0JWOE1Wa1M5M2o4V0VQeTU3cFgya2tWeS1lSTFYUDAxcVlPaTBaUmtOS0NjekpEWHdWeGFJSkIwalQzcUxfQlpIRjZWUnE0bkJLRXdtejVXcDNvdjjSAdQBQVVfeXFMUEhLSEI2WloySk04eVFXaW90WkNTNFY0eU5jVldjb1ktQ1FLaTQ5cnVlYUdYSEJoN2RMUjhFMGZrYk92RWxhcUh3bmJaTXF0b1FGLXFVRTdLV2p3M3N2RUtzMGpjS0haVVZ0bk5ZbXplUUtSeEg0RkZKaC1ZTDV3TmRRWG5naFd3TWVTQVNDS3ZURXB4eTJ6QnpzOFY1MUZ0ZTJxSGZXWkQzZXQ3cFJJMXU2TzRHeDNvZTFNTXJrR0JFSDJ2UERUdUxZWVNOZTZHUkx1MnA?oc=5</link>
    <guid isPermaLink="false">208c95053ed63419</guid>
    <pubDate>Sun, 08 Nov 2026 11:34:58 +0000</pubDate>
-   <category>Forestal</category>
+   <category>Forestal y medio natural</category>
    <category>Cantabria</category>
    <source url="https://news.google.com/rss/articles/CBMizwFBVV95cUxObk1LUWZUVUJMQm82NnhCTTVrYTJSNmM4RTNwSUdfbGdPY1BSbnpzUkZBdFhUMUdCUENheWlkZlJ6czdzb0hVMnBKaTQxSW53eGNPYmdpVmkyT09IOTBRd25HejhOYTR1aDNFVnF2X3NJbjA2QzJPRzhLX0JWOE1Wa1M5M2o4V0VQeTU3cFgya2tWeS1lSTFYUDAxcVlPaTBaUmtOS0NjekpEWHdWeGFJSkIwalQzcUxfQlpIRjZWUnE0bkJLRXdtejVXcDNvdjjSAdQBQVVfeXFMUEhLSEI2WloySk04eVFXaW90WkNTNFY0eU5jVldjb1ktQ1FLaTQ5cnVlYUdYSEJoN2RMUjhFMGZrYk92RWxhcUh3bmJaTXF0b1FGLXFVRTdLV2p3M3N2RUtzMGpjS0haVVZ0bk5ZbXplUUtSeEg0RkZKaC1ZTDV3TmRRWG5naFd3TWVTQVNDS3ZURXB4eTJ6QnpzOFY1MUZ0ZTJxSGZXWkQzZXQ3cFJJMXU2TzRHeDNvZTFNTXJrR0JFSDJ2UERUdUxZWVNOZTZHUkx1MnA?oc=5">Ifomo Noticias 24h</source>
    <description>Ifomo Noticias 24h · Cantabria</description>
+  </item>
+  <item>
+   <title>Juzgan a un monitor de hípica por agredir sexualmente a una alumna menor en Menorca</title>
+   <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxOTENUbGMtWUs2b2JldU5ZN2hyU05nUVBHTGlBMnV2VkRuWjlENEF4Q3FTU0FKWVhnTE9DUHp5RUxLTnJVS25NbnBiMHRnam5MbGpfMGNHVW5fOEQ4aWJVcGtjX1NnSU4yaUU2UHZETG95TWIwcm9IaUdPMjV4YklQQndjSkt4UURkb3N6TTMyZHc2Nks5LXdnRUJneXlUVEl2Njg1VGZDZGtEVk0tWEMtQTgxNEh3cmVlM055a2hiUnFpY2VrWHNrcWNPWQ?oc=5</link>
+   <guid isPermaLink="false">70937bb416bc673b</guid>
+   <pubDate>Sun, 08 Nov 2026 11:24:48 +0000</pubDate>
+   <category>Actividades ecuestres</category>
+   <category>Cantabria</category>
+   <source url="https://news.google.com/rss/articles/CBMiywFBVV95cUxOTENUbGMtWUs2b2JldU5ZN2hyU05nUVBHTGlBMnV2VkRuWjlENEF4Q3FTU0FKWVhnTE9DUHp5RUxLTnJVS25NbnBiMHRnam5MbGpfMGNHVW5fOEQ4aWJVcGtjX1NnSU4yaUU2UHZETG95TWIwcm9IaUdPMjV4YklQQndjSkt4UURkb3N6TTMyZHc2Nks5LXdnRUJneXlUVEl2Njg1VGZDZGtEVk0tWEMtQTgxNEh3cmVlM055a2hiUnFpY2VrWHNrcWNPWQ?oc=5">Europa Press</source>
+   <description>Europa Press · Cantabria</description>
   </item>
   <item>
    <title>El Ayuntamiento de Valladolid desactiva la 'Situación 2, aviso' por contaminación de partículas en suspensión</title>
    <link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxONGxJNjIwemJnVmtLNFlCa3B3TUlEVjNabkZ2SmNuRDcwY0JnQzJBYmwwaENQZWJwVHk3QnU5NHQ0am05RVh5dFRSbDhoeGtMNVNMclFVQVFOdUVIV040UlVZY25HWU0yM1NoV1hVUU4zZGxPSU56VGZMV3JoaVRWNFdsZ3ZOUDFMaTY1cU5uM2NvU2lUb2JDb093U052cm14MGZvNklncElOWnhZOE1heGtxbllQSWhpQ2tfaXdjbS00OW1tLTdQTzEwakpHRllKeFlXQjZoNng4VXJaRGQtQTR1ZDg3bFlQQ2FBbw?oc=5</link>
    <guid isPermaLink="false">627caf283ea41776</guid>
    <pubDate>Sun, 08 Nov 2026 10:52:52 +0000</pubDate>
-   <category>Química ambiental</category>
+   <category>Química y salud ambiental</category>
    <category>Cantabria</category>
    <source url="https://news.google.com/rss/articles/CBMi7AFBVV95cUxONGxJNjIwemJnVmtLNFlCa3B3TUlEVjNabkZ2SmNuRDcwY0JnQzJBYmwwaENQZWJwVHk3QnU5NHQ0am05RVh5dFRSbDhoeGtMNVNMclFVQVFOdUVIV040UlVZY25HWU0yM1NoV1hVUU4zZGxPSU56VGZMV3JoaVRWNFdsZ3ZOUDFMaTY1cU5uM2NvU2lUb2JDb093U052cm14MGZvNklncElOWnhZOE1heGtxbllQSWhpQ2tfaXdjbS00OW1tLTdQTzEwakpHRllKeFlXQjZoNng4VXJaRGQtQTR1ZDg3bFlQQ2FBbw?oc=5">Europa Press</source>
    <description>Europa Press · Cantabria</description>
@@ -132,7 +162,7 @@
    <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxObUZvNC1zWC1uSkNMeUVzcGprcXNtZ2V6SDF4enF2bGF2OEx1eVpHM3NFOTRPUmhRN3dIbmtSUm5kbkdoNlE4MktiZzRIOU8zbWRGYzU3a3VJMTc5Q2ZzYzlZODUtek1saFhGVTEwamlOdWZHbnBRc1RGV25MUEwzN3M3dl9neGdaUDJaMVpqb2g1eWZyWWY5VzBjNkNkTWhENDRGRk5vb3F1NjAtNThKaWFOd3BDcHUzSFVRQkltT2Yza1BELU96OFd6bVZSYUgxTXZzeVhybXNqcXJB0gHwAUFVX3lxTFBzaHBpWmU1QkNreVdQLTBUanpQX1lwWVRVWk1PM1I0VFdEN1VnaDZ1U2VoX09WMFBOczgwYVZ4aDdOOUlpYkVmb2djWEhoaFdETjNseUZmT2dNM195enEwZ1NYbksyZVVfYjI0YjhGWnlSSWQxVzBOYWtaYURmenRpam1fV0wzTFdVN1JxMVlSQWVDRTJ3S2xmRENSaldreTYzZTVQdURjUWk5VDFXQ0NscjJrQlRlTDk5LWNYS3ZOZ0ZUODA4RkxDdVppQWNLTFQxMVpjMWxGSjhHUU9KZ3FWWmFvLUZtX3lTd0VzejBSZQ?oc=5</link>
    <guid isPermaLink="false">c6ea57eda051c500</guid>
    <pubDate>Sun, 08 Nov 2026 10:48:33 +0000</pubDate>
-   <category>Química ambiental</category>
+   <category>Química y salud ambiental</category>
    <category>Cantabria</category>
    <source url="https://news.google.com/rss/articles/CBMi3AFBVV95cUxObUZvNC1zWC1uSkNMeUVzcGprcXNtZ2V6SDF4enF2bGF2OEx1eVpHM3NFOTRPUmhRN3dIbmtSUm5kbkdoNlE4MktiZzRIOU8zbWRGYzU3a3VJMTc5Q2ZzYzlZODUtek1saFhGVTEwamlOdWZHbnBRc1RGV25MUEwzN3M3dl9neGdaUDJaMVpqb2g1eWZyWWY5VzBjNkNkTWhENDRGRk5vb3F1NjAtNThKaWFOd3BDcHUzSFVRQkltT2Yza1BELU96OFd6bVZSYUgxTXZzeVhybXNqcXJB0gHwAUFVX3lxTFBzaHBpWmU1QkNreVdQLTBUanpQX1lwWVRVWk1PM1I0VFdEN1VnaDZ1U2VoX09WMFBOczgwYVZ4aDdOOUlpYkVmb2djWEhoaFdETjNseUZmT2dNM195enEwZ1NYbksyZVVfYjI0YjhGWnlSSWQxVzBOYWtaYURmenRpam1fV0wzTFdVN1JxMVlSQWVDRTJ3S2xmRENSaldreTYzZTVQdURjUWk5VDFXQ0NscjJrQlRlTDk5LWNYS3ZOZ0ZUODA4RkxDdVppQWNLTFQxMVpjMWxGSjhHUU9KZ3FWWmFvLUZtX3lTd0VzejBSZQ?oc=5">Cadena SER</source>
    <description>Cadena SER · Cantabria</description>
@@ -142,7 +172,7 @@
    <link>https://agroinformacion.com/piden-que-la-rebaja-fiscal-por-gasoleo-y-fertilizantes-se-extienda-a-2027-y-que-llegue-a-todas-las-zonas-castigadas/</link>
    <guid isPermaLink="false">22f770288230a99d</guid>
    <pubDate>Sun, 08 Nov 2026 10:39:32 +0000</pubDate>
-   <category>Agricultura</category>
+   <category>Agricultura y agroecología</category>
    <category>Nacional</category>
    <source url="https://agroinformacion.com/piden-que-la-rebaja-fiscal-por-gasoleo-y-fertilizantes-se-extienda-a-2027-y-que-llegue-a-todas-las-zonas-castigadas/">Agroinformación</source>
    <description>La Unión de Agricultores y Ganaderos de Aragón (UAGA-COAG) valora positivamente las reducciones fiscales para el sector agrario incluidas en la Orden HAC/1161/2026, publicada en el BOE del 5 de noviembre. Aunque se trata de la orden de módulos del IRPF para…</description>
@@ -152,7 +182,7 @@
    <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPWG5kdG9BQXFnSS13RlhUTGNWUHo2aW1Kbmhxa201eUlYTW9xWVdRRnI4VEZIZjU0d05Jc21BdkRSVmhtMlRyZ1BOSWo2d1hkV2VlLUJrbGRTRkpWYzN1QTJjV3VTMjFGMlVHTmZyN01lWHhIbVR2RGNxdG01a1pYNDRGT19xZTU3SzEtMHprNm45eHJ4NmE0dV8yemd4NHIxTEo1TDRtMVRGenJkQXVBM0VkelplVkJkRkE?oc=5</link>
    <guid isPermaLink="false">367ec8a67399df5a</guid>
    <pubDate>Sun, 08 Nov 2026 10:37:01 +0000</pubDate>
-   <category>Forestal</category>
+   <category>Forestal y medio natural</category>
    <category>Cantabria</category>
    <source url="https://news.google.com/rss/articles/CBMiugFBVV95cUxPWG5kdG9BQXFnSS13RlhUTGNWUHo2aW1Kbmhxa201eUlYTW9xWVdRRnI4VEZIZjU0d05Jc21BdkRSVmhtMlRyZ1BOSWo2d1hkV2VlLUJrbGRTRkpWYzN1QTJjV3VTMjFGMlVHTmZyN01lWHhIbVR2RGNxdG01a1pYNDRGT19xZTU3SzEtMHprNm45eHJ4NmE0dV8yemd4NHIxTEo1TDRtMVRGenJkQXVBM0VkelplVkJkRkE?oc=5">Europa Press</source>
    <description>Europa Press · Cantabria</description>
@@ -162,17 +192,27 @@
    <link>https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZjdESmtpNy03MkpkUXB1RjgxRmtxa1VNWkwyVTZ2dmkyRWJMWG5ZUGxveXUtdVFxeUNwTXdPbjJNaE9lNXdUaW5KSWp2V3lBWWJyMkN6YWFRYU51VmJDQzlQcm5jTXhHUmZEVDdnd042Nndzdno3dzZwRC1Kc0NzUTJ5WnQyWGhRRVlOOGJFZ1o5cVhKX2ZEcklYT2h3VUs2U0lhSU8zYnF3dFc2UENuZjk3RVJBTGJucVc2NGZFdlB2NEx5bTk1Y2czcGtPTzlwVE9fUFJFOGlsbU9ySnJiaW1LemZMcTNKMmt0TzNtVdIB9AFBVV95cUxPdEJHNEdfTF8xWFd6RjVRLW9Bb1Njb0ZKQ0xSYi1LcE1HUWYzVEZKSmI5LUp6MUpUVFJNR01uakJJR2V4NUxlR3JkZDBLX0V2NDVnMVN2azlPT0pMdTYzcGkwN1BCXzhOay1VZnZLYXRkaUNmazJia3RtWHJIa0ZMWmV2LVZpWnlZeEZ6Tk9yOXRFY04xNUtwNkp4ZlE5a29OOFRvdnFvMGpRRDdDMDU5VWNrMUcwT2xRY2JVSHAtcS01X0FzQTNqSHRlcWI0R25FNm9FYUM0MFM0WVZXWVN4bTV2a3dDeDBVQ1Mtc2p6aE91NFdN?oc=5</link>
    <guid isPermaLink="false">3aed4e89c791015c</guid>
    <pubDate>Sun, 08 Nov 2026 10:33:33 +0000</pubDate>
-   <category>Forestal</category>
+   <category>Forestal y medio natural</category>
    <category>Cantabria</category>
    <source url="https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZjdESmtpNy03MkpkUXB1RjgxRmtxa1VNWkwyVTZ2dmkyRWJMWG5ZUGxveXUtdVFxeUNwTXdPbjJNaE9lNXdUaW5KSWp2V3lBWWJyMkN6YWFRYU51VmJDQzlQcm5jTXhHUmZEVDdnd042Nndzdno3dzZwRC1Kc0NzUTJ5WnQyWGhRRVlOOGJFZ1o5cVhKX2ZEcklYT2h3VUs2U0lhSU8zYnF3dFc2UENuZjk3RVJBTGJucVc2NGZFdlB2NEx5bTk1Y2czcGtPTzlwVE9fUFJFOGlsbU9ySnJiaW1LemZMcTNKMmt0TzNtVdIB9AFBVV95cUxPdEJHNEdfTF8xWFd6RjVRLW9Bb1Njb0ZKQ0xSYi1LcE1HUWYzVEZKSmI5LUp6MUpUVFJNR01uakJJR2V4NUxlR3JkZDBLX0V2NDVnMVN2azlPT0pMdTYzcGkwN1BCXzhOay1VZnZLYXRkaUNmazJia3RtWHJIa0ZMWmV2LVZpWnlZeEZ6Tk9yOXRFY04xNUtwNkp4ZlE5a29OOFRvdnFvMGpRRDdDMDU5VWNrMUcwT2xRY2JVSHAtcS01X0FzQTNqSHRlcWI0R25FNm9FYUM0MFM0WVZXWVN4bTV2a3dDeDBVQ1Mtc2p6aE91NFdN?oc=5">eldiariocantabria.es</source>
    <description>eldiariocantabria.es · Cantabria</description>
+  </item>
+  <item>
+   <title>La ganaderia ovina española se muere ante la indiferencia de las administraciones</title>
+   <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdFFxMkdKV3BZT2tNYm5ZRmdfMlRTeUJNc25DVFhqWGVQZUdfRUhNUHNILWVlTWxMYkJITHhkTWdfQndGX1lKNS04UXpYRkkzMXQ4SzY0SFlCRUFId0p0NC1WbmkybUtJVW9CMC1DUlNHUFZTTExTX3NGd0FSWmNRbkFMSWFRamNUOG1fb2wtTlRqZUxTYUp0aVAyb3YyX2FCTExCWkVydVdEaGlFaWZ1UWx4VVVDSE1OZGNqTnR1VHFuWHRUVTVPUDlzRzlJNm9oeFHSAdIBQVVfeXFMTmtVMTFSZ1NVUEdvNlFNNUwyRjgxUG1fMzc3SlZzU0g5LXcxZF9MMEpaM2FqaDg0clNHcnI3dml6Zi1DRWpCMUppREVkWkR0T254VV8yOWNyWlI1LTFBYU5vdEpoaGdFTk5tV1dnOWlTcy01cWdyelpGOEFDVEJVbm82cE1RUVk0eDVNR1p0dE0xNmhKRzN0Z1Q1Qm40aFFtVzNSRTAtVDVQcW5qZGxUdW0tWXpEbnQzMGtQYkpZbnRCbjdDZVh0bDd1T3BWel9qN0V3?oc=5</link>
+   <guid isPermaLink="false">463330a97d10ed3f</guid>
+   <pubDate>Sun, 08 Nov 2026 09:45:04 +0000</pubDate>
+   <category>Ganadería y sanidad animal</category>
+   <category>Nacional</category>
+   <source url="https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdFFxMkdKV3BZT2tNYm5ZRmdfMlRTeUJNc25DVFhqWGVQZUdfRUhNUHNILWVlTWxMYkJITHhkTWdfQndGX1lKNS04UXpYRkkzMXQ4SzY0SFlCRUFId0p0NC1WbmkybUtJVW9CMC1DUlNHUFZTTExTX3NGd0FSWmNRbkFMSWFRamNUOG1fb2wtTlRqZUxTYUp0aVAyb3YyX2FCTExCWkVydVdEaGlFaWZ1UWx4VVVDSE1OZGNqTnR1VHFuWHRUVTVPUDlzRzlJNm9oeFHSAdIBQVVfeXFMTmtVMTFSZ1NVUEdvNlFNNUwyRjgxUG1fMzc3SlZzU0g5LXcxZF9MMEpaM2FqaDg0clNHcnI3dml6Zi1DRWpCMUppREVkWkR0T254VV8yOWNyWlI1LTFBYU5vdEpoaGdFTk5tV1dnOWlTcy01cWdyelpGOEFDVEJVbm82cE1RUVk0eDVNR1p0dE0xNmhKRzN0Z1Q1Qm40aFFtVzNSRTAtVDVQcW5qZGxUdW0tWXpEbnQzMGtQYkpZbnRCbjdDZVh0bDd1T3BWel9qN0V3?oc=5">Murcia.com</source>
+   <description>Murcia.com · Nacional</description>
   </item>
   <item>
    <title>Reclaman una norma de comercialización para el cereal similar a la aprobada para el aceite con instrumentos válidos que regulen su mercado</title>
    <link>https://agroinformacion.com/reclaman-una-norma-de-comercializacion-para-el-cereal-similar-a-la-aprobada-para-el-aceite-con-instrumentos-validos-que-regulen-su-mercado/</link>
    <guid isPermaLink="false">c308df76161d2e64</guid>
    <pubDate>Sun, 08 Nov 2026 09:01:24 +0000</pubDate>
-   <category>Agricultura</category>
+   <category>Agricultura y agroecología</category>
    <category>Nacional</category>
    <source url="https://agroinformacion.com/reclaman-una-norma-de-comercializacion-para-el-cereal-similar-a-la-aprobada-para-el-aceite-con-instrumentos-validos-que-regulen-su-mercado/">Agroinformación</source>
    <description>Con la entrada en vigor de la norma de cmrcialización para regular la oferta para frenar los vaivenes del mercado en el sector del aceite de oliva y frenar que se venda por debajo de los costes de producción, UPA CyL, aún siendo consciente de que no es la…</description>
@@ -182,7 +222,7 @@
    <link>https://efeagro.com/industria-alimentacion-29n/</link>
    <guid isPermaLink="false">354c8b96832e06f9</guid>
    <pubDate>Sun, 08 Nov 2026 09:00:30 +0000</pubDate>
-   <category>Industrias alimentarias</category>
+   <category>Industrias alimentarias (lácteos)</category>
    <category>Nacional</category>
    <source url="https://efeagro.com/industria-alimentacion-29n/">EFEAgro</source>
    <description>La industria y la distribución alimentarias españolas son dos sectores clave como generadores de empleo, actividad económica y de marca España; ante la próxima cita con las urnas reclaman a los partidos medidas acordes a su carácter esencial en pos de…</description>
@@ -192,7 +232,7 @@
    <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOHZCNXZ1ZV9SM1U3c08zNGhfM0t3a0d6SzdlSHVKTXd1WnhCcXV1QjdKcFU3d3dzSjNXSjBBeTZOa0Etcjh0aUxVZnNhOERza285dzQyRS1zdXhUNkp4c2xMTV9venJYNFRSWmlZYllFb290Mzlud0VCSl9qc2pYQzNnQlptOGVWVFMtNElWakFKaUViNThJTGtPY29lVjI1alFzN1RTWEIycUNWaVdWXy1ZcmdUaUhDUWFnV2xRakFFa0tHazItU1ZxUHNSYUp2R1JtbW1NRERZeWoxSU5hd3RR0gH8AUFVX3lxTFB4VkJRZ3ZlaXRhRFFtUDlWSWhwelBJM1B5aUl3R3RCUWE1YmdzZGlpMzE2M0d3RnNOTVdzNjdZQm8yUXdBNUZqUGpRVGNVY2lSdmM3clNDRGp6U0xpMDdQYmpyMzdwZTVPcjBWUURncm0xZVloTG1JY0FZSmNYeS1ET1FLRXdwZ3VEVENYTnlad19tVDU5WlhUQ3FNTmR4QlZxbUVUeGUxYThpdjlZYUZVMjlHcUtac2FUa1JKLVlnZHp2b3M0M3ZhdXFoOXNIX3VIekxsQjJyc1U5Z0h1R0VhSnl5ei1qR0tndlgzWE5vMU5udm1BQjloTUNuMg?oc=5</link>
    <guid isPermaLink="false">e2d88e108dd3af64</guid>
    <pubDate>Sun, 08 Nov 2026 08:51:00 +0000</pubDate>
-   <category>Forestal</category>
+   <category>Forestal y medio natural</category>
    <category>Nacional</category>
    <source url="https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOHZCNXZ1ZV9SM1U3c08zNGhfM0t3a0d6SzdlSHVKTXd1WnhCcXV1QjdKcFU3d3dzSjNXSjBBeTZOa0Etcjh0aUxVZnNhOERza285dzQyRS1zdXhUNkp4c2xMTV9venJYNFRSWmlZYllFb290Mzlud0VCSl9qc2pYQzNnQlptOGVWVFMtNElWakFKaUViNThJTGtPY29lVjI1alFzN1RTWEIycUNWaVdWXy1ZcmdUaUhDUWFnV2xRakFFa0tHazItU1ZxUHNSYUp2R1JtbW1NRERZeWoxSU5hd3RR0gH8AUFVX3lxTFB4VkJRZ3ZlaXRhRFFtUDlWSWhwelBJM1B5aUl3R3RCUWE1YmdzZGlpMzE2M0d3RnNOTVdzNjdZQm8yUXdBNUZqUGpRVGNVY2lSdmM3clNDRGp6U0xpMDdQYmpyMzdwZTVPcjBWUURncm0xZVloTG1JY0FZSmNYeS1ET1FLRXdwZ3VEVENYTnlad19tVDU5WlhUQ3FNTmR4QlZxbUVUeGUxYThpdjlZYUZVMjlHcUtac2FUa1JKLVlnZHp2b3M0M3ZhdXFoOXNIX3VIekxsQjJyc1U5Z0h1R0VhSnl5ei1qR0tndlgzWE5vMU5udm1BQjloTUNuMg?oc=5">Infobae</source>
    <description>Infobae · Nacional</description>
@@ -202,7 +242,7 @@
    <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUdBdUZ6UG8xd0JoSnB5UFh3UVNMNVh0eDMzRFRnaXlYaFlWbHVablJfQTh6SHFQVTYxaEtCdmZXcFpIZFMzRktVdERmN0N4RXZEZ1Fyb0E5akNuam1LM2xBcmxHYnM0bHVZeG1DZWd1bXpPOXJvNE42bTNWLXVmaTR1WDdnTThhcFIyNEltbnU2RDVwUEFhS1dfNk5hMjFwLTdVY2VYMi1YdXM?oc=5</link>
    <guid isPermaLink="false">c89e689818d850c3</guid>
    <pubDate>Sun, 08 Nov 2026 08:48:00 +0000</pubDate>
-   <category>Forestal</category>
+   <category>Forestal y medio natural</category>
    <category>Cantabria</category>
    <source url="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUdBdUZ6UG8xd0JoSnB5UFh3UVNMNVh0eDMzRFRnaXlYaFlWbHVablJfQTh6SHFQVTYxaEtCdmZXcFpIZFMzRktVdERmN0N4RXZEZ1Fyb0E5akNuam1LM2xBcmxHYnM0bHVZeG1DZWd1bXpPOXJvNE42bTNWLXVmaTR1WDdnTThhcFIyNEltbnU2RDVwUEFhS1dfNk5hMjFwLTdVY2VYMi1YdXM?oc=5">El Confidencial</source>
    <description>El Confidencial · Cantabria</description>
@@ -212,7 +252,7 @@
    <link>https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ0hRc3pZSS1zMFVqSTlPc2g3NjhSS0F4NkZ5WmpjLW1paFFwYVFzVlZUWGVRRTgxN1A2ekF3TnRWY2NiT2JBRG5oaTZJQ2o4RmV6TDRCUUp1TERDQmRyYm9MMUsyV2JUQ2NFZkFMSV9DbUEza2FnQ2t5aVZtSURlQllOeE84ZW5IcG80QlpXZVNFZ0RxT19XUFVHMW01eTktVXpaX2xTektaUEh6ZXRJSnI2WUN4dS02Zkdab21tWGFGR0ZIQTNoWHp0U1NjYTJOYzFmZjZPQWlBRlJ3dDRXckU5c1B6MHpyc0lYYWVVbFZCRXREb0JjSHdtRDjSAfwBQVVfeXFMTUNIUXN6WUktczBVakk5T3NoNzY4UktBeDZGeVpqYy1taWhRcGFRc1ZWVFhlUUU4MTdQNnpBd050VmNjYk9iQURuaGk2SUNqOEZlekw0QlFKdUxEQ0JkcmJvTDFLMldiVENjRWZBTElfQ21BM2thZ0NreWlWbUlEZUJZTnhPOGVuSHBvNEJaV2VTRWdEcU9fV1BVRzFtNXk5LVV6Wl9sU3pLWlBIemV0SUpyNllDeHUtNmZHWm9tbVhhRkdGSEEzaFh6dFNTY2EyTmMxZmY2T0FpQUZSd3Q0V3JFOXNQejB6cnNJWGFlVWxWQkV0RG9CY0h3bUQ4?oc=5</link>
    <guid isPermaLink="false">d8f5f7d7df1575ba</guid>
    <pubDate>Sun, 08 Nov 2026 08:47:03 +0000</pubDate>
-   <category>Industrias alimentarias</category>
+   <category>Industrias alimentarias (lácteos)</category>
    <category>Nacional</category>
    <source url="https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ0hRc3pZSS1zMFVqSTlPc2g3NjhSS0F4NkZ5WmpjLW1paFFwYVFzVlZUWGVRRTgxN1A2ekF3TnRWY2NiT2JBRG5oaTZJQ2o4RmV6TDRCUUp1TERDQmRyYm9MMUsyV2JUQ2NFZkFMSV9DbUEza2FnQ2t5aVZtSURlQllOeE84ZW5IcG80QlpXZVNFZ0RxT19XUFVHMW01eTktVXpaX2xTektaUEh6ZXRJSnI2WUN4dS02Zkdab21tWGFGR0ZIQTNoWHp0U1NjYTJOYzFmZjZPQWlBRlJ3dDRXckU5c1B6MHpyc0lYYWVVbFZCRXREb0JjSHdtRDjSAfwBQVVfeXFMTUNIUXN6WUktczBVakk5T3NoNzY4UktBeDZGeVpqYy1taWhRcGFRc1ZWVFhlUUU4MTdQNnpBd050VmNjYk9iQURuaGk2SUNqOEZlekw0QlFKdUxEQ0JkcmJvTDFLMldiVENjRWZBTElfQ21BM2thZ0NreWlWbUlEZUJZTnhPOGVuSHBvNEJaV2VTRWdEcU9fV1BVRzFtNXk5LVV6Wl9sU3pLWlBIemV0SUpyNllDeHUtNmZHWm9tbVhhRkdGSEEzaFh6dFNTY2EyTmMxZmY2T0FpQUZSd3Q0V3JFOXNQejB6cnNJWGFlVWxWQkV0RG9CY0h3bUQ4?oc=5">Navarra.com</source>
    <description>Navarra.com · Nacional</description>
@@ -222,7 +262,7 @@
    <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPVTNWRHBBR2ItSG1YS0RkeWRYYXpvdEdaNEdNWmgtZTVGNHpoYkFPdHBpVGg5NzR5a3pSeGRMSkdjYnJHZ282RlRtWTNYVWVXUWMxeWVJV3A0enVUbjVmbGluWlhscXBNU1hlV3hzaXhaYWNEY3hKZVFqVy11ekh5OUtGQ05KYmpJdER3eXpMUnRleXZmcG9hNlVvSHpnQjRENl8yTHRmRG40RUZESnNlcXVnMlY?oc=5</link>
    <guid isPermaLink="false">342172132f3cc907</guid>
    <pubDate>Sun, 08 Nov 2026 08:31:02 +0000</pubDate>
-   <category>Forestal</category>
+   <category>Forestal y medio natural</category>
    <category>Cantabria</category>
    <source url="https://news.google.com/rss/articles/CBMitAFBVV95cUxPVTNWRHBBR2ItSG1YS0RkeWRYYXpvdEdaNEdNWmgtZTVGNHpoYkFPdHBpVGg5NzR5a3pSeGRMSkdjYnJHZ282RlRtWTNYVWVXUWMxeWVJV3A0enVUbjVmbGluWlhscXBNU1hlV3hzaXhaYWNEY3hKZVFqVy11ekh5OUtGQ05KYmpJdER3eXpMUnRleXZmcG9hNlVvSHpnQjRENl8yTHRmRG40RUZESnNlcXVnMlY?oc=5">Cantabria Liberal</source>
    <description>Cantabria Liberal · Cantabria</description>
@@ -232,17 +272,27 @@
    <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeGROclU0am93RjRkcjM2LWJxcExmb3VVMmg0WEtRVHRyT0RQMXUtYlRaVE9XdldmMXRISTZoTzJoaWc1STFFWGg2MXpvbVF5amFKR2VNNFpzUDU1bXdTUXcxN1NaUGQtMVZvWV9hYy05N1RLSkt1dHpDU0NVWFlaOFMzSVNubVBRYzhlaWZ5amdCdF9YTUE2bHJKX0NaNDJxM0FqQzRucThSeko4LWd5V25nNFFjcUlGclFF0gHAAUFVX3lxTE1HQ0NyOUktYjY4RnFCeVROdF9Wb1NVall2QURxWTBiZ0V1S2ZXeGZObWNVald1aXROQlRkcGlQaS1OQkVBNmhUVkVvckQ4VmxKR1NZa3VabUhGcXZXQzlTdE8weURPMFR1SVk2WHF2dVNGZUpiNmFqMXNMS0g4S2RmXzlTSnlZcVZKb2U1TDFaOWhiV3g5VzBUTGtoaEFXczdsaGRQQlBZMElER0RLTFVWQTl0cW4yTlNjaFNZYktPSA?oc=5</link>
    <guid isPermaLink="false">15d7e0914bc2a3ab</guid>
    <pubDate>Sun, 08 Nov 2026 08:27:23 +0000</pubDate>
-   <category>Forestal</category>
+   <category>Forestal y medio natural</category>
    <category>Cantabria</category>
    <source url="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeGROclU0am93RjRkcjM2LWJxcExmb3VVMmg0WEtRVHRyT0RQMXUtYlRaVE9XdldmMXRISTZoTzJoaWc1STFFWGg2MXpvbVF5amFKR2VNNFpzUDU1bXdTUXcxN1NaUGQtMVZvWV9hYy05N1RLSkt1dHpDU0NVWFlaOFMzSVNubVBRYzhlaWZ5amdCdF9YTUE2bHJKX0NaNDJxM0FqQzRucThSeko4LWd5V25nNFFjcUlGclFF0gHAAUFVX3lxTE1HQ0NyOUktYjY4RnFCeVROdF9Wb1NVall2QURxWTBiZ0V1S2ZXeGZObWNVald1aXROQlRkcGlQaS1OQkVBNmhUVkVvckQ4VmxKR1NZa3VabUhGcXZXQzlTdE8weURPMFR1SVk2WHF2dVNGZUpiNmFqMXNMS0g4S2RmXzlTSnlZcVZKb2U1TDFaOWhiV3g5VzBUTGtoaEFXczdsaGRQQlBZMElER0RLTFVWQTl0cW4yTlNjaFNZYktPSA?oc=5">Teleprensa</source>
    <description>Teleprensa · Cantabria</description>
+  </item>
+  <item>
+   <title>Queserías artesanas de toda España se darán cita en diciembre en este pueblo de Huelva: habrá mercado, catas guiadas, demostraciones de cocina y maridajes con vinos</title>
+   <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFzcTloLWVmNkpING1RSlAybUxpSHZyX1p4RmROMF82WkJxQlVFZTZMa3V5VkVKaTN2SXJScHJLRWp0REI5OE9KT3g2NUI2aldhSnFYV2hGdVh5WjVDY2hxN2RvTnBOTGVXOXdsSDVuTlc1UmRoemxuOWJUaWdZTVZLZkh1Y3AtSHo3dTkwb0RPdDBUYkN4Tm4yZXZuaXFVTjFWZk50UnZUWEhGdjlRcy1TNnFtTklCT0lpSg?oc=5</link>
+   <guid isPermaLink="false">0d7c680083c66a30</guid>
+   <pubDate>Sun, 08 Nov 2026 07:07:45 +0000</pubDate>
+   <category>Industrias alimentarias (lácteos)</category>
+   <category>Nacional</category>
+   <source url="https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFzcTloLWVmNkpING1RSlAybUxpSHZyX1p4RmROMF82WkJxQlVFZTZMa3V5VkVKaTN2SXJScHJLRWp0REI5OE9KT3g2NUI2aldhSnFYV2hGdVh5WjVDY2hxN2RvTnBOTGVXOXdsSDVuTlc1UmRoemxuOWJUaWdZTVZLZkh1Y3AtSHo3dTkwb0RPdDBUYkN4Tm4yZXZuaXFVTjFWZk50UnZUWEhGdjlRcy1TNnFtTklCT0lpSg?oc=5">Huelva24</source>
+   <description>Huelva24 · Nacional</description>
   </item>
   <item>
    <title>Es oficial y se ha confirmado por el Ministerio del Interior: España pide a la UE una base aérea para comba...</title>
    <link>https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVmZYWUxVeFFlcDY5V25rd21TVkZhdWRVenNYUk1Zc3NmQTN3MklzekFYSjQ1TEJYb0J6VWNwR3J0bkx2cWFQMTE5YVdIWlBDYndIWk52eGU0ZG9NdTRFVFo1anhmcjVnOXY4d044d2dCNzJoaF9sSlFvTmI4QUhCRkoyNm5CbFpHT3JPRUdXUDMxUjI2V3BhZ1ZiM1A1YkZ5MHhzZUR4ckk0YkU0aUF6ckRlNnFTcTBWS1lHd0NqYW1vOHNmVlNJS3ZFSHk4Q2M3a29JODRZRzQ4WUZ4b1BzbXNwazh6dktoZmVMY1ZoWVdKLThxcDVV0gH8AUFVX3lxTFBqaENLcFFJUjlQUDRzLVNQS180QWZuLW45a2lSQVZhLWZWZUZOam9iTm11aWYzU2Exak9tWGZjSkc5c0JiaktsODJVSXVqMDFaTEhFQXZVQk13a3d1MWFrODlHTU5BQ2kzaVR3TlZCQkJQZDJMQzhrOUlpVnFDZUQzYm5tMVRDV2ZsODRCV2VkZHNLT2NBcVBCcW83Z3RndXdQYkkyLWp5QlVTV2NxdFJrRHdoME5GckhYeHhQdlI4X0lhQm5pczl2QURoNkM5MzA3ekkyTVo5TGZxSlpMQXNZNGJjN3Z5WGI1Vzd4M2ZsOXB2SFF2T0c2dUpnWA?oc=5</link>
    <guid isPermaLink="false">6380b7e21e1ab324</guid>
    <pubDate>Sun, 08 Nov 2026 06:45:57 +0000</pubDate>
-   <category>Forestal</category>
+   <category>Forestal y medio natural</category>
    <category>Nacional</category>
    <source url="https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVmZYWUxVeFFlcDY5V25rd21TVkZhdWRVenNYUk1Zc3NmQTN3MklzekFYSjQ1TEJYb0J6VWNwR3J0bkx2cWFQMTE5YVdIWlBDYndIWk52eGU0ZG9NdTRFVFo1anhmcjVnOXY4d044d2dCNzJoaF9sSlFvTmI4QUhCRkoyNm5CbFpHT3JPRUdXUDMxUjI2V3BhZ1ZiM1A1YkZ5MHhzZUR4ckk0YkU0aUF6ckRlNnFTcTBWS1lHd0NqYW1vOHNmVlNJS3ZFSHk4Q2M3a29JODRZRzQ4WUZ4b1BzbXNwazh6dktoZmVMY1ZoWVdKLThxcDVV0gH8AUFVX3lxTFBqaENLcFFJUjlQUDRzLVNQS180QWZuLW45a2lSQVZhLWZWZUZOam9iTm11aWYzU2Exak9tWGZjSkc5c0JiaktsODJVSXVqMDFaTEhFQXZVQk13a3d1MWFrODlHTU5BQ2kzaVR3TlZCQkJQZDJMQzhrOUlpVnFDZUQzYm5tMVRDV2ZsODRCV2VkZHNLT2NBcVBCcW83Z3RndXdQYkkyLWp5QlVTV2NxdFJrRHdoME5GckhYeHhQdlI4X0lhQm5pczl2QURoNkM5MzA3ekkyTVo5TGZxSlpMQXNZNGJjN3Z5WGI1Vzd4M2ZsOXB2SFF2T0c2dUpnWA?oc=5">OkDiario</source>
    <description>OkDiario · Nacional</description>
@@ -252,17 +302,27 @@
    <link>https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTFdDZUh0X3RJRVFNUHlQUkc4T25XSGY0cS1DRENPZXZMakxFSUJRMGtIdWZsWnBwY3Iyek5iaUpDLXRNSHRKdjVfdGNMTUdVN3RNNXVSc2ZVS1UwUnZXWXNEVC1lS21keFMyRnJ2MjdHNC1vQUNZRFFYTFdEMXFKSktiOVhOUVVFeklmUzRKTWhyeVVjdExQXzM2ZXVmcVhXd1ZuazJTdkY0Yk9Wc1Bwald2NjlSTll6emlBald1cVRuandjd2pVWkF0R2hhOXJXMGVLVmNrejJROHpFR3Fyc0FSTDYxeVdpT1dRbTl1SWVDU0ZJejZaa29n?oc=5</link>
    <guid isPermaLink="false">7ddd2d4bf0dfa4f3</guid>
    <pubDate>Sun, 08 Nov 2026 06:22:44 +0000</pubDate>
-   <category>Ganadería</category>
+   <category>Ganadería y sanidad animal</category>
    <category>Nacional</category>
    <source url="https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTFdDZUh0X3RJRVFNUHlQUkc4T25XSGY0cS1DRENPZXZMakxFSUJRMGtIdWZsWnBwY3Iyek5iaUpDLXRNSHRKdjVfdGNMTUdVN3RNNXVSc2ZVS1UwUnZXWXNEVC1lS21keFMyRnJ2MjdHNC1vQUNZRFFYTFdEMXFKSktiOVhOUVVFeklmUzRKTWhyeVVjdExQXzM2ZXVmcVhXd1ZuazJTdkY0Yk9Wc1Bwald2NjlSTll6emlBald1cVRuandjd2pVWkF0R2hhOXJXMGVLVmNrejJROHpFR3Fyc0FSTDYxeVdpT1dRbTl1SWVDU0ZJejZaa29n?oc=5">Agroinformacion</source>
    <description>Agroinformacion · Nacional</description>
+  </item>
+  <item>
+   <title>Así son los talleres creativos que ofrecen una alternativa de ocio en Vitoria</title>
+   <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOTQ5c1NZaVlqRzR6aDk2VWxxdWNjU3AyazQzbzlIVHh1Q2drQVBnY215cjV2dTZndHlBU2diek1nNElrZzdfM2FhMHpkLW52Q01mcDU1ekhFaWRXQzBYaTItS3RDNS1JcnhwZkxoWU9nRmV1V2tnaE1DYWVPMW5iX2hLR1lMeGk2QVo4QTBpX3BTTGN6NUFOek90VzNoVzQwMlVmMkNtaFU?oc=5</link>
+   <guid isPermaLink="false">6ea4bd8906b2b45a</guid>
+   <pubDate>Sun, 08 Nov 2026 06:00:10 +0000</pubDate>
+   <category>Electromecánica de maquinaria</category>
+   <category>Nacional</category>
+   <source url="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOTQ5c1NZaVlqRzR6aDk2VWxxdWNjU3AyazQzbzlIVHh1Q2drQVBnY215cjV2dTZndHlBU2diek1nNElrZzdfM2FhMHpkLW52Q01mcDU1ekhFaWRXQzBYaTItS3RDNS1JcnhwZkxoWU9nRmV1V2tnaE1DYWVPMW5iX2hLR1lMeGk2QVo4QTBpX3BTTGN6NUFOek90VzNoVzQwMlVmMkNtaFU?oc=5">Diario de Noticias de Álava</source>
+   <description>Diario de Noticias de Álava · Nacional</description>
   </item>
   <item>
    <title>Feijóo promete que agricultores y ganaderos no sufrirán recortes en el próximo Presupuesto de la UE, pese al fin de los NextGen</title>
    <link>https://news.google.com/rss/articles/CBMihAJBVV95cUxNYXA0OGJrQlVCczFWTHRQdmhBNmg2YmVJdVVuU2hKay14d2NuLXg1UFZycUZkcVZ3OFlqMlVBZHJHUTBjQjJiVmZTTmZ6ZUJraHZxN3gtcTM5TEh1T3pwZkYxb0RfWlhld19LdU1aS1NDNk5vM2hOQlpKRXhyNXBSSVJUc202N0pIVTZHM3NDUDRXdmxBZWdiYWxRQUtCNGVNLWM1U0VSM2FyWEhfMC1IdVBTU3pEYk5HQm9YaHlpejBoR3huc0FscGszeG0tSzZDbHBKdGYyWElmSUdfNUFHemgtV2VqaWxPaWRLNVQ4ZjI2UUZGcXlnNHl2a0tFM0hNNS10RtIBhAJBVV95cUxNYXA0OGJrQlVCczFWTHRQdmhBNmg2YmVJdVVuU2hKay14d2NuLXg1UFZycUZkcVZ3OFlqMlVBZHJHUTBjQjJiVmZTTmZ6ZUJraHZxN3gtcTM5TEh1T3pwZkYxb0RfWlhld19LdU1aS1NDNk5vM2hOQlpKRXhyNXBSSVJUc202N0pIVTZHM3NDUDRXdmxBZWdiYWxRQUtCNGVNLWM1U0VSM2FyWEhfMC1IdVBTU3pEYk5HQm9YaHlpejBoR3huc0FscGszeG0tSzZDbHBKdGYyWElmSUdfNUFHemgtV2VqaWxPaWRLNVQ4ZjI2UUZGcXlnNHl2a0tFM0hNNS10Rg?oc=5</link>
    <guid isPermaLink="false">b08148f072ed76c3</guid>
    <pubDate>Sun, 08 Nov 2026 04:00:00 +0000</pubDate>
-   <category>Agricultura</category>
+   <category>Agricultura y agroecología</category>
    <category>Nacional</category>
    <source url="https://news.google.com/rss/articles/CBMihAJBVV95cUxNYXA0OGJrQlVCczFWTHRQdmhBNmg2YmVJdVVuU2hKay14d2NuLXg1UFZycUZkcVZ3OFlqMlVBZHJHUTBjQjJiVmZTTmZ6ZUJraHZxN3gtcTM5TEh1T3pwZkYxb0RfWlhld19LdU1aS1NDNk5vM2hOQlpKRXhyNXBSSVJUc202N0pIVTZHM3NDUDRXdmxBZWdiYWxRQUtCNGVNLWM1U0VSM2FyWEhfMC1IdVBTU3pEYk5HQm9YaHlpejBoR3huc0FscGszeG0tSzZDbHBKdGYyWElmSUdfNUFHemgtV2VqaWxPaWRLNVQ4ZjI2UUZGcXlnNHl2a0tFM0hNNS10RtIBhAJBVV95cUxNYXA0OGJrQlVCczFWTHRQdmhBNmg2YmVJdVVuU2hKay14d2NuLXg1UFZycUZkcVZ3OFlqMlVBZHJHUTBjQjJiVmZTTmZ6ZUJraHZxN3gtcTM5TEh1T3pwZkYxb0RfWlhld19LdU1aS1NDNk5vM2hOQlpKRXhyNXBSSVJUc202N0pIVTZHM3NDUDRXdmxBZWdiYWxRQUtCNGVNLWM1U0VSM2FyWEhfMC1IdVBTU3pEYk5HQm9YaHlpejBoR3huc0FscGszeG0tSzZDbHBKdGYyWElmSUdfNUFHemgtV2VqaWxPaWRLNVQ4ZjI2UUZGcXlnNHl2a0tFM0hNNS10Rg?oc=5">El Español</source>
    <description>El Español · Nacional</description>
@@ -272,67 +332,157 @@
    <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWRPcndTUW1BbTVPSDhtSnhaWTNHVFBYRG5mVk9QQUs1QUV3Zl9LaDdXaEFnWlZ0VDFhb2hqNEFOT2RBR1N2SjdTRUFwVloteHF1M2V5ZWo5RFB3aXRIc1V5b2lsZ0l5ay03TTZSeDZidVMyMkFzcjhxRG84bl90T2FwbF8ycEFVY2paTUd4YjRNV0ZOSXh6N1gwZkZIMVJaYTVFYkltT0c?oc=5</link>
    <guid isPermaLink="false">d749f9ec4368a5c4</guid>
    <pubDate>Sun, 08 Nov 2026 01:47:05 +0000</pubDate>
-   <category>Industrias alimentarias</category>
+   <category>Industrias alimentarias (lácteos)</category>
    <category>Cantabria</category>
    <source url="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWRPcndTUW1BbTVPSDhtSnhaWTNHVFBYRG5mVk9QQUs1QUV3Zl9LaDdXaEFnWlZ0VDFhb2hqNEFOT2RBR1N2SjdTRUFwVloteHF1M2V5ZWo5RFB3aXRIc1V5b2lsZ0l5ay03TTZSeDZidVMyMkFzcjhxRG84bl90T2FwbF8ycEFVY2paTUd4YjRNV0ZOSXh6N1gwZkZIMVJaYTVFYkltT0c?oc=5">Noticias.madrid</source>
    <description>Noticias.madrid · Cantabria</description>
+  </item>
+  <item>
+   <title>Alerta en la industria de maquinaria agrícola: crecen las importaciones y los fabricantes locales acumulan deudas y cierres</title>
+   <link>https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbFI4dHhoZlF6cy1PcUtPc1hVZ0d6QURxM19qMVRqRk9oMHo3WXpDSzl6MloyczYzUlhMUVZwY0FKUHBUVk9tcTFRU0gxVmtMMEUtSlljMUVLbXVGd2phUHpDSzNwbU1OVFgyRy13TXcxdnNFUnZadzNHbVgtTWU1MEJqR1VQN3piNFI4T1J0cGpCelVrRHNvMmJzeW43Ul83Y0RDODRYR0ZGY09wa1E1bzVFNG9OMnJTSkZQNjk2X1ZHSU9NbTJuS3R6Yi1HcFJ4VFd4WFZBU3R0Z1RDenl1QVpxNnNLVlZlTUtYOHlZT3htQ3BvTDIxOXdlVdIBlgJBVV95cUxOR3BoS3RjN2Y3bzlaYV82dk04WTNsVUVSbGYtMzZWbU4zczhqWlRtWTZsbWQzbEVwbXJEdV9ZTzduMDVNNl8zYTZsTnpudndIZEVFR1ZvWFBma3NEMW9QYnZ3ZmJ1cnQyWDJ2Z0FOQnRYM3RJWmVPRm1Qd0gwWXF1VE9LbDdHSkt5eTBCQ3NOX0llbElDLVAyM2MtVzdnWnVINVBaSUZHR2d5dnVibmNSR1ZjZDMyajM4NFFyRmtZUnBQWVdCa01EeFF1U2I2QjR5S0g0ZUlNUDZhbVVfNjJWOHgxZ2xGdHZRSGpFWi1ZQVdkZi1mekhfNHJNajNaVU94Nkc0ZndBS3hLNXNaT29rdnNuOS02dw?oc=5</link>
+   <guid isPermaLink="false">1541712752cf8bf6</guid>
+   <pubDate>Sat, 07 Nov 2026 23:23:00 +0000</pubDate>
+   <category>Electromecánica de maquinaria</category>
+   <category>Nacional</category>
+   <source url="https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbFI4dHhoZlF6cy1PcUtPc1hVZ0d6QURxM19qMVRqRk9oMHo3WXpDSzl6MloyczYzUlhMUVZwY0FKUHBUVk9tcTFRU0gxVmtMMEUtSlljMUVLbXVGd2phUHpDSzNwbU1OVFgyRy13TXcxdnNFUnZadzNHbVgtTWU1MEJqR1VQN3piNFI4T1J0cGpCelVrRHNvMmJzeW43Ul83Y0RDODRYR0ZGY09wa1E1bzVFNG9OMnJTSkZQNjk2X1ZHSU9NbTJuS3R6Yi1HcFJ4VFd4WFZBU3R0Z1RDenl1QVpxNnNLVlZlTUtYOHlZT3htQ3BvTDIxOXdlVdIBlgJBVV95cUxOR3BoS3RjN2Y3bzlaYV82dk04WTNsVUVSbGYtMzZWbU4zczhqWlRtWTZsbWQzbEVwbXJEdV9ZTzduMDVNNl8zYTZsTnpudndIZEVFR1ZvWFBma3NEMW9QYnZ3ZmJ1cnQyWDJ2Z0FOQnRYM3RJWmVPRm1Qd0gwWXF1VE9LbDdHSkt5eTBCQ3NOX0llbElDLVAyM2MtVzdnWnVINVBaSUZHR2d5dnVibmNSR1ZjZDMyajM4NFFyRmtZUnBQWVdCa01EeFF1U2I2QjR5S0g0ZUlNUDZhbVVfNjJWOHgxZ2xGdHZRSGpFWi1ZQVdkZi1mekhfNHJNajNaVU94Nkc0ZndBS3hLNXNaT29rdnNuOS02dw?oc=5">Infobae</source>
+   <description>Infobae · Nacional</description>
+  </item>
+  <item>
+   <title>La tinerfeña Marisol Casimiro, Mejor Joven Agricultora 2026</title>
+   <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ2N2dEljaGlEaFNNdnk2dEpDWFA4X2RnY0UyNE9xLUJBdTVPM2haRjNrenVSb2ZhTms3MHJPbEhneHEwbUkteUwxV0xoN2VLN2JBTzBEbTczUkltU19fT2k2RXoyZExhUlgwZ05ZSm53SF9TSzdSVXBQOFdBV2YtRExaTndRNnFXLTVyYnJhajRibFY2VnM4di1LNktYVG1KX2ltQnFsaUhMUjNNX1E?oc=5</link>
+   <guid isPermaLink="false">9125b67fd255e01f</guid>
+   <pubDate>Sat, 07 Nov 2026 23:16:13 +0000</pubDate>
+   <category>Agricultura y agroecología</category>
+   <category>Nacional</category>
+   <source url="https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ2N2dEljaGlEaFNNdnk2dEpDWFA4X2RnY0UyNE9xLUJBdTVPM2haRjNrenVSb2ZhTms3MHJPbEhneHEwbUkteUwxV0xoN2VLN2JBTzBEbTczUkltU19fT2k2RXoyZExhUlgwZ05ZSm53SF9TSzdSVXBQOFdBV2YtRExaTndRNnFXLTVyYnJhajRibFY2VnM4di1LNktYVG1KX2ltQnFsaUhMUjNNX1E?oc=5">Interempresas Media</source>
+   <description>Interempresas Media · Nacional</description>
+  </item>
+  <item>
+   <title>De Costa de Marfil a las mejores vistas de la Alhambra: el migrante que quiere acabar con el hambre en África</title>
+   <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOV0MtMkJfRGZsX1Y4RjlnSk5FLU5DRDZrYUZqY0ViQUpLOERUMlJSWFE5c29POFdoeWFsUzdBMDRnaEF2eDVvY2tHZGZFZDlFOXhsMk5wSEJodFpZdU9BVWNDUFdvS1RjWFd3ODNLbHZ6SXp5WDR5NWtWZWhSanRHY0RveGo0Q2twaEFPcUJZRHo4bEYtRmlyMW0tMkVGdW5mSEk4c1h5NNIBrAFBVV95cUxNbUZnTmprd2RONnd5NkJPaS1MLWszU3ltd3RCM2w3VUlqb0ZOOE9kZmg2R1lDdGJtMW1Fb0hOc3pIZ1R2Nmxzbm1QVWJuOUstUkRkVEdoX2VXb2FuQ2d4Q2tndndiMktxbU90TzFBZzBidW4tN2RlSjJsUmFvQ2hqdGwtUTVHOFU3aGR1ZzVFQ0hXZ1NFcl9GV1FiVUF2MUVIaURKS2tacUVQZU9a?oc=5</link>
+   <guid isPermaLink="false">5c18ad517a23709c</guid>
+   <pubDate>Sat, 07 Nov 2026 22:31:02 +0000</pubDate>
+   <category>Agricultura y agroecología</category>
+   <category>Nacional</category>
+   <source url="https://news.google.com/rss/articles/CBMipwFBVV95cUxOV0MtMkJfRGZsX1Y4RjlnSk5FLU5DRDZrYUZqY0ViQUpLOERUMlJSWFE5c29POFdoeWFsUzdBMDRnaEF2eDVvY2tHZGZFZDlFOXhsMk5wSEJodFpZdU9BVWNDUFdvS1RjWFd3ODNLbHZ6SXp5WDR5NWtWZWhSanRHY0RveGo0Q2twaEFPcUJZRHo4bEYtRmlyMW0tMkVGdW5mSEk4c1h5NNIBrAFBVV95cUxNbUZnTmprd2RONnd5NkJPaS1MLWszU3ltd3RCM2w3VUlqb0ZOOE9kZmg2R1lDdGJtMW1Fb0hOc3pIZ1R2Nmxzbm1QVWJuOUstUkRkVEdoX2VXb2FuQ2d4Q2tndndiMktxbU90TzFBZzBidW4tN2RlSjJsUmFvQ2hqdGwtUTVHOFU3aGR1ZzVFQ0hXZ1NFcl9GV1FiVUF2MUVIaURKS2tacUVQZU9a?oc=5">Ideal</source>
+   <description>Ideal · Nacional</description>
   </item>
   <item>
    <title>Una estadounidense se muda a España y alucina con una costumbre: “Todo el mundo bebe cerveza o vino desde por la mañana”</title>
    <link>https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZjV5M0hyb0RJRTljdFotZGVYUjc4QzFsa1JXZURlLXFBNmVyai1kdHpoYlk2LWNuN1p4QTBITWhPNEZNREFqSWFZU244Ty1jN0JkYXZvamY1QUt2TWJ2Wm5nZ3lEbXRNenctYzVnT1VLU0ljSUtPM2poZm5ia0d0R1J3MGg2T3dVZjNFNGM2ZlpLNmdyRFMzVnVuNVNSOWlpTVRRaGJmOTlMZVk1T0VSUmVxblNQemVXQlNvSkFFN1E4N19PNlJGUmRabnN4bTJORDRLeEhIOHB3aXVlQ2VJdkhHX2YyVXAwMGdkc0s5RldrUlJSNlptajhlTmJoYml0di1kemotNzU?oc=5</link>
    <guid isPermaLink="false">5429106f6dceefd1</guid>
    <pubDate>Sat, 07 Nov 2026 20:09:03 +0000</pubDate>
-   <category>Química ambiental</category>
+   <category>Química y salud ambiental</category>
    <category>Nacional</category>
    <source url="https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZjV5M0hyb0RJRTljdFotZGVYUjc4QzFsa1JXZURlLXFBNmVyai1kdHpoYlk2LWNuN1p4QTBITWhPNEZNREFqSWFZU244Ty1jN0JkYXZvamY1QUt2TWJ2Wm5nZ3lEbXRNenctYzVnT1VLU0ljSUtPM2poZm5ia0d0R1J3MGg2T3dVZjNFNGM2ZlpLNmdyRFMzVnVuNVNSOWlpTVRRaGJmOTlMZVk1T0VSUmVxblNQemVXQlNvSkFFN1E4N19PNlJGUmRabnN4bTJORDRLeEhIOHB3aXVlQ2VJdkhHX2YyVXAwMGdkc0s5RldrUlJSNlptajhlTmJoYml0di1kemotNzU?oc=5">Noticias del Vino</source>
    <description>Noticias del Vino · Nacional</description>
+  </item>
+  <item>
+   <title>Los viveros valencianos, el gran secreto detrás del 70% del viñedo español: una industria que arranca en la Vall d'Albaida y llega a toda España</title>
+   <link>https://news.google.com/rss/articles/CBMipgJBVV95cUxPdVlYWkNyU20zUGh1Q0tsbWtHVkxMWW5jNmdQRjhEWG03SkR6a3lKcnpPQ09NNmdiQkFaR0hqZ250QlZaVHRRZ292dzhaUExsSzdydHcwUjJZYlQzODhVR19PTG51elRoNkUtdHI1dFJhanN1YUV3ajFxQmc0bW00dFFNQlM5dzZoT21tNjRQWHZzOEM5eURESE1FbWZiaml3ajRuQWlwZFBoeXpfR0VFaW1uOEVlUkQ2SDNFOUFYaDNqUmxtb3BYX3FkWnJucnFkU2dLX0dPNEp1VUtYaThZNVMwY1ZSNHlfQVIwb1k3azdjUG1oZ3BaRTlJNDJ5N2hERk5weTJLV3BmWHNBUzRSeXAtOUtwR2RWOWxMdVpCSGpmZEt2S3c?oc=5</link>
+   <guid isPermaLink="false">09ff0046d3260c97</guid>
+   <pubDate>Sat, 07 Nov 2026 19:20:52 +0000</pubDate>
+   <category>Jardinería, floristería y paisajismo</category>
+   <category>Nacional</category>
+   <source url="https://news.google.com/rss/articles/CBMipgJBVV95cUxPdVlYWkNyU20zUGh1Q0tsbWtHVkxMWW5jNmdQRjhEWG03SkR6a3lKcnpPQ09NNmdiQkFaR0hqZ250QlZaVHRRZ292dzhaUExsSzdydHcwUjJZYlQzODhVR19PTG51elRoNkUtdHI1dFJhanN1YUV3ajFxQmc0bW00dFFNQlM5dzZoT21tNjRQWHZzOEM5eURESE1FbWZiaml3ajRuQWlwZFBoeXpfR0VFaW1uOEVlUkQ2SDNFOUFYaDNqUmxtb3BYX3FkWnJucnFkU2dLX0dPNEp1VUtYaThZNVMwY1ZSNHlfQVIwb1k3azdjUG1oZ3BaRTlJNDJ5N2hERk5weTJLV3BmWHNBUzRSeXAtOUtwR2RWOWxMdVpCSGpmZEt2S3c?oc=5">València Extra</source>
+   <description>València Extra · Nacional</description>
   </item>
   <item>
    <title>El PP se compromete a apoyar el Proyecto Altamira desde el Gobierno de España: "Una oportunidad única"</title>
    <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaV9jU1k3ZkU1NlF3bU9vQ3I2ZFhQVEVDU1pUT1ZEZ2pTc0Y4ZFN3RWdfOFZzaTRTT0hJdVJKWWctc0NLYzZRMjlXWklHamQ3UWFXbFJ3SkdudEpXZGI5MzBCUFBrdHFDYjlsT0ZfN2JZMUROMFAwaEdDRHgtTFhrRF8wcEtTZlZzbGZFY3VOTTlncHhKRzFvazR5bkQyV2w2cjVjRk1obFJ3alNZajh5THRYbmF3VEMzeXZfc05VdXp4MW9BQlBRVm1qVkJmQXdoMEdnd1VR0gHbAUFVX3lxTE81T3M3RTVIOHZibjJvdFBTaU0yUlNWV19kaVd4cG1YNWlQUGN3TWhpaVdKelNIVmJXbnhSb09aU1dibnE2N3hFM1ltOVNZM29sbUJPOXVXdnUyRkRUbXllWXJmNmlzaXRhVm81a2tRa2FrZnhUVzdwNFBLWUV6eXdwSDFIU1BmRlFsNU9RMkE1Y2JoLUgzX09aNFdTQWl0R2k1bTVMWmhrSWNreXpOWjlPU3ZsSlhjX1F3aTJaNEN6OHJoU0F1RlZKbmQ2MmZJLWJ4dUhESGtBc050aw?oc=5</link>
    <guid isPermaLink="false">a14bf4f098331cc7</guid>
    <pubDate>Sat, 07 Nov 2026 19:11:23 +0000</pubDate>
-   <category>Maquinaria y electromecánica</category>
+   <category>Electromecánica de maquinaria</category>
    <category>Cantabria</category>
    <source url="https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaV9jU1k3ZkU1NlF3bU9vQ3I2ZFhQVEVDU1pUT1ZEZ2pTc0Y4ZFN3RWdfOFZzaTRTT0hJdVJKWWctc0NLYzZRMjlXWklHamQ3UWFXbFJ3SkdudEpXZGI5MzBCUFBrdHFDYjlsT0ZfN2JZMUROMFAwaEdDRHgtTFhrRF8wcEtTZlZzbGZFY3VOTTlncHhKRzFvazR5bkQyV2w2cjVjRk1obFJ3alNZajh5THRYbmF3VEMzeXZfc05VdXp4MW9BQlBRVm1qVkJmQXdoMEdnd1VR0gHbAUFVX3lxTE81T3M3RTVIOHZibjJvdFBTaU0yUlNWV19kaVd4cG1YNWlQUGN3TWhpaVdKelNIVmJXbnhSb09aU1dibnE2N3hFM1ltOVNZM29sbUJPOXVXdnUyRkRUbXllWXJmNmlzaXRhVm81a2tRa2FrZnhUVzdwNFBLWUV6eXdwSDFIU1BmRlFsNU9RMkE1Y2JoLUgzX09aNFdTQWl0R2k1bTVMWmhrSWNreXpOWjlPU3ZsSlhjX1F3aTJaNEN6OHJoU0F1RlZKbmQ2MmZJLWJ4dUhESGtBc050aw?oc=5">Ifomo Noticias 24h</source>
    <description>Ifomo Noticias 24h · Cantabria</description>
+  </item>
+  <item>
+   <title>Detectan legionela en las duchas de la Jefatura de Policía Local de Mijas, Málaga</title>
+   <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEgtZng5NjZfSERYa0lSdF9XQnZMZG9HY3hlWXFfSFpoUngzY0t3RGlCcHF4M2lqMjVxR3hIU09XMkYxeFNsYVk2WmdfNTgtT3ozZl9pQUZOVnQ3NnctVjVrbTZ6UDhpME5VajQyNmI1cXBmQ1BkRHdwX1FSXzlBUGE1QkxEaHNid283YlZfbzF3QjV2V1pRRG5TRWNJa3ZlVVdvb0g4ckRlZW9sZk5lYnE4VU53ZnRyS2c1V19sSG1IWUxGQVduUA?oc=5</link>
+   <guid isPermaLink="false">96fd74d4397c8ac7</guid>
+   <pubDate>Sat, 07 Nov 2026 19:06:03 +0000</pubDate>
+   <category>Química y salud ambiental</category>
+   <category>Nacional</category>
+   <source url="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEgtZng5NjZfSERYa0lSdF9XQnZMZG9HY3hlWXFfSFpoUngzY0t3RGlCcHF4M2lqMjVxR3hIU09XMkYxeFNsYVk2WmdfNTgtT3ozZl9pQUZOVnQ3NnctVjVrbTZ6UDhpME5VajQyNmI1cXBmQ1BkRHdwX1FSXzlBUGE1QkxEaHNid283YlZfbzF3QjV2V1pRRG5TRWNJa3ZlVVdvb0g4ckRlZW9sZk5lYnE4VU53ZnRyS2c1V19sSG1IWUxGQVduUA?oc=5">Telecinco</source>
+   <description>Telecinco · Nacional</description>
+  </item>
+  <item>
+   <title>El gobierno quiere disfrazar el cierre de registros de maquinaria agrícola por la recesión, como si fueran automotores</title>
+   <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxQa25NNzlZdkc1TVZLVmxfUkMwcjJCakRPb1ZGUF81OEtIVFdubFY2My11OW02RlY1bzkyTXZWa2lzMmZfRWRGeG5IQ0xWS19tRm5fTzJFVW5Tc2hRQzlTSXN0R3JheU90RklpcTQxQTVDQXFTY0hLYmxaWUJMX3FPSWk0Z1F1bnVXVmZLaFVNTUsxMWx5RWtocUo0aS1qbjgwYmd4TDctNFhMSnVmNFgwT2xtVnZ3SUx4Tmp4NEZrb1ZuZUFlSDhvczNkOWtVQWNYM3owNDYtTkJDYzZESDJFZmp2b2w?oc=5</link>
+   <guid isPermaLink="false">98d9a701db228752</guid>
+   <pubDate>Sat, 07 Nov 2026 18:44:50 +0000</pubDate>
+   <category>Electromecánica de maquinaria</category>
+   <category>Nacional</category>
+   <source url="https://news.google.com/rss/articles/CBMi5AFBVV95cUxQa25NNzlZdkc1TVZLVmxfUkMwcjJCakRPb1ZGUF81OEtIVFdubFY2My11OW02RlY1bzkyTXZWa2lzMmZfRWRGeG5IQ0xWS19tRm5fTzJFVW5Tc2hRQzlTSXN0R3JheU90RklpcTQxQTVDQXFTY0hLYmxaWUJMX3FPSWk0Z1F1bnVXVmZLaFVNTUsxMWx5RWtocUo0aS1qbjgwYmd4TDctNFhMSnVmNFgwT2xtVnZ3SUx4Tmp4NEZrb1ZuZUFlSDhvczNkOWtVQWNYM3owNDYtTkJDYzZESDJFZmp2b2w?oc=5">ElSello.Info</source>
+   <description>ElSello.Info · Nacional</description>
   </item>
   <item>
    <title>El agua sale muy sucia: vecinos de Lagos de Puente Moreno denuncian mala calidad del servicio</title>
    <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbUFVUFhVa1F2MkZyUWY1QXNrV0h0RU5SMmZ4U2RRYTN3V2xxbXVaRklHUHNHQkFZejFOTTB3ZEwtVEwxQ3RwUXlXcmxMZUc2eC1ycGJ2SHVhbk5WUWJheXY4RmpOeTB2dlpLbkNQX29rUWI1azRsaFdvQV9CaXNFSzJNQWNMVk14TUxiZHl0d21zdnp4TGtzN0RqVlJhRHNMN21mSmpmRGVjY0RGLWVRUnFLbUhRbFRTczR4bFpBSDRONTF4S0lWOVkwTURzY3ZvcjQ0TWFDbVVzdE9GZ1pBOVhB0gHnAUFVX3lxTFBfaHVBU0ZOajNGTUFsc29JNV9UTmJHTWlrOEhBUHNCV1R0NjM0dmVhOE00bS1Ib19tb0JDVUtyWjg0WGw0MGdoXzJPSDdnc3dEWS10aF90bllqeDEtLXljbHJPQS1NeHN5WlB4X1RkZUxpeWhEak5rUUd1SE5wcjBvRkJXY3M4eHJ2N09kSnBGN0dUVFd0TnlzRFR6dnhaNVJDOG1EWU1sMDQxSkFndU91NUVDSENuVGswMFdLNS1taEk2dGtMNTVCSnU3VENua1c1SEtfRGR1azJRUVVsNUVnQ1ZoMVJncw?oc=5</link>
    <guid isPermaLink="false">2b2ec76fd874b1ba</guid>
    <pubDate>Sat, 07 Nov 2026 18:14:33 +0000</pubDate>
-   <category>Química ambiental</category>
+   <category>Química y salud ambiental</category>
    <category>Nacional</category>
    <source url="https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbUFVUFhVa1F2MkZyUWY1QXNrV0h0RU5SMmZ4U2RRYTN3V2xxbXVaRklHUHNHQkFZejFOTTB3ZEwtVEwxQ3RwUXlXcmxMZUc2eC1ycGJ2SHVhbk5WUWJheXY4RmpOeTB2dlpLbkNQX29rUWI1azRsaFdvQV9CaXNFSzJNQWNMVk14TUxiZHl0d21zdnp4TGtzN0RqVlJhRHNMN21mSmpmRGVjY0RGLWVRUnFLbUhRbFRTczR4bFpBSDRONTF4S0lWOVkwTURzY3ZvcjQ0TWFDbVVzdE9GZ1pBOVhB0gHnAUFVX3lxTFBfaHVBU0ZOajNGTUFsc29JNV9UTmJHTWlrOEhBUHNCV1R0NjM0dmVhOE00bS1Ib19tb0JDVUtyWjg0WGw0MGdoXzJPSDdnc3dEWS10aF90bllqeDEtLXljbHJPQS1NeHN5WlB4X1RkZUxpeWhEak5rUUd1SE5wcjBvRkJXY3M4eHJ2N09kSnBGN0dUVFd0TnlzRFR6dnhaNVJDOG1EWU1sMDQxSkFndU91NUVDSENuVGswMFdLNS1taEk2dGtMNTVCSnU3VENua1c1SEtfRGR1azJRUVVsNUVnQ1ZoMVJncw?oc=5">Imagen de Veracruz</source>
    <description>Imagen de Veracruz · Nacional</description>
+  </item>
+  <item>
+   <title>Sevilla rinde homenaje a la infanta Elena por su trayectoria deportiva y su vinculación con la hípica</title>
+   <link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdXlpNEZUQXlxTURWT1Y4aDhSazV3UVptUTFVVW1iVGhic1lwWXBEVGo5Tzd0cDlhZmdhempVRzNQNGlfeTF2WjQ0TWVQRTRtSW5UUlZOQ3BMYWRrWFVaalVGMU1KYV9IVjFsYmJYNEZwQm9INEFINkp3UEdyR29QczFqOEhkMnJ6dEdKN1BDdURqSGFheGVXY2VaUWdHeFNuX1ZoYlRmUmtIYnQ0aGkwdThVbXJwU3lpdHlCUjIwLUtVME1SUFo4SFd2Q0JEQUx5SGpYVmZBbHVXS2Q5SS13MGlCSmlqZ2ZfQ192dw?oc=5</link>
+   <guid isPermaLink="false">654933ec92571345</guid>
+   <pubDate>Sat, 07 Nov 2026 17:10:04 +0000</pubDate>
+   <category>Actividades ecuestres</category>
+   <category>Cantabria</category>
+   <source url="https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdXlpNEZUQXlxTURWT1Y4aDhSazV3UVptUTFVVW1iVGhic1lwWXBEVGo5Tzd0cDlhZmdhempVRzNQNGlfeTF2WjQ0TWVQRTRtSW5UUlZOQ3BMYWRrWFVaalVGMU1KYV9IVjFsYmJYNEZwQm9INEFINkp3UEdyR29QczFqOEhkMnJ6dEdKN1BDdURqSGFheGVXY2VaUWdHeFNuX1ZoYlRmUmtIYnQ0aGkwdThVbXJwU3lpdHlCUjIwLUtVME1SUFo4SFd2Q0JEQUx5SGpYVmZBbHVXS2Q5SS13MGlCSmlqZ2ZfQ192dw?oc=5">Europa Press</source>
+   <description>Europa Press · Cantabria</description>
   </item>
   <item>
    <title>La industria alimentaria española blinda sus sistemas de frío ante la oleada de ciberataques en Europa</title>
    <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ2RZR013cXNadVY0SnJDLWtkQTRvUjk5Y2FLRmx0Z3NYbVNBbFF3U0FWUmdjQklRa2I0c1Y5SmhlcEFIZnhBNVMxYmRUZE92ZUEtcW1RR2NOb3UwZ1hVcUx5cXBSTU5nYmxRNTl1VDlzSHQ3eGVWR0gxOGRNbUY0SmMwM0NqUmVPcm9KTElHUDhNM0JhZDhJY3U0UlhhNU9tZDlaOGdIbXREVW1oOWlLaWRMT1VuUkZ5bEJ3MDVnOWV1d3JsU2fSAcYBQVVfeXFMUG8zVDNuUkJHWHpqQ3ZWSlpXTkkzdnZrX2dCUHFfek1idFVuS1VRTGFLdXg3V1hVbXptYXNueDRweWE3aUNCd1FvTF9JMDNlY1djUk10MGZETjhiQXJrYmRDVnRJZ1NoY3VINF9rYmZmQWlIVUNJX0gtSmtTQmxLT2ZsYjRiVHJuZWxNNUFLUEtlZ05mSElyQXJUODlnTGlPSEU0MTZEdlVMY1ZCandaMVk0RFVwVXN0ZDN5SlJuMld4a3B2MVN3?oc=5</link>
    <guid isPermaLink="false">535e793807416a30</guid>
    <pubDate>Sat, 07 Nov 2026 16:06:54 +0000</pubDate>
-   <category>Industrias alimentarias</category>
+   <category>Industrias alimentarias (lácteos)</category>
    <category>Nacional</category>
    <source url="https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ2RZR013cXNadVY0SnJDLWtkQTRvUjk5Y2FLRmx0Z3NYbVNBbFF3U0FWUmdjQklRa2I0c1Y5SmhlcEFIZnhBNVMxYmRUZE92ZUEtcW1RR2NOb3UwZ1hVcUx5cXBSTU5nYmxRNTl1VDlzSHQ3eGVWR0gxOGRNbUY0SmMwM0NqUmVPcm9KTElHUDhNM0JhZDhJY3U0UlhhNU9tZDlaOGdIbXREVW1oOWlLaWRMT1VuUkZ5bEJ3MDVnOWV1d3JsU2fSAcYBQVVfeXFMUG8zVDNuUkJHWHpqQ3ZWSlpXTkkzdnZrX2dCUHFfek1idFVuS1VRTGFLdXg3V1hVbXptYXNueDRweWE3aUNCd1FvTF9JMDNlY1djUk10MGZETjhiQXJrYmRDVnRJZ1NoY3VINF9rYmZmQWlIVUNJX0gtSmtTQmxLT2ZsYjRiVHJuZWxNNUFLUEtlZ05mSElyQXJUODlnTGlPSEU0MTZEdlVMY1ZCandaMVk0RFVwVXN0ZDN5SlJuMld4a3B2MVN3?oc=5">MARCA</source>
    <description>MARCA · Nacional</description>
+  </item>
+  <item>
+   <title>Lamasón, Selaya y Ruesga recuperan sus ferias ganaderas</title>
+   <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnVpU3ZGdDQ2dWVZaUZvTmZiTHBsczJOa0ItMTBtNHMzcV9qSmQ2bG5FSV9XTWgwR2l2MW9Hek81NGFHYTllVlgzck52XzB0YkNIN1c3bnBObzFkMGJRNGlZU1llaU5pVndTcGFQNDFsWnpBUnY3VUtvMWxKZEh4RTVVVlNVSmE4M1BacFhONG5kVnZ5NFJPVDVfYzlJUUtDS0J0ZXlFT1PSAa4BQVVfeXFMT1pWYXhLMkMyaXpFTHFhT2oxQzZDaklNMHNxcUJhVUpldUpzRmVEQXJjSWdRRlg5MF9CRmdKYmVJYkx6bGQ2Nkx6NXJXSUFuRER1QTQ5MHo2aURZa20yaVA3UkRueGVLbFZaQVBsWnJfRGZJZHlhZGdmaVZPX2F5LUQ1Z2p0WXRSNmEyVDBFQkxFdUJvSTZ5T3R0LXlKenZiSUhCak9tUjNLQmcxOUln?oc=5</link>
+   <guid isPermaLink="false">f7426fbe6ff4f241</guid>
+   <pubDate>Sat, 07 Nov 2026 15:48:50 +0000</pubDate>
+   <category>Ganadería y sanidad animal</category>
+   <category>Cantabria</category>
+   <source url="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnVpU3ZGdDQ2dWVZaUZvTmZiTHBsczJOa0ItMTBtNHMzcV9qSmQ2bG5FSV9XTWgwR2l2MW9Hek81NGFHYTllVlgzck52XzB0YkNIN1c3bnBObzFkMGJRNGlZU1llaU5pVndTcGFQNDFsWnpBUnY3VUtvMWxKZEh4RTVVVlNVSmE4M1BacFhONG5kVnZ5NFJPVDVfYzlJUUtDS0J0ZXlFT1PSAa4BQVVfeXFMT1pWYXhLMkMyaXpFTHFhT2oxQzZDaklNMHNxcUJhVUpldUpzRmVEQXJjSWdRRlg5MF9CRmdKYmVJYkx6bGQ2Nkx6NXJXSUFuRER1QTQ5MHo2aURZa20yaVA3UkRueGVLbFZaQVBsWnJfRGZJZHlhZGdmaVZPX2F5LUQ1Z2p0WXRSNmEyVDBFQkxFdUJvSTZ5T3R0LXlKenZiSUhCak9tUjNLQmcxOUln?oc=5">Ifomo Noticias 24h</source>
+   <description>Ifomo Noticias 24h · Cantabria</description>
   </item>
   <item>
    <title>El sector agropecuario y forestal pide estrategias específicas para regenerar dehesas, frente a soluciones universales</title>
    <link>https://news.google.com/rss/articles/CBMiggJBVV95cUxNMnNxc2NtMTJsbHpqRUlxRlpaMmE3RjdNWXZXVExBbDB2eWVxLTVKUXNCWlNJQlpPZTF4VVp5djNhQ0FMRFRYcm9XbnZVMWxabmRDQXFFT3RYMXlMRnF1LWJyZkJTSC1hWEY1NTdYSnB5TkpmcXQ3QmhpOXliVk9xUmNJbHZMX2thckdtYkxCSHNKdkdqX3lJWWNSQnpkOVlFTTgteTU1cW8wemI2VXZubEI5b3M2ZUFMV1kwTFBtS1M0YklwUkNjTnEyZjhTNExHTE1iazRyeUpQdWR4aFZCeTFzNjJxbDFhV3VEeFhFRGQ5b2hsYkd3SUk0bHpBSDR3SUE?oc=5</link>
    <guid isPermaLink="false">d4c24eb58551633e</guid>
    <pubDate>Sat, 07 Nov 2026 15:26:51 +0000</pubDate>
-   <category>Forestal</category>
+   <category>Agricultura y agroecología</category>
    <category>Cantabria</category>
    <source url="https://news.google.com/rss/articles/CBMiggJBVV95cUxNMnNxc2NtMTJsbHpqRUlxRlpaMmE3RjdNWXZXVExBbDB2eWVxLTVKUXNCWlNJQlpPZTF4VVp5djNhQ0FMRFRYcm9XbnZVMWxabmRDQXFFT3RYMXlMRnF1LWJyZkJTSC1hWEY1NTdYSnB5TkpmcXQ3QmhpOXliVk9xUmNJbHZMX2thckdtYkxCSHNKdkdqX3lJWWNSQnpkOVlFTTgteTU1cW8wemI2VXZubEI5b3M2ZUFMV1kwTFBtS1M0YklwUkNjTnEyZjhTNExHTE1iazRyeUpQdWR4aFZCeTFzNjJxbDFhV3VEeFhFRGQ5b2hsYkd3SUk0bHpBSDR3SUE?oc=5">Europa Press</source>
    <description>Europa Press · Cantabria</description>
+  </item>
+  <item>
+   <title>Fundación CAUCE participó de un encuentro regional para fortalecer la agroecología frente al cambio climático</title>
+   <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWXBmMWlUWUpEUjlxbFlJam9Vb05tOExKallYOUpiNlQ3bnByVXQ3YlVuUEpFZUJpTk1KMlBIVG1MdWh2NG5US2lfdWE4Qm03TTRGNDJYQ1JoaFpqVGx6Wk5FcldGUlFuZVhiTHk0eEwyV3BrRVFNWFZOQUpqMGpKYVVuZlNad190bERLV2RKeUxjUEIxS1hyRGtuZkRhT0N0VDZyS2dzZmZtQzJaR09OZS1ob2pkdmhHQXp5THpZUGwzRjBUdWM3VmtybDBLZkNoQjdFeGxQMA?oc=5</link>
+   <guid isPermaLink="false">02198423988d02ee</guid>
+   <pubDate>Sat, 07 Nov 2026 14:21:02 +0000</pubDate>
+   <category>Agricultura y agroecología</category>
+   <category>Nacional</category>
+   <source url="https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWXBmMWlUWUpEUjlxbFlJam9Vb05tOExKallYOUpiNlQ3bnByVXQ3YlVuUEpFZUJpTk1KMlBIVG1MdWh2NG5US2lfdWE4Qm03TTRGNDJYQ1JoaFpqVGx6Wk5FcldGUlFuZVhiTHk0eEwyV3BrRVFNWFZOQUpqMGpKYVVuZlNad190bERLV2RKeUxjUEIxS1hyRGtuZkRhT0N0VDZyS2dzZmZtQzJaR09OZS1ob2pkdmhHQXp5THpZUGwzRjBUdWM3VmtybDBLZkNoQjdFeGxQMA?oc=5">Vía País</source>
+   <description>Vía País · Nacional</description>
   </item>
   <item>
    <title>Los ganaderos salen en defensa de David Setién en la feria de Matienzo</title>
    <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxNWmNWSXFQdlhDMTk1V2V4X0xOcWZES3dabGpJVjBPLWZVRG9ZWXZ4b0lROGdaVzdPVXF4aTFuUjZ4U20ydVNBcFVkZ3FzUDVtUDZSb2I1UFhZeURoOUZMQjc1V2FMa3BLRnh0WEJ1VkZNVm1GQko2blpPTC1nOGNTdW82UXhGYzhQbzRMOVdqR1VXOXhiNXgzb1dCRmM4UmxFTFU5SEJ3bTFhUWRJZ0dmTE1qbXo0LWtod2xDWHh3?oc=5</link>
    <guid isPermaLink="false">68b75d84b6b0e69c</guid>
    <pubDate>Sat, 07 Nov 2026 13:25:28 +0000</pubDate>
-   <category>Ganadería</category>
+   <category>Ganadería y sanidad animal</category>
    <category>Cantabria</category>
    <source url="https://news.google.com/rss/articles/CBMivgFBVV95cUxNWmNWSXFQdlhDMTk1V2V4X0xOcWZES3dabGpJVjBPLWZVRG9ZWXZ4b0lROGdaVzdPVXF4aTFuUjZ4U20ydVNBcFVkZ3FzUDVtUDZSb2I1UFhZeURoOUZMQjc1V2FMa3BLRnh0WEJ1VkZNVm1GQko2blpPTC1nOGNTdW82UXhGYzhQbzRMOVdqR1VXOXhiNXgzb1dCRmM4UmxFTFU5SEJ3bTFhUWRJZ0dmTE1qbXo0LWtod2xDWHh3?oc=5">El Diario Montañés</source>
    <description>El Diario Montañés · Cantabria</description>
@@ -342,7 +492,7 @@
    <link>https://news.google.com/rss/articles/CBMiggJBVV95cUxQTy1EMFVldlgtaElzWEJBNWxNRDRreTJoZTVtcEhiUnVjOUNKWXVZUG1pZGRDUHYtOHRkZEt0dXZ6RTVSNTNQX01jUm0weU82eDRDdXY3VldxUHpfU2NsMndmQzZGUG13ZzdZM243eDJlMHF6ZWdNam1TbzV5LU5FR3FnVm85SXF6VDFGd0JRU3plUkJYcXNaanQwMjgtOFNmbXFINmUtMEpZdjVFTGlZSmJxQktKODJsa2laTzdic1YzcHNxM1pfTVpTdWtsaTBpckg3Ulc2cHBtc254Y3JzODlZQkJ6bXh0VU9JTVVrWTNMUzlMd2Q0bVRlRlJYdDRTYnfSAYcCQVVfeXFMTmZCMktTNWd1R25vUVM0SU1ZZHJ5eHV0WUwyYUp4WXBJeVp4YmRqTTJrQk9TWmNKeXRqaVZJanYzOHdpTVh5LWFabndhdzRtWUVSeXA0NmJtN1MyZ1AzYzJDcFR0OWJlaG1uUHhFYzQwbHZIOFk5UmRDdEpSLUZNT0I0a1FGQlRQLS1zRXdCdm5JNEdVeVlzbU1ZQ2ZJZzRBdjRRZWR2aUY1aGZPSldWTDlpRHNYY0drRFJtWGpyb0hLZkFVSldNaTNPTVgzcEtXd0YzLTRJUHdiQTVPSU9NX1lGQXBiUkpJVnVoNnhxMXBiLUwydHZ6Z0tPcmpQcHVhRWwzTUJoM0k?oc=5</link>
    <guid isPermaLink="false">1748768c259ebf49</guid>
    <pubDate>Sat, 07 Nov 2026 12:22:34 +0000</pubDate>
-   <category>FP y educación</category>
+   <category>El centro y la FP</category>
    <category>Nacional</category>
    <source url="https://news.google.com/rss/articles/CBMiggJBVV95cUxQTy1EMFVldlgtaElzWEJBNWxNRDRreTJoZTVtcEhiUnVjOUNKWXVZUG1pZGRDUHYtOHRkZEt0dXZ6RTVSNTNQX01jUm0weU82eDRDdXY3VldxUHpfU2NsMndmQzZGUG13ZzdZM243eDJlMHF6ZWdNam1TbzV5LU5FR3FnVm85SXF6VDFGd0JRU3plUkJYcXNaanQwMjgtOFNmbXFINmUtMEpZdjVFTGlZSmJxQktKODJsa2laTzdic1YzcHNxM1pfTVpTdWtsaTBpckg3Ulc2cHBtc254Y3JzODlZQkJ6bXh0VU9JTVVrWTNMUzlMd2Q0bVRlRlJYdDRTYnfSAYcCQVVfeXFMTmZCMktTNWd1R25vUVM0SU1ZZHJ5eHV0WUwyYUp4WXBJeVp4YmRqTTJrQk9TWmNKeXRqaVZJanYzOHdpTVh5LWFabndhdzRtWUVSeXA0NmJtN1MyZ1AzYzJDcFR0OWJlaG1uUHhFYzQwbHZIOFk5UmRDdEpSLUZNT0I0a1FGQlRQLS1zRXdCdm5JNEdVeVlzbU1ZQ2ZJZzRBdjRRZWR2aUY1aGZPSldWTDlpRHNYY0drRFJtWGpyb0hLZkFVSldNaTNPTVgzcEtXd0YzLTRJUHdiQTVPSU9NX1lGQXBiUkpJVnVoNnhxMXBiLUwydHZ6Z0tPcmpQcHVhRWwzTUJoM0k?oc=5">Neuquen Informa</source>
    <description>Neuquen Informa · Nacional</description>
@@ -352,17 +502,27 @@
    <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkF6Tm56WGV3blFjbWpxSzlpOUNvS05QWUd0WjFDY0Y0NkU4RUFsS2NMS0hGc05qbWhLb3pCU2ktenJpd1YwbkVURjdfUFl0UU1GdXAyM1pfRTZkVWhlSWV2NUVXM05yN3FuVmlBUl8waklnTkRtR1hiZUQ5cV80cl9GSEVISHFmYUxDamVQcktqbXlkckVNZVhqOEVGbmxPSk5xMXd6eFlhaE5iVjBYWkNn0gG3AUFVX3lxTE5YM1NaZE1pbkFwQV9ud0wzTmxMWkJ2dDRwX2lja3huTkloUmVMQ0J4Smp3SnZRZHJiSUV4VVplUmNWbmZsbG82NGhjOU9MY19iSXdzMjJzOWxaQS13SzJjTVNuYnk3QU1QX1ROY3ducWtRZHdKV3ZDdExaU3F4VHNUb1FWbVpnWUcyRmxIWFlYa3hSeVlUcHFTZFlldUpXWjVmdDZ1MFRRbVgzTjYtbVNRYnJhZnVGdw?oc=5</link>
    <guid isPermaLink="false">bb758e0d9990f333</guid>
    <pubDate>Sat, 07 Nov 2026 11:26:27 +0000</pubDate>
-   <category>Agricultura</category>
+   <category>Agricultura y agroecología</category>
    <category>Nacional</category>
    <source url="https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkF6Tm56WGV3blFjbWpxSzlpOUNvS05QWUd0WjFDY0Y0NkU4RUFsS2NMS0hGc05qbWhLb3pCU2ktenJpd1YwbkVURjdfUFl0UU1GdXAyM1pfRTZkVWhlSWV2NUVXM05yN3FuVmlBUl8waklnTkRtR1hiZUQ5cV80cl9GSEVISHFmYUxDamVQcktqbXlkckVNZVhqOEVGbmxPSk5xMXd6eFlhaE5iVjBYWkNn0gG3AUFVX3lxTE5YM1NaZE1pbkFwQV9ud0wzTmxMWkJ2dDRwX2lja3huTkloUmVMQ0J4Smp3SnZRZHJiSUV4VVplUmNWbmZsbG82NGhjOU9MY19iSXdzMjJzOWxaQS13SzJjTVNuYnk3QU1QX1ROY3ducWtRZHdKV3ZDdExaU3F4VHNUb1FWbVpnWUcyRmxIWFlYa3hSeVlUcHFTZFlldUpXWjVmdDZ1MFRRbVgzTjYtbVNRYnJhZnVGdw?oc=5">CLM24</source>
    <description>CLM24 · Nacional</description>
+  </item>
+  <item>
+   <title>El proyecto europeo que crea rutas turísticas del queso artesanal entre España y Portugal</title>
+   <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPN0h6M2Y3OGVqS05CS2ZtNVRRMGpRZjBRVUVmM3NPS0hKSUpPYWx0aHJuc1hMYkVnb3lKWmJLOEhHRXNPeDk3VmhkVzFlUUU1amFqQnRHX1VuajNadm1wcnp2RXBlTndrTUxhMUExV1BMYlptRExyMllQR2oydERXLVpPeWIxOEZiT3pNUEJrVkdpWllLWlZsYlpvcTFoTWxmT2Z5QQ?oc=5</link>
+   <guid isPermaLink="false">a48dd989867f7fea</guid>
+   <pubDate>Sat, 07 Nov 2026 11:15:03 +0000</pubDate>
+   <category>Industrias alimentarias (lácteos)</category>
+   <category>Nacional</category>
+   <source url="https://news.google.com/rss/articles/CBMipAFBVV95cUxPN0h6M2Y3OGVqS05CS2ZtNVRRMGpRZjBRVUVmM3NPS0hKSUpPYWx0aHJuc1hMYkVnb3lKWmJLOEhHRXNPeDk3VmhkVzFlUUU1amFqQnRHX1VuajNadm1wcnp2RXBlTndrTUxhMUExV1BMYlptRExyMllQR2oydERXLVpPeWIxOEZiT3pNUEJrVkdpWllLWlZsYlpvcTFoTWxmT2Z5QQ?oc=5">Avilared</source>
+   <description>Avilared · Nacional</description>
   </item>
   <item>
    <title>El Ayuntamiento de Valladolid activa la situación 2 de aviso por contaminación por partículas en suspensión</title>
    <link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMm82bFVRc0UwMWg5dzZlRHhsQ2FNNkZqUXJCWTltYlRuYVE0TG1OTE0wdlNTMnoySi1FNHZFUEFJUDNjRXk1VDFhOG1pTlpURmx2LXJLQWdIZXFjcExFcVlWV3ROTzM5UzNVbDBRQS01TEpTeHlyZWUzaHlIem5wZ0FwUWNrcjFSVktsZk9GSjcyTU1ocFctVVBCWTN5cDFSdHFteXpYYkFlZExNbDl1c3lBZkhMaWNBbHZNWWFaUlVKRWpyaG1yaDNEU0w5NkZHNXktbmRHOEJuMlp2ZkpkSXJyRWhrM0Jt?oc=5</link>
    <guid isPermaLink="false">e059c57bedd3ddfb</guid>
    <pubDate>Sat, 07 Nov 2026 10:36:35 +0000</pubDate>
-   <category>Química ambiental</category>
+   <category>Química y salud ambiental</category>
    <category>Cantabria</category>
    <source url="https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMm82bFVRc0UwMWg5dzZlRHhsQ2FNNkZqUXJCWTltYlRuYVE0TG1OTE0wdlNTMnoySi1FNHZFUEFJUDNjRXk1VDFhOG1pTlpURmx2LXJLQWdIZXFjcExFcVlWV3ROTzM5UzNVbDBRQS01TEpTeHlyZWUzaHlIem5wZ0FwUWNrcjFSVktsZk9GSjcyTU1ocFctVVBCWTN5cDFSdHFteXpYYkFlZExNbDl1c3lBZkhMaWNBbHZNWWFaUlVKRWpyaG1yaDNEU0w5NkZHNXktbmRHOEJuMlp2ZkpkSXJyRWhrM0Jt?oc=5">Europa Press</source>
    <description>Europa Press · Cantabria</description>
@@ -372,17 +532,27 @@
    <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPMVA4NU1lQUhsOUk4REZzT1Z6LWRHb2ZuSHVDTWJwbUJfeDNUVFZnLUZvWXhIR2xvdUhwR2t1MUV2MC1RZWo2STZrMV9iUjVaRVM0b0llZk43WmZTeFNiUWY3NXRDSW9DMkx1S0hSTVdEeUVjM3h3aWxPamdCLU5NUjlSNktnd2k2NUtKRWxhXzR5TWw0UjI5NDRjeG4?oc=5</link>
    <guid isPermaLink="false">ddb91d9621ca7b7d</guid>
    <pubDate>Sat, 07 Nov 2026 10:26:13 +0000</pubDate>
-   <category>Forestal</category>
+   <category>Forestal y medio natural</category>
    <category>Nacional</category>
    <source url="https://news.google.com/rss/articles/CBMinAFBVV95cUxPMVA4NU1lQUhsOUk4REZzT1Z6LWRHb2ZuSHVDTWJwbUJfeDNUVFZnLUZvWXhIR2xvdUhwR2t1MUV2MC1RZWo2STZrMV9iUjVaRVM0b0llZk43WmZTeFNiUWY3NXRDSW9DMkx1S0hSTVdEeUVjM3h3aWxPamdCLU5NUjlSNktnd2k2NUtKRWxhXzR5TWw0UjI5NDRjeG4?oc=5">DW.com</source>
    <description>DW.com · Nacional</description>
+  </item>
+  <item>
+   <title>Monesterio reúne a 14 de las mejores queserías de España en su Primera Feria del Queso</title>
+   <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2puQ081Z3VBcTV4MUUwRWpjVWZxeFJhZGVILW1sd25VZFhxM1Z6WUg3R3BQSkwxWVkxSVZ5alNab0RBMWtaNDVoM2w3dE5GYjFReTVtWWJLb0dHUFJFcEpuNGNKcFJpclptVDZ5YWE2Y3JRdUhsaU5OOFZDNTBjNXdPSUFNUWcwYng0TXNzcVZYMWtrZGZYVXk1WmRmMlduNFpabjloa3d2UkNLRjVN0gG0AUFVX3lxTE03MFp3VmpTekFuRUhhQUU2RnRhVkxpcXYtTnI1WE5NbmNLclFCb0Z1aXp0dUV0dTFTcFJfYWFOVjY4N0VsQ2FoWk1oX1hReFJvYVdUbVlyY0NFczA2dnZnaDZqbHZydV9CZ2RjVTdSY29pR3EtX3lFR2pmN2lGeTZ3bTczdWJxeG5JV1AxMmJQRWdnVXZqaHJDbExSV0xtMUFJOEJQVFlLNVNNYS04UUdIeFVTMA?oc=5</link>
+   <guid isPermaLink="false">b21c1f4814bbf2d7</guid>
+   <pubDate>Sat, 07 Nov 2026 10:21:28 +0000</pubDate>
+   <category>Industrias alimentarias (lácteos)</category>
+   <category>Nacional</category>
+   <source url="https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2puQ081Z3VBcTV4MUUwRWpjVWZxeFJhZGVILW1sd25VZFhxM1Z6WUg3R3BQSkwxWVkxSVZ5alNab0RBMWtaNDVoM2w3dE5GYjFReTVtWWJLb0dHUFJFcEpuNGNKcFJpclptVDZ5YWE2Y3JRdUhsaU5OOFZDNTBjNXdPSUFNUWcwYng0TXNzcVZYMWtrZGZYVXk1WmRmMlduNFpabjloa3d2UkNLRjVN0gG0AUFVX3lxTE03MFp3VmpTekFuRUhhQUU2RnRhVkxpcXYtTnI1WE5NbmNLclFCb0Z1aXp0dUV0dTFTcFJfYWFOVjY4N0VsQ2FoWk1oX1hReFJvYVdUbVlyY0NFczA2dnZnaDZqbHZydV9CZ2RjVTdSY29pR3EtX3lFR2pmN2lGeTZ3bTczdWJxeG5JV1AxMmJQRWdnVXZqaHJDbExSV0xtMUFJOEJQVFlLNVNNYS04UUdIeFVTMA?oc=5">El Periódico Extremadura</source>
+   <description>El Periódico Extremadura · Nacional</description>
   </item>
   <item>
    <title>Llevan a los tribunales al Ayuntamiento de Santander y su ZBE por la falta de datos transparentes sobre tráfico y contaminación</title>
    <link>https://news.google.com/rss/articles/CBMijAJBVV95cUxNeHpONVhLNnFXeUFZM0dTdlY5ZDZqSGxWNFo3d2EwV0xzOU1DT0lvTFhybDgwOHhxRmpyN2w0Smhxcm8xaWdwMXI2aVRRSTI3LUJ1ZmwzNXRXemdUYkxBelRqSHdLWkxuVmZWYWgwTHlaQjRPVzcyYlVnTWE1S2NycW9sM3FFTHliM1Y3NEpBRUpmcVpFOHZuYkhRbFUwRE9lclhfcjBnMnZaWFVwNVR6NkN0ZndEaWZidTVZMTZaRWxSNHFGazhiVjduN1dPMVRYZk00dV9iSFRoak1YOTNJeHhRT3h5a1hPM1hRdG94R3ZOV3ZoSHhwRGRuNFE1cWlVNkx4RkJSYXE5Mm5p0gGMAkFVX3lxTE14ek41WEs2cVd5QVkzR1N2VjlkNmpIbFY0Wjd3YTBXTHM5TUNPSW9MWHJsODA4eHFGanI3bDRKaHFybzFpZ3AxcjZpVFFJMjctQnVmbDM1dFd6Z1RiTEF6VGpId0taTG5WZlZhaDBMeVpCNE9XNzJiVWdNYTVLY3Jxb2wzcUVMeWIzVjc0SkFFSmZxWkU4dm5iSFFsVTBET2VyWF9yMGcydlpYVXA1VHo2Q3Rmd0RpZmJ1NVkxNlpFbFI0cUZrOGJWN243V08xVFhmTTR1X2JIVGhqTVg5M0l4eFFPeHlrWE8zWFF0b3hHdk5XdmhIeHBEZG40UTVxaVU2THhGQlJhcTkybmk?oc=5</link>
    <guid isPermaLink="false">287c515690e034f1</guid>
    <pubDate>Sat, 07 Nov 2026 10:12:11 +0000</pubDate>
-   <category>Química ambiental</category>
+   <category>Química y salud ambiental</category>
    <category>Cantabria</category>
    <source url="https://news.google.com/rss/articles/CBMijAJBVV95cUxNeHpONVhLNnFXeUFZM0dTdlY5ZDZqSGxWNFo3d2EwV0xzOU1DT0lvTFhybDgwOHhxRmpyN2w0Smhxcm8xaWdwMXI2aVRRSTI3LUJ1ZmwzNXRXemdUYkxBelRqSHdLWkxuVmZWYWgwTHlaQjRPVzcyYlVnTWE1S2NycW9sM3FFTHliM1Y3NEpBRUpmcVpFOHZuYkhRbFUwRE9lclhfcjBnMnZaWFVwNVR6NkN0ZndEaWZidTVZMTZaRWxSNHFGazhiVjduN1dPMVRYZk00dV9iSFRoak1YOTNJeHhRT3h5a1hPM1hRdG94R3ZOV3ZoSHhwRGRuNFE1cWlVNkx4RkJSYXE5Mm5p0gGMAkFVX3lxTE14ek41WEs2cVd5QVkzR1N2VjlkNmpIbFY0Wjd3YTBXTHM5TUNPSW9MWHJsODA4eHFGanI3bDRKaHFybzFpZ3AxcjZpVFFJMjctQnVmbDM1dFd6Z1RiTEF6VGpId0taTG5WZlZhaDBMeVpCNE9XNzJiVWdNYTVLY3Jxb2wzcUVMeWIzVjc0SkFFSmZxWkU4dm5iSFFsVTBET2VyWF9yMGcydlpYVXA1VHo2Q3Rmd0RpZmJ1NVkxNlpFbFI0cUZrOGJWN243V08xVFhmTTR1X2JIVGhqTVg5M0l4eFFPeHlrWE8zWFF0b3hHdk5XdmhIeHBEZG40UTVxaVU2THhGQlJhcTkybmk?oc=5">eldiariocantabria.es</source>
    <description>eldiariocantabria.es · Cantabria</description>
@@ -392,7 +562,7 @@
    <link>https://efeagro.com/embutidos-charcuteria-marina-gastronomic/</link>
    <guid isPermaLink="false">536d253277153df4</guid>
    <pubDate>Sat, 07 Nov 2026 10:00:27 +0000</pubDate>
-   <category>Industrias alimentarias</category>
+   <category>Industrias alimentarias (lácteos)</category>
    <category>Nacional</category>
    <source url="https://efeagro.com/embutidos-charcuteria-marina-gastronomic/">EFEAgro</source>
    <description>Están naciendo nuevas propuestas que reflejan cómo sectores gastronómicos distintos se "roban" formatos y hasta vocabulario para dar sentido a nuevas propuestas.</description>
@@ -402,7 +572,7 @@
    <link>https://news.google.com/rss/articles/CBMijwJBVV95cUxQSGotRnRSdjVZUkE2M2hwXzFreE1BY2U5ZjdIdUhSUE9ZOEhDdHd6aS11UWZSYlMzWWZaa0ZrRkxDNGlBcGVDZFIzZXBXNVdweXVKTDdydnBJcm5KUjlDOXlIM2RrY3RHU0lDYUZiYWVhOTR5c0JraTZJTGlGTDU0RHl6bTJpQkE2OHRxYmtMVjlNbU83OTNuWlptdG5jUVcyRk5NWFJuaU1jMllPcVRWZzdvakFFeUxqUEpyaXgwaU96MXpfeTFjZHgxNXBHR2J1UVJhVDFhdlZmNjBvZWgwWWZrOWhuM1F5bjBiaDR4UGxEWGVNUW93SjY0T0lBLVR5TFBzVjdkWmlFc08yem9z?oc=5</link>
    <guid isPermaLink="false">d35f032d3e5e6937</guid>
    <pubDate>Sat, 07 Nov 2026 09:32:06 +0000</pubDate>
-   <category>Agricultura</category>
+   <category>Agricultura y agroecología</category>
    <category>Nacional</category>
    <source url="https://news.google.com/rss/articles/CBMijwJBVV95cUxQSGotRnRSdjVZUkE2M2hwXzFreE1BY2U5ZjdIdUhSUE9ZOEhDdHd6aS11UWZSYlMzWWZaa0ZrRkxDNGlBcGVDZFIzZXBXNVdweXVKTDdydnBJcm5KUjlDOXlIM2RrY3RHU0lDYUZiYWVhOTR5c0JraTZJTGlGTDU0RHl6bTJpQkE2OHRxYmtMVjlNbU83OTNuWlptdG5jUVcyRk5NWFJuaU1jMllPcVRWZzdvakFFeUxqUEpyaXgwaU96MXpfeTFjZHgxNXBHR2J1UVJhVDFhdlZmNjBvZWgwWWZrOWhuM1F5bjBiaDR4UGxEWGVNUW93SjY0T0lBLVR5TFBzVjdkWmlFc08yem9z?oc=5">El Digital de Albacete</source>
    <description>El Digital de Albacete · Nacional</description>
@@ -412,7 +582,7 @@
    <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1NyS1R4d1JxTUtnUWQtTjBhWVVoaFFKX2NQVFR6UkFhMDBBbkYwQlVGTThSVXB2NC1WNmFZUl9LWUNnUDMwdVE5dUZGd0txOGU5RXlOMERwWHJZMHU4R3BrQTQyd2tid0toZkZ0Y2hrbDh6Vk5oN1VHTF9Wa1pKb2FqLVdOV1BNWFJ6Ukx3NkN5Rl9TbjlwelRJUnJWN3RUVXBWSHFEYw?oc=5</link>
    <guid isPermaLink="false">de53c0942e3d577b</guid>
    <pubDate>Sat, 07 Nov 2026 09:09:22 +0000</pubDate>
-   <category>Industrias alimentarias</category>
+   <category>Industrias alimentarias (lácteos)</category>
    <category>Cantabria</category>
    <source url="https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1NyS1R4d1JxTUtnUWQtTjBhWVVoaFFKX2NQVFR6UkFhMDBBbkYwQlVGTThSVXB2NC1WNmFZUl9LWUNnUDMwdVE5dUZGd0txOGU5RXlOMERwWHJZMHU4R3BrQTQyd2tid0toZkZ0Y2hrbDh6Vk5oN1VHTF9Wa1pKb2FqLVdOV1BNWFJ6Ukx3NkN5Rl9TbjlwelRJUnJWN3RUVXBWSHFEYw?oc=5">Alcázar de San Juan</source>
    <description>Alcázar de San Juan · Cantabria</description>
@@ -422,7 +592,7 @@
    <link>https://efeagro.com/campo-medidas-29n/</link>
    <guid isPermaLink="false">e91e05f0e484d303</guid>
    <pubDate>Sat, 07 Nov 2026 09:00:36 +0000</pubDate>
-   <category>Agricultura</category>
+   <category>Agricultura y agroecología</category>
    <category>Nacional</category>
    <source url="https://efeagro.com/campo-medidas-29n/">EFEAgro</source>
    <description>El sector primario ha reclamado a las formaciones políticas que concurren a las elecciones generales del 29 de noviembre que incorporen en sus programas medidas para que el campo sea rentable y atractivo para los jóvenes y ello pasa, según creen, por más…</description>
@@ -432,180 +602,10 @@
    <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxPbk9ZNEE2c3UzTy1odmtmRmFWT1pIWkE3MEY4ajl5eVVrcGxjeU9kTG5hOUNBWldKVUlSVTRqaUVLX1ppcHN3LTBhd1VoTWFvNG1TWWpLUFUyMFQ2ZDVKTXZTNk5vX2ZRS0lwcGJlVU90emo2RWxmemZCbnJkVWFCUnk0MDFmMEdpQjF3NzFqeU5HUjFYelNERGhzRTFaTFp5TlFnLUk2dmxXU1lHNVdQRVp2NDQ0MTk2enhUakxIaFh0QVQtZzFpYWh5N0h5RUk?oc=5</link>
    <guid isPermaLink="false">b288fe38b5ca0e8e</guid>
    <pubDate>Sat, 07 Nov 2026 08:36:35 +0000</pubDate>
-   <category>Maquinaria y electromecánica</category>
+   <category>Electromecánica de maquinaria</category>
    <category>Cantabria</category>
    <source url="https://news.google.com/rss/articles/CBMizwFBVV95cUxPbk9ZNEE2c3UzTy1odmtmRmFWT1pIWkE3MEY4ajl5eVVrcGxjeU9kTG5hOUNBWldKVUlSVTRqaUVLX1ppcHN3LTBhd1VoTWFvNG1TWWpLUFUyMFQ2ZDVKTXZTNk5vX2ZRS0lwcGJlVU90emo2RWxmemZCbnJkVWFCUnk0MDFmMEdpQjF3NzFqeU5HUjFYelNERGhzRTFaTFp5TlFnLUk2dmxXU1lHNVdQRVp2NDQ0MTk2enhUakxIaFh0QVQtZzFpYWh5N0h5RUk?oc=5">PP de Cantabria</source>
    <description>PP de Cantabria · Cantabria</description>
-  </item>
-  <item>
-   <title>Desarrollan una IA capaz de predecir por dónde avanzará un incendio forestal hasta 12 horas antes: acierta ...</title>
-   <link>https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWEtSOThKQ1A0RzhQOGdoelNFd1NKVzBob282RHAxUzZHcHhmcVNjbWRRRjMzYnBzNktxZXlCMHFZMzdSeWJ5NGhrSm45V1FhRHk2UFI2ek5ZTVhETXkzTHdJemtQOC1HNlAxWGpFYkp0YUdkSm9WTjgwVEM5ZEYxZV8yc1BSclkzNG9oZ0dya25tYW1IbXVfdVEzRzMzYi1ZQVJOZFR6SklRSkxLa2Vybl9iejZueTRPOW9fSFVERlFaWkFPQkNHRFo0bkFlRHdwSnlQRHN6XzhXU3RFQ0NRLURjWdIB4wFBVV95cUxQWEtSOThKQ1A0RzhQOGdoelNFd1NKVzBob282RHAxUzZHcHhmcVNjbWRRRjMzYnBzNktxZXlCMHFZMzdSeWJ5NGhrSm45V1FhRHk2UFI2ek5ZTVhETXkzTHdJemtQOC1HNlAxWGpFYkp0YUdkSm9WTjgwVEM5ZEYxZV8yc1BSclkzNG9oZ0dya25tYW1IbXVfdVEzRzMzYi1ZQVJOZFR6SklRSkxLa2Vybl9iejZueTRPOW9fSFVERlFaWkFPQkNHRFo0bkFlRHdwSnlQRHN6XzhXU3RFQ0NRLURjWQ?oc=5</link>
-   <guid isPermaLink="false">4c2e421cfcd9bf1a</guid>
-   <pubDate>Sat, 07 Nov 2026 07:00:47 +0000</pubDate>
-   <category>Forestal</category>
-   <category>Nacional</category>
-   <source url="https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWEtSOThKQ1A0RzhQOGdoelNFd1NKVzBob282RHAxUzZHcHhmcVNjbWRRRjMzYnBzNktxZXlCMHFZMzdSeWJ5NGhrSm45V1FhRHk2UFI2ek5ZTVhETXkzTHdJemtQOC1HNlAxWGpFYkp0YUdkSm9WTjgwVEM5ZEYxZV8yc1BSclkzNG9oZ0dya25tYW1IbXVfdVEzRzMzYi1ZQVJOZFR6SklRSkxLa2Vybl9iejZueTRPOW9fSFVERlFaWkFPQkNHRFo0bkFlRHdwSnlQRHN6XzhXU3RFQ0NRLURjWdIB4wFBVV95cUxQWEtSOThKQ1A0RzhQOGdoelNFd1NKVzBob282RHAxUzZHcHhmcVNjbWRRRjMzYnBzNktxZXlCMHFZMzdSeWJ5NGhrSm45V1FhRHk2UFI2ek5ZTVhETXkzTHdJemtQOC1HNlAxWGpFYkp0YUdkSm9WTjgwVEM5ZEYxZV8yc1BSclkzNG9oZ0dya25tYW1IbXVfdVEzRzMzYi1ZQVJOZFR6SklRSkxLa2Vybl9iejZueTRPOW9fSFVERlFaWkFPQkNHRFo0bkFlRHdwSnlQRHN6XzhXU3RFQ0NRLURjWQ?oc=5">OkDiario</source>
-   <description>OkDiario · Nacional</description>
-  </item>
-  <item>
-   <title>Carlos Elizondo: «Cada vez somos menos ganaderos y cuanto más unidos estemos, mejor»</title>
-   <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxObFhmOGxkcE13OUhUemdkSTJycVNNWld5Z1BMTk9wLWdOeHpSNlRrNzdxS0xKbmhON1cyaV90Z2xGM252NE9IZlp6MVo1TjMtQXZhZElMUFRnejJKRDFROVNWd051dVdwSmJiUlBvVGZKWWtaeTV4dkJSRFZYamVxREhMczJXU2g1eDlsYzIzSncycm1uczBNaHVSdFNHbEhJc285d1YwZTZ2cElSQXRTem1n?oc=5</link>
-   <guid isPermaLink="false">9a6ce631b0c7d6d8</guid>
-   <pubDate>Sat, 07 Nov 2026 06:41:14 +0000</pubDate>
-   <category>Ganadería</category>
-   <category>Cantabria</category>
-   <source url="https://news.google.com/rss/articles/CBMisgFBVV95cUxObFhmOGxkcE13OUhUemdkSTJycVNNWld5Z1BMTk9wLWdOeHpSNlRrNzdxS0xKbmhON1cyaV90Z2xGM252NE9IZlp6MVo1TjMtQXZhZElMUFRnejJKRDFROVNWd051dVdwSmJiUlBvVGZKWWtaeTV4dkJSRFZYamVxREhMczJXU2g1eDlsYzIzSncycm1uczBNaHVSdFNHbEhJc285d1YwZTZ2cElSQXRTem1n?oc=5">El Diario Montañés</source>
-   <description>El Diario Montañés · Cantabria</description>
-  </item>
-  <item>
-   <title>Llegarán refuerzos del otro lado del charco: Galán pidió ayuda pa' controlar incendios en Bogotá</title>
-   <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNTGVGRGVvT3NpVHpTd1RFcVM2eTFpV3JEUFBVRUswcU1mZ005QXEzMDl0M3dEdE1jUlktUGcybUZ3MFJkWFVVWENfT19vQVUyRS1JNDZGWUR5VlVuazd3ZVlMLUVlWHRiRm0zSmkwU2tSR3l4d2VEOVJOeW4tOG45VC11NUJxWUF1NVl0d1g3b00wRGR0YzZIT3R4YlozRGQtZm9tR3ZqUmE4dU50RE8wS9IBsAFBVV95cUxNTGVGRGVvT3NpVHpTd1RFcVM2eTFpV3JEUFBVRUswcU1mZ005QXEzMDl0M3dEdE1jUlktUGcybUZ3MFJkWFVVWENfT19vQVUyRS1JNDZGWUR5VlVuazd3ZVlMLUVlWHRiRm0zSmkwU2tSR3l4d2VEOVJOeW4tOG45VC11NUJxWUF1NVl0d1g3b00wRGR0YzZIT3R4YlozRGQtZm9tR3ZqUmE4dU50RE8wSw?oc=5</link>
-   <guid isPermaLink="false">4ed8ac6b667a21f8</guid>
-   <pubDate>Sat, 07 Nov 2026 03:34:07 +0000</pubDate>
-   <category>Forestal</category>
-   <category>Nacional</category>
-   <source url="https://news.google.com/rss/articles/CBMisAFBVV95cUxNTGVGRGVvT3NpVHpTd1RFcVM2eTFpV3JEUFBVRUswcU1mZ005QXEzMDl0M3dEdE1jUlktUGcybUZ3MFJkWFVVWENfT19vQVUyRS1JNDZGWUR5VlVuazd3ZVlMLUVlWHRiRm0zSmkwU2tSR3l4d2VEOVJOeW4tOG45VC11NUJxWUF1NVl0d1g3b00wRGR0YzZIT3R4YlozRGQtZm9tR3ZqUmE4dU50RE8wS9IBsAFBVV95cUxNTGVGRGVvT3NpVHpTd1RFcVM2eTFpV3JEUFBVRUswcU1mZ005QXEzMDl0M3dEdE1jUlktUGcybUZ3MFJkWFVVWENfT19vQVUyRS1JNDZGWUR5VlVuazd3ZVlMLUVlWHRiRm0zSmkwU2tSR3l4d2VEOVJOeW4tOG45VC11NUJxWUF1NVl0d1g3b00wRGR0YzZIT3R4YlozRGQtZm9tR3ZqUmE4dU50RE8wSw?oc=5">Alerta</source>
-   <description>Alerta · Nacional</description>
-  </item>
-  <item>
-   <title>En 15 fotos: Así se desarrolló la Expo Provincial de Formación Profesional en el CPE</title>
-   <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQWGtucjNUNU5fR2o1MFNxQXE2RDM0LUJhNEY5R3AtdWFfX0lGVC03TG9WYkYwcWQ2S3MwaG9WSm92d0dhYWpERlpKVmdXTXZ2RVhuNFZtVS1GQ2RmQm9KM0pRRldBYXppQTAzVnhOTnlaT0tVOGQteGt2V1NldDNwcUNoZWt3aW9RZ1oxSC1Ba3gtNXd4RUhqeGFtSUxqQV8zcXNRQzlnRHlHeDVsOGhPbFVOVlBWbTN4cDFPTdIBwgFBVV95cUxNZXFzQTdqTEFTanVjM3M4Ty1QOFBTc3pQUWU1NDFIX2Q2c3ZsbFpFT2dBaFQ4Z3hRM2hKcVc2U01vVGtTMDRrWWp1c0hBNWhHYnZRQ0hOZGpYVHBwWWw5aTJoNXpLOUdCWENOOWxReEpBSmR3VlBEZXVPODJCUUV3WXdDSjVKcVg1Q1k1U0c5SmZlTzd6aTkwbVBoMzFhczhveU1CWExtLWxubHNVSktEbW5jRndtVzFmT2FQUm5GZnpCQQ?oc=5</link>
-   <guid isPermaLink="false">88f79abe610126da</guid>
-   <pubDate>Sat, 07 Nov 2026 02:01:00 +0000</pubDate>
-   <category>FP y educación</category>
-   <category>Nacional</category>
-   <source url="https://news.google.com/rss/articles/CBMivAFBVV95cUxQWGtucjNUNU5fR2o1MFNxQXE2RDM0LUJhNEY5R3AtdWFfX0lGVC03TG9WYkYwcWQ2S3MwaG9WSm92d0dhYWpERlpKVmdXTXZ2RVhuNFZtVS1GQ2RmQm9KM0pRRldBYXppQTAzVnhOTnlaT0tVOGQteGt2V1NldDNwcUNoZWt3aW9RZ1oxSC1Ba3gtNXd4RUhqeGFtSUxqQV8zcXNRQzlnRHlHeDVsOGhPbFVOVlBWbTN4cDFPTdIBwgFBVV95cUxNZXFzQTdqTEFTanVjM3M4Ty1QOFBTc3pQUWU1NDFIX2Q2c3ZsbFpFT2dBaFQ4Z3hRM2hKcVc2U01vVGtTMDRrWWp1c0hBNWhHYnZRQ0hOZGpYVHBwWWw5aTJoNXpLOUdCWENOOWxReEpBSmR3VlBEZXVPODJCUUV3WXdDSjVKcVg1Q1k1U0c5SmZlTzd6aTkwbVBoMzFhczhveU1CWExtLWxubHNVSktEbW5jRndtVzFmT2FQUm5GZnpCQQ?oc=5">Lmneuquen.com</source>
-   <description>Lmneuquen.com · Nacional</description>
-  </item>
-  <item>
-   <title>La empresa española que vigila los cambios de temperatura para detectar incendios con una flota propia de satélites</title>
-   <link>https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd0RSMHBDb21tS2RYYndwQ2JCZFl2cXVRNVZRb1YxN0NxUEs4cjZ3Z2NvVGlRX0NKZFZzOWtyT0pOR21uV2d6VGRWazhSRkZrUlBxekFNcmpRRVZZalhHSGx5NzJVM3Q3Wlk2ZTNiZWYwS2xmVEdTVUM5X0UxTk9VMTJ2b2VlSzMzN1pQMWJLamV4dFRnVWRGWV9objA2eTAwRk9BRjVYWWJHaDZVT1JCTEpVcjBQVzMyNXlvWFNGdHZXQllCa19uSGJPenN6b1lrVGthMVNKMFRZa1k1NU8zTWQyaGVMdFJNNk50WUZn0gHzAUFVX3lxTE5lSXdmTTNzNXd3MEtCWGtqdjJfajNyWjNsamU2WGlLb3RDZXZrY0todnRUMEdabEF6aUNUNnRLQnJpOW1xeGRiSWJ0SlYtYTdJd3JNQjBaeTRWODZQVHhjWjJmZHk0OWlZRjlmZGpnMmZVM3JGZFNIZWZjbXI0UjVPX2QwVFh3cUpySUtOZG5lcmx0ZVU3THJueXNkMlEyZ2dReURGMnlRM0UtNms0czhsTVprdjBKWm1Kc2twSXJkbjJxMzBSOS1sX05sbEZLNi04QV9sVklaMjFmVFpiQV92TllIaWtWZUVQaHlOd1JKdmlmaw?oc=5</link>
-   <guid isPermaLink="false">30c81e439fcfe3b9</guid>
-   <pubDate>Fri, 06 Nov 2026 23:09:15 +0000</pubDate>
-   <category>Forestal</category>
-   <category>Nacional</category>
-   <source url="https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd0RSMHBDb21tS2RYYndwQ2JCZFl2cXVRNVZRb1YxN0NxUEs4cjZ3Z2NvVGlRX0NKZFZzOWtyT0pOR21uV2d6VGRWazhSRkZrUlBxekFNcmpRRVZZalhHSGx5NzJVM3Q3Wlk2ZTNiZWYwS2xmVEdTVUM5X0UxTk9VMTJ2b2VlSzMzN1pQMWJLamV4dFRnVWRGWV9objA2eTAwRk9BRjVYWWJHaDZVT1JCTEpVcjBQVzMyNXlvWFNGdHZXQllCa19uSGJPenN6b1lrVGthMVNKMFRZa1k1NU8zTWQyaGVMdFJNNk50WUZn0gHzAUFVX3lxTE5lSXdmTTNzNXd3MEtCWGtqdjJfajNyWjNsamU2WGlLb3RDZXZrY0todnRUMEdabEF6aUNUNnRLQnJpOW1xeGRiSWJ0SlYtYTdJd3JNQjBaeTRWODZQVHhjWjJmZHk0OWlZRjlmZGpnMmZVM3JGZFNIZWZjbXI0UjVPX2QwVFh3cUpySUtOZG5lcmx0ZVU3THJueXNkMlEyZ2dReURGMnlRM0UtNms0czhsTVprdjBKWm1Kc2twSXJkbjJxMzBSOS1sX05sbEZLNi04QV9sVklaMjFmVFpiQV92TllIaWtWZUVQaHlOd1JKdmlmaw?oc=5">Vozpopuli</source>
-   <description>Vozpopuli · Nacional</description>
-  </item>
-  <item>
-   <title>Fin de la temporada de incendios de 2026</title>
-   <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdXd1c1RJZUdrajNpVlIyeDdIajNZczVNLW1VMENkTzEydmNCNzlvVi15ZmVBT0paZmZTWDV0THNRUDJHUmZ3aUl6TlJfN3JUZGpJdVZHSlhhOVlWMG9xallYSU5pNG12VXZ0UWlFZlJZVlhyajB0dUIxb2s0ZUdFSWtNTURHSDF2RVFlbUt2eDNnVHRtWG5jZnQ2YS0xbVhTbV93OXN4NkQ0OHJPUFA5VXBqSERmc01xWHZLcWNjSG5PbTdFRnItUmRPVHR5WndyRVptemlMWlc?oc=5</link>
-   <guid isPermaLink="false">bde7ec75ffa613bd</guid>
-   <pubDate>Fri, 06 Nov 2026 23:01:49 +0000</pubDate>
-   <category>Forestal</category>
-   <category>Nacional</category>
-   <source url="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdXd1c1RJZUdrajNpVlIyeDdIajNZczVNLW1VMENkTzEydmNCNzlvVi15ZmVBT0paZmZTWDV0THNRUDJHUmZ3aUl6TlJfN3JUZGpJdVZHSlhhOVlWMG9xallYSU5pNG12VXZ0UWlFZlJZVlhyajB0dUIxb2s0ZUdFSWtNTURHSDF2RVFlbUt2eDNnVHRtWG5jZnQ2YS0xbVhTbV93OXN4NkQ0OHJPUFA5VXBqSERmc01xWHZLcWNjSG5PbTdFRnItUmRPVHR5WndyRVptemlMWlc?oc=5">RTVE.es</source>
-   <description>RTVE.es · Nacional</description>
-  </item>
-  <item>
-   <title>FUNDCERI organiza las II Jornadas Ibéricas Grandes Incendios Forestales en Badajoz</title>
-   <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNlZQaW1jcVFodzUtc0gtWHlZanpVb1NiZFRJN0ZXMy0wU3lMT2xYMjY4UldBMWp6Qjl3NDdpN0JrZ2dvQVRQamVBUmdTTEs5T2xwaEdCalN2blpjOEV0THJyUVc2VF9PMXVsWnNfY0t0cXFOUXF5TlZOVS1YYkVvbnRSMFhSd3F1ZkNrNDlZalRGcHNGay1JTktFVHlWUlVpWjljemp5X1RxRzFGUFEwYjEyOU92SmpmNEZkcUN1MXdOUzlNMjNnZVF3N1gtdHNZMzhXTFJ1VlBPUnJnX1HSAeMBQVVfeXFMTVVjS3RrX0VuRWRPcVAwMGJnX19QU0ppS1NCUDRHMGd1cHFOdUpKc0VrTzNFaElrMWsxV2doTEpDbno5ZHREbTZSRFh4b0lnRXQ5UUJKSWx2SnhRUFRRV2tsSTkxa2FQSlduS09OLTZDclRvZlNUS2NsbWpjR19aMkg3Ty1ULVdZVER5U3ZUajk1VTh0bW1HSi1LM3YwR29SSmpuMVI4a3VrS3pJZklhN0pEZ3Y4djd1amJzU2dNa05vRThRclRqSWJhQjRXUDVTRHdUWWMyM084bVd2azJFMTNMNm8?oc=5</link>
-   <guid isPermaLink="false">0e043582a4896a55</guid>
-   <pubDate>Fri, 06 Nov 2026 20:52:57 +0000</pubDate>
-   <category>Forestal</category>
-   <category>Nacional</category>
-   <source url="https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNlZQaW1jcVFodzUtc0gtWHlZanpVb1NiZFRJN0ZXMy0wU3lMT2xYMjY4UldBMWp6Qjl3NDdpN0JrZ2dvQVRQamVBUmdTTEs5T2xwaEdCalN2blpjOEV0THJyUVc2VF9PMXVsWnNfY0t0cXFOUXF5TlZOVS1YYkVvbnRSMFhSd3F1ZkNrNDlZalRGcHNGay1JTktFVHlWUlVpWjljemp5X1RxRzFGUFEwYjEyOU92SmpmNEZkcUN1MXdOUzlNMjNnZVF3N1gtdHNZMzhXTFJ1VlBPUnJnX1HSAeMBQVVfeXFMTVVjS3RrX0VuRWRPcVAwMGJnX19QU0ppS1NCUDRHMGd1cHFOdUpKc0VrTzNFaElrMWsxV2doTEpDbno5ZHREbTZSRFh4b0lnRXQ5UUJKSWx2SnhRUFRRV2tsSTkxa2FQSlduS09OLTZDclRvZlNUS2NsbWpjR19aMkg3Ty1ULVdZVER5U3ZUajk1VTh0bW1HSi1LM3YwR29SSmpuMVI4a3VrS3pJZklhN0pEZ3Y4djd1amJzU2dNa05vRThRclRqSWJhQjRXUDVTRHdUWWMyM084bVd2azJFMTNMNm8?oc=5">Región Digital</source>
-   <description>Región Digital · Nacional</description>
-  </item>
-  <item>
-   <title>Las IV Jornadas de Biodiversidad Urbana abordan en Tarragona la renaturalización del litoral</title>
-   <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxNXy1Scm5wYTl6aFQ0UERoVnpBbFpnWWY2LWdRZ1lyX3R0UFdzXzJjalY4ZDJJdjFYRDY4dzItbG5idVJPSnpDNnpYZDlpeS1ROUJDMG1Ic0ZuQVZDWnc5dG4zS2lwSDNPRG1yXzVubTVMLXhwX0xLVkNrdHJ0am1HMEV2ZG1JZkVIR3FkUVJIX3pGMjg0U2xBSnhqR19sa0hXUTFxa1lnc1RPcGlNMzFxVXFfX1VzUWZvVk53Zms1VUNFR0Q1UUhlZ0s2ckZPOEhYamhac2FDYw?oc=5</link>
-   <guid isPermaLink="false">248da682e3cdbf73</guid>
-   <pubDate>Fri, 06 Nov 2026 17:06:12 +0000</pubDate>
-   <category>Medio ambiente</category>
-   <category>Cantabria</category>
-   <source url="https://news.google.com/rss/articles/CBMi1wFBVV95cUxNXy1Scm5wYTl6aFQ0UERoVnpBbFpnWWY2LWdRZ1lyX3R0UFdzXzJjalY4ZDJJdjFYRDY4dzItbG5idVJPSnpDNnpYZDlpeS1ROUJDMG1Ic0ZuQVZDWnc5dG4zS2lwSDNPRG1yXzVubTVMLXhwX0xLVkNrdHJ0am1HMEV2ZG1JZkVIR3FkUVJIX3pGMjg0U2xBSnhqR19sa0hXUTFxa1lnc1RPcGlNMzFxVXFfX1VzUWZvVk53Zms1VUNFR0Q1UUhlZ0s2ckZPOEhYamhac2FDYw?oc=5">Europa Press</source>
-   <description>Europa Press · Cantabria</description>
-  </item>
-  <item>
-   <title>Una granja de Ciudad Real registra un foco de una variante de la enfermedad hemorrágica inédita en la Unión Europea</title>
-   <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxObWh2U2pZNlNVXzRNZGY1SzBfTm12OE9DWE0wZlk3R3dLSzljVnNzQVdBMjctUmpEQkxwdE94TVhIYXg1UXZyUC1WVE91NWR0ekd5ajNVZ1lKUDZWS3AydkF4blVOY2o4VzhDSkdfZWhDbnl3b1dKbmhPanFnUENmS2NrNDVrSHRPOUh1S3RocHY4Y1RRUGZPN2t1SjJ0QUR1YmJ6aThzN0RsUENfLVkyMGxZZXdRb3pETDM3a21pMks4MGZUOHpxOVNfWm9uTnQzOHBSRy1MONIB3AFBVV95cUxNYTQ2MkRlcXB4bm8ya0VzeThNZTBqRFNXR0hYOUtJUGdBVzBZZE5JbDZjV3VCcC1MVWxvTlQ1QndoRGtYQWUzRC12VFA4ektiQThodWVaTGM1WXg3dFZxZ0FGbGl1bTI2US15V0xWOTR2RFNkcVdXUlFwZ21kV2VrSWh4TF9nYU9KZTJ2Z2dhTkhXendQSnota05sZmJrQS1mOFRoQTB0bm9FV2pjTDVBeDJaWElMcmI0NVNpdWQ5Mm1tZlNKdHc3d3JpNkMzSDB4M1FZWnpHZjFITGNF?oc=5</link>
-   <guid isPermaLink="false">b98d82ab05738f59</guid>
-   <pubDate>Fri, 06 Nov 2026 16:25:30 +0000</pubDate>
-   <category>Ganadería</category>
-   <category>Nacional</category>
-   <source url="https://news.google.com/rss/articles/CBMi1wFBVV95cUxObWh2U2pZNlNVXzRNZGY1SzBfTm12OE9DWE0wZlk3R3dLSzljVnNzQVdBMjctUmpEQkxwdE94TVhIYXg1UXZyUC1WVE91NWR0ekd5ajNVZ1lKUDZWS3AydkF4blVOY2o4VzhDSkdfZWhDbnl3b1dKbmhPanFnUENmS2NrNDVrSHRPOUh1S3RocHY4Y1RRUGZPN2t1SjJ0QUR1YmJ6aThzN0RsUENfLVkyMGxZZXdRb3pETDM3a21pMks4MGZUOHpxOVNfWm9uTnQzOHBSRy1MONIB3AFBVV95cUxNYTQ2MkRlcXB4bm8ya0VzeThNZTBqRFNXR0hYOUtJUGdBVzBZZE5JbDZjV3VCcC1MVWxvTlQ1QndoRGtYQWUzRC12VFA4ektiQThodWVaTGM1WXg3dFZxZ0FGbGl1bTI2US15V0xWOTR2RFNkcVdXUlFwZ21kV2VrSWh4TF9nYU9KZTJ2Z2dhTkhXendQSnota05sZmJrQS1mOFRoQTB0bm9FV2pjTDVBeDJaWElMcmI0NVNpdWQ5Mm1tZlNKdHc3d3JpNkMzSDB4M1FZWnpHZjFITGNF?oc=5">Diario Público</source>
-   <description>Diario Público · Nacional</description>
-  </item>
-  <item>
-   <title>Fegasur vuelve a Jerez con más de 600 animales y celebra sus 25 años tras dos ediciones suspendidas en Ifeca</title>
-   <link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxOa3JZSWduU3NGMHVMQ2toRzZ0U2dwU0h3bHR5MklISkdlU3ZHQ1ZrNU5ldkJMRG8tV0JGOFhoNVpnOW1HeTgzdXdNNTI1Q2lkYUVYRlBWci1SaUxQQlFZY2FpVXBKbVQ5c0UyTUVjczJpUnlSZnJ2OGJXVS1iOG1Ua1BFNFhkaDJXVVVrZkRPaldZRUVlaVk3LW1DOTJRcTcyQ3BZU1dJelh2WUM1UWJ3dV9HVzF1MnFISkdfNFRGendDUWkxelhxRnkyU1phQXJUMER5V0xla0J5dk1kRkhVN09BMV9qendTNlQyTFZoYTFYQQ?oc=5</link>
-   <guid isPermaLink="false">e33d216e6a2db896</guid>
-   <pubDate>Fri, 06 Nov 2026 16:06:23 +0000</pubDate>
-   <category>Ganadería</category>
-   <category>Nacional</category>
-   <source url="https://news.google.com/rss/articles/CBMi8gFBVV95cUxOa3JZSWduU3NGMHVMQ2toRzZ0U2dwU0h3bHR5MklISkdlU3ZHQ1ZrNU5ldkJMRG8tV0JGOFhoNVpnOW1HeTgzdXdNNTI1Q2lkYUVYRlBWci1SaUxQQlFZY2FpVXBKbVQ5c0UyTUVjczJpUnlSZnJ2OGJXVS1iOG1Ua1BFNFhkaDJXVVVrZkRPaldZRUVlaVk3LW1DOTJRcTcyQ3BZU1dJelh2WUM1UWJ3dV9HVzF1MnFISkdfNFRGendDUWkxelhxRnkyU1phQXJUMER5V0xla0J5dk1kRkhVN09BMV9qendTNlQyTFZoYTFYQQ?oc=5">Portal de Cádiz</source>
-   <description>Portal de Cádiz · Nacional</description>
-  </item>
-  <item>
-   <title>Cantabria pide ayuda al Gobierno español para frenar la expansión del alga invasora</title>
-   <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOTGtGYklxS2VmNEw0RVF2ZGp4TEFDLTh6YU1qXzBpaW8tdUxBbVEybWxJc0J3cUNIRERMOGxyTE5udUhMcmJERGxldWg4ODlDdnhnWXlvekNud1Y2bUtWcDl5aGdTaFJEUGVsYVB2UnVKU0ZzY191V3hFTVhjM21CajlsMHFyQUVoZGtRZFJiTFZUNGt6dGxwQktVSm1vZm81YTJoa2V5ekJTWXExUjJ30gG0AUFVX3lxTE5uU3RpRll1ckdETVpxeUxwRG1ZRjNFSk5LQUZ3VG14dmRlTE9pdld6a2pJR0RWdFc5T2l3U1BfaW5RMXVidm9QQ0lNMTZVdUFQSWdNdFVtbkh3X1NaWkozXzJRT0FDN0RSSmQzejJOd3U2eTlsS08xR0xTdG0xSmw1R0RraEZEZmZ2YXYyTDlCaUk5U0hCNG5yZ1J1RzgwMTI1a1lVN1hNRXh4czZRczU5Y3ZtSA?oc=5</link>
-   <guid isPermaLink="false">d205fae06c58c955</guid>
-   <pubDate>Fri, 06 Nov 2026 16:04:31 +0000</pubDate>
-   <category>Química ambiental</category>
-   <category>Cantabria</category>
-   <source url="https://news.google.com/rss/articles/CBMirwFBVV95cUxOTGtGYklxS2VmNEw0RVF2ZGp4TEFDLTh6YU1qXzBpaW8tdUxBbVEybWxJc0J3cUNIRERMOGxyTE5udUhMcmJERGxldWg4ODlDdnhnWXlvekNud1Y2bUtWcDl5aGdTaFJEUGVsYVB2UnVKU0ZzY191V3hFTVhjM21CajlsMHFyQUVoZGtRZFJiTFZUNGt6dGxwQktVSm1vZm81YTJoa2V5ekJTWXExUjJ30gG0AUFVX3lxTE5uU3RpRll1ckdETVpxeUxwRG1ZRjNFSk5LQUZ3VG14dmRlTE9pdld6a2pJR0RWdFc5T2l3U1BfaW5RMXVidm9QQ0lNMTZVdUFQSWdNdFVtbkh3X1NaWkozXzJRT0FDN0RSSmQzejJOd3U2eTlsS08xR0xTdG0xSmw1R0RraEZEZmZ2YXYyTDlCaUk5U0hCNG5yZ1J1RzgwMTI1a1lVN1hNRXh4czZRczU5Y3ZtSA?oc=5">Onda Vasca</source>
-   <description>Onda Vasca · Cantabria</description>
-  </item>
-  <item>
-   <title>Enfermedad hemorrágica: España detecta el serotipo 7 en Ciudad Real</title>
-   <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNbDk2VFF6Rl82NndLTC1WYU5oZWt4TXFCTjlnTE5ralpWQzEwRmY1X0g4ckVLdmo1UE12dGNESjQ2dVdXNG1oUG1BemVTWkY2S1FmRzU2NlZ3V0pGZ1ZxTGpvVVRDTDZ3X3BqSmFZT291SmNDX0pEN1NFc1Y0cnZzaW1EX2dXYllGYVVwMFp6LTJzZ3lLOExKVWJ1TV9GSnlfMmxkMjlHZVlucnJkR3ZvQ1NtVDQ4aWxCTk1NN3lXWG1iVGF2RExlY3o1MHZIdHPSAc8BQVVfeXFMTWw5NlRRekZfNjZ3S0wtVmFOaGVreE1xQk45Z0xOa2paVkMxMEZmNV9IOHJFS3ZqNVBNdnRjREo0NnVXVzRtaFBtQXplU1pGNktRZkc1NjZWd1dKRmdWcUxqb1VUQ0w2d19wakphWU9vdUpjQ19KRDdTRXNWNHJ2c2ltRF9nV2JZRmFVcDBaei0yc2d5SzhMSlVidU1fRkp5XzJsZDI5R2VZbnJyZEd2b0NTbVQ0OGlsQk5NTTd5V1htYlRhdkRMZWN6NTB2SHRz?oc=5</link>
-   <guid isPermaLink="false">576c458c721b43c5</guid>
-   <pubDate>Fri, 06 Nov 2026 15:52:32 +0000</pubDate>
-   <category>Ganadería</category>
-   <category>Nacional</category>
-   <source url="https://news.google.com/rss/articles/CBMizwFBVV95cUxNbDk2VFF6Rl82NndLTC1WYU5oZWt4TXFCTjlnTE5ralpWQzEwRmY1X0g4ckVLdmo1UE12dGNESjQ2dVdXNG1oUG1BemVTWkY2S1FmRzU2NlZ3V0pGZ1ZxTGpvVVRDTDZ3X3BqSmFZT291SmNDX0pEN1NFc1Y0cnZzaW1EX2dXYllGYVVwMFp6LTJzZ3lLOExKVWJ1TV9GSnlfMmxkMjlHZVlucnJkR3ZvQ1NtVDQ4aWxCTk1NN3lXWG1iVGF2RExlY3o1MHZIdHPSAc8BQVVfeXFMTWw5NlRRekZfNjZ3S0wtVmFOaGVreE1xQk45Z0xOa2paVkMxMEZmNV9IOHJFS3ZqNVBNdnRjREo0NnVXVzRtaFBtQXplU1pGNktRZkc1NjZWd1dKRmdWcUxqb1VUQ0w2d19wakphWU9vdUpjQ19KRDdTRXNWNHJ2c2ltRF9nV2JZRmFVcDBaei0yc2d5SzhMSlVidU1fRkp5XzJsZDI5R2VZbnJyZEd2b0NTbVQ0OGlsQk5NTTd5V1htYlRhdkRMZWN6NTB2SHRz?oc=5">CLM24</source>
-   <description>CLM24 · Nacional</description>
-  </item>
-  <item>
-   <title>Guía para hacer un maridaje perfecto con los quesos y bebidas de Cantabria sin salir de casa</title>
-   <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdFM5VFZrT242QlBGRUVuYmM1ZGdhODVXQVJiTzhXMndnWC11d21MRGNRS3pZTGFTNHQ3R2s3N2ZWUUl5OGdCWGE1YktBbXIyUktLTWM4SGFIMnRudzgzR3RpUmdCM0VRVmZIYjc0ajZEc0RyblhDdDA0cmpSRFcyZnBGaTUyZGU0N1lHTm1XMDRxN1Rkd2JQbm93ZVlBVXZaTUljNVJ5dnNKRkZLRFZ2ZERJOE1yX2ptOVNKSmRaRWpONmNWR0lzQ2RUT0NyRFA0?oc=5</link>
-   <guid isPermaLink="false">6a57fa095ef0c201</guid>
-   <pubDate>Fri, 06 Nov 2026 15:48:22 +0000</pubDate>
-   <category>Industrias alimentarias</category>
-   <category>Cantabria</category>
-   <source url="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdFM5VFZrT242QlBGRUVuYmM1ZGdhODVXQVJiTzhXMndnWC11d21MRGNRS3pZTGFTNHQ3R2s3N2ZWUUl5OGdCWGE1YktBbXIyUktLTWM4SGFIMnRudzgzR3RpUmdCM0VRVmZIYjc0ajZEc0RyblhDdDA0cmpSRFcyZnBGaTUyZGU0N1lHTm1XMDRxN1Rkd2JQbm93ZVlBVXZaTUljNVJ5dnNKRkZLRFZ2ZERJOE1yX2ptOVNKSmRaRWpONmNWR0lzQ2RUT0NyRFA0?oc=5">InfoNegocios Madrid</source>
-   <description>InfoNegocios Madrid · Cantabria</description>
-  </item>
-  <item>
-   <title>Arrancó la Expo en el CPE con muestras en vivo, gastronomía y diseño: hasta cuándo y qué se puede conseguir</title>
-   <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxPZUtzeklVbEdTUV93VW1LS3V1Y1hkZ05VVzg2QmRhNmhfWDR1R3ZQc0hWWV82Q3k2LVAtcHVsREN2dVBNeFpUbFMyWW9EOGhwaXdTczRUb2VhVS1kREFoNW9UZEFXOWtOTWVnaUQyZWZjRWRvbkdnUEpyaGhLODNocXg5aXhheTN4akYwUHlrTW16MThMNjBZUWtRLWszQnRTS1VLQi1qRXkwQk11SEJHdF95ZFhZMFVGVnh3TUZLbEhCZ090X3YzSENnVnjSAdIBQVVfeXFMTUcxeVc0WnVMTGNlQjhHeUF1RERSMjhSMWIxYzZVYmJYT1FpbTA1UTB6NXREeURvQmFUZmZadXppUGVsN0otVHZvaHpIWTJGRkJzamhtZDljWXdOTFA4RTFHeE5ra01ucW45LUNRdFU1VkdjQTkyQWpYaG9CTHVua2thNXlwNjgxX01IOGdsSUlvcmZEeUVsR2JWNDBNRk1aSXZmU2pGZGpybHQ0NFZSSjAzTU4wVUQwM2hRc2F0NUJqS1BGaU5uQ0d1bzBYajhkVERB?oc=5</link>
-   <guid isPermaLink="false">4f4ff87a9b6e7c1c</guid>
-   <pubDate>Fri, 06 Nov 2026 15:33:00 +0000</pubDate>
-   <category>FP y educación</category>
-   <category>Nacional</category>
-   <source url="https://news.google.com/rss/articles/CBMizAFBVV95cUxPZUtzeklVbEdTUV93VW1LS3V1Y1hkZ05VVzg2QmRhNmhfWDR1R3ZQc0hWWV82Q3k2LVAtcHVsREN2dVBNeFpUbFMyWW9EOGhwaXdTczRUb2VhVS1kREFoNW9UZEFXOWtOTWVnaUQyZWZjRWRvbkdnUEpyaGhLODNocXg5aXhheTN4akYwUHlrTW16MThMNjBZUWtRLWszQnRTS1VLQi1qRXkwQk11SEJHdF95ZFhZMFVGVnh3TUZLbEhCZ090X3YzSENnVnjSAdIBQVVfeXFMTUcxeVc0WnVMTGNlQjhHeUF1RERSMjhSMWIxYzZVYmJYT1FpbTA1UTB6NXREeURvQmFUZmZadXppUGVsN0otVHZvaHpIWTJGRkJzamhtZDljWXdOTFA4RTFHeE5ra01ucW45LUNRdFU1VkdjQTkyQWpYaG9CTHVua2thNXlwNjgxX01IOGdsSUlvcmZEeUVsR2JWNDBNRk1aSXZmU2pGZGpybHQ0NFZSSjAzTU4wVUQwM2hRc2F0NUJqS1BGaU5uQ0d1bzBYajhkVERB?oc=5">Lmneuquen.com</source>
-   <description>Lmneuquen.com · Nacional</description>
-  </item>
-  <item>
-   <title>Canarias: Torres exige claridad al PP en materia de inmigración</title>
-   <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVGlzYmc1R3JPWUFIdDhKdmpldWNoOXVCMGY2Z19TclBWLWw3X1hVWF9pRjlaZkVhV3BKVEkxY1RxOXN4aVZieHZ4ak9pcm5iS1NQN18tQXlwQkJUNDZKZ1l4X1p1Tm90LXczd3NlaUtTakxMMGhxckJaR0hXRWRBd3B4bXllMFBwT3dyWnowSW5mZWZVOW5YdWlGR0xhNXhKdk5KSXBSdmVBT0RjdWFIc01LYUZ4aGdjaXVkOTg3SmVJclVJRHd6eU5OV3l5eWpnVHpKM3hGd1E?oc=5</link>
-   <guid isPermaLink="false">091f5859ee4812d3</guid>
-   <pubDate>Fri, 06 Nov 2026 14:12:40 +0000</pubDate>
-   <category>Química ambiental</category>
-   <category>Nacional</category>
-   <source url="https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVGlzYmc1R3JPWUFIdDhKdmpldWNoOXVCMGY2Z19TclBWLWw3X1hVWF9pRjlaZkVhV3BKVEkxY1RxOXN4aVZieHZ4ak9pcm5iS1NQN18tQXlwQkJUNDZKZ1l4X1p1Tm90LXczd3NlaUtTakxMMGhxckJaR0hXRWRBd3B4bXllMFBwT3dyWnowSW5mZWZVOW5YdWlGR0xhNXhKdk5KSXBSdmVBT0RjdWFIc01LYUZ4aGdjaXVkOTg3SmVJclVJRHd6eU5OV3l5eWpnVHpKM3hGd1E?oc=5">Teneriffa News</source>
-   <description>Teneriffa News · Nacional</description>
-  </item>
-  <item>
-   <title>La Justicia da tres días al Ayuntamiento de Santander para entregar los datos de contaminación de la zona de bajas emisiones</title>
-   <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY2JfRm93OGd5VU9Qd0xGeWhpTzRtakNTNFppNkJNU2tlTzlGNXpBVUxqTE1veHhIc0VUSUwzcTNNWHdPblBzNi1KOVhGZThLWkZTSFJ5VF9CRGxyWkNlNUV4RkVPME0tTUVXaVd6c0RtZEh3OU9BU1hEQmVaOTBZVW01Qndhd2kyVE1uc2p0VzNRY1N4b05Nc0NNQUgwQVN4Nlh2VzlVNFdmZ3htUW9PMWF3MlNfdWw4UzZjYTdUS3kwLXdDNWNJSkNHZlFMMkJfeVdBU3BSN0pvZFVZ0gHiAUFVX3lxTE52V0dhUnRqUXBDWU90aWVKRkZMMXduZTRDZTlXMnY3TTF2eXktb1A1Q3VQNGlfMy0wRFZNV0tXMzJZVkd3YzNJVkZnVDhuaGVzZWhQZFRSTVN6MFpBVk5IVUVtSjk1YW5tTlMzOEtCbWFLWXJjMXF1QjNEcUY1Qnc4QVN0MFRuTHRtb1JiSVQxY1dENlBWMnRKc3M4ZTNacFhOMnhROVBqbFFHZEhkd3FtOGp6bFNRZENESkppUzhiZWNuVnlZZ3VILVB1dVU2WEEzclFwNWgtU0UzTUlfT29US3c?oc=5</link>
-   <guid isPermaLink="false">e5803b2faa309eb5</guid>
-   <pubDate>Fri, 06 Nov 2026 13:52:54 +0000</pubDate>
-   <category>Química ambiental</category>
-   <category>Cantabria</category>
-   <source url="https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY2JfRm93OGd5VU9Qd0xGeWhpTzRtakNTNFppNkJNU2tlTzlGNXpBVUxqTE1veHhIc0VUSUwzcTNNWHdPblBzNi1KOVhGZThLWkZTSFJ5VF9CRGxyWkNlNUV4RkVPME0tTUVXaVd6c0RtZEh3OU9BU1hEQmVaOTBZVW01Qndhd2kyVE1uc2p0VzNRY1N4b05Nc0NNQUgwQVN4Nlh2VzlVNFdmZ3htUW9PMWF3MlNfdWw4UzZjYTdUS3kwLXdDNWNJSkNHZlFMMkJfeVdBU3BSN0pvZFVZ0gHiAUFVX3lxTE52V0dhUnRqUXBDWU90aWVKRkZMMXduZTRDZTlXMnY3TTF2eXktb1A1Q3VQNGlfMy0wRFZNV0tXMzJZVkd3YzNJVkZnVDhuaGVzZWhQZFRSTVN6MFpBVk5IVUVtSjk1YW5tTlMzOEtCbWFLWXJjMXF1QjNEcUY1Qnc4QVN0MFRuTHRtb1JiSVQxY1dENlBWMnRKc3M4ZTNacFhOMnhROVBqbFFHZEhkd3FtOGp6bFNRZENESkppUzhiZWNuVnlZZ3VILVB1dVU2WEEzclFwNWgtU0UzTUlfT29US3c?oc=5">elDiario.es</source>
-   <description>elDiario.es · Cantabria</description>
-  </item>
-  <item>
-   <title>España convoca ayudas de 35 millones de euros para inversiones en la industria alimentaria</title>
-   <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPVDdPVFN5VUdEYm13YkxjV2RwT3hiYzV4Ym9NVndCUHBkXzVPdkI2LTVobk5BR1JJMXRvWWRxd29Xei1lRnJ5VmFfUzVnM1dNeG51ZFZUdzlidUk1TXVHd0UwR0hGaXY3M1E4YTREVDB5Wk1kUUNmZ1RfbjFHZXJMcDZqXzFUVEhKYzNIdWstNEpndDJ3dTA4YnEtdWNnRm1SdWM1S0tZV0Exa2NyT0NTT0J3?oc=5</link>
-   <guid isPermaLink="false">d8d4f3122fa70a62</guid>
-   <pubDate>Fri, 06 Nov 2026 13:27:19 +0000</pubDate>
-   <category>Industrias alimentarias</category>
-   <category>Nacional</category>
-   <source url="https://news.google.com/rss/articles/CBMisgFBVV95cUxPVDdPVFN5VUdEYm13YkxjV2RwT3hiYzV4Ym9NVndCUHBkXzVPdkI2LTVobk5BR1JJMXRvWWRxd29Xei1lRnJ5VmFfUzVnM1dNeG51ZFZUdzlidUk1TXVHd0UwR0hGaXY3M1E4YTREVDB5Wk1kUUNmZ1RfbjFHZXJMcDZqXzFUVEhKYzNIdWstNEpndDJ3dTA4YnEtdWNnRm1SdWM1S0tZV0Exa2NyT0NTT0J3?oc=5">Dairynews.today</source>
-   <description>Dairynews.today · Nacional</description>
   </item>
  </channel>
 </rss>
