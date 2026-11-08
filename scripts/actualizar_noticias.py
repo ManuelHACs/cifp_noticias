@@ -262,6 +262,8 @@ def main() -> int:
 
     def vigente(n):
         d = fecha(n["fecha"])
+        if clasif.excluida(n["titulo"]):
+            return False
         return d and d >= (lim_cifp if n["ambito"] == "cifp" else lim_general)
 
     noticias = sorted((n for n in por_id.values() if vigente(n)), key=lambda n: n["fecha"], reverse=True)
