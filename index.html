@@ -4,251 +4,93 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Noticiario CIFP La Granja</title>
+    <meta name="description" content="Actualidad agraria, ganadera, forestal y agroalimentaria del CIFP La Granja, Cantabria y España, actualizada automáticamente.">
+    <link rel="alternate" type="application/rss+xml" title="Noticiario CIFP La Granja" href="feed.xml">
+    <link rel="icon" href="logo2.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
-    
     <style>
         :root {
-            --primary-color: #2C5F5F;
-            --primary-light: #4CAF50;
-            --secondary-color: #66BB6A;
-            --accent-color: #4CAF50;
-            --background-color: #F1F8F4;
-            --card-bg: #ffffff;
-            --text-dark: #1B4D3E;
-            --text-body: #2C5F5F;
-            --text-light: #78909c;
-            --shadow-sm: 0 2px 4px rgba(44,95,95,0.05);
-            --shadow-md: 0 4px 6px rgba(44,95,95,0.1);
-            --shadow-lg: 0 10px 15px rgba(44,95,95,0.1);
+            --primary: #2C5F5F;
+            --primary-dark: #1B4D3E;
+            --accent: #4CAF50;
+            --accent-soft: #E3F2E6;
+            --bg: #F1F8F4;
+            --card: #ffffff;
+            --text: #24474A;
+            --text-strong: #1B4D3E;
+            --muted: #5f7a80;
+            --border: #dfe9e3;
+            --shadow-sm: 0 2px 4px rgba(44,95,95,0.06);
+            --shadow-lg: 0 10px 20px rgba(44,95,95,0.12);
             --radius: 12px;
-            --font-main: 'Outfit', sans-serif;
+            --font: 'Outfit', system-ui, sans-serif;
+            /* colores por área */
+            --a-agricultura: #7CB342; --a-ganaderia: #8D6E63; --a-forestal: #2E7D32;
+            --a-medioambiente: #00897B; --a-jardineria: #C0CA33; --a-alimentarias: #F9A825;
+            --a-maquinaria: #546E7A; --a-fp: #5C6BC0;
         }
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        body {
-            font-family: var(--font-main);
-            background-color: var(--background-color);
-            color: var(--text-body);
-            line-height: 1.6;
-        }
-        .main-header {
-            background: linear-gradient(135deg, var(--primary-color), var(--text-dark));
-            color: white;
-            padding: 1.5rem 0;
-            box-shadow: var(--shadow-md);
-        }
-        .header-content {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 2rem;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 1rem;
-        }
-        .logo-area {
-            display: flex;
-            align-items: center;
-            gap: 1rem;
-        }
-        .logo-img {
-            height: 60px;
-            width: auto;
-            object-fit: contain;
-        }
-        .title-group h1 {
-            font-size: 1.8rem;
-            font-weight: 700;
-            line-height: 1.2;
-        }
-        .title-group p {
-            font-size: 0.9rem;
-            opacity: 0.9;
-            font-weight: 300;
-        }
-        .filters {
-            display: flex;
-            gap: 0.5rem;
-            flex-wrap: wrap;
-        }
-        .filter-btn {
-            background: rgba(255,255,255,0.1);
-            border: 1px solid rgba(255,255,255,0.2);
-            color: white;
-            padding: 0.5rem 1rem;
-            border-radius: 20px;
-            cursor: pointer;
-            font-family: var(--font-main);
-            font-weight: 600;
-            transition: all 0.3s ease;
-        }
-        .filter-btn:hover, .filter-btn.active {
-            background: var(--accent-color);
-            color: var(--text-dark);
-            border-color: var(--accent-color);
-            transform: translateY(-2px);
-        }
-        .container {
-            max-width: 1200px;
-            margin: 2rem auto;
-            padding: 0 2rem;
-        }
-        .family-filters {
-            margin-bottom: 2rem;
-            display: flex;
-            align-items: center;
-            gap: 1rem;
-            background: var(--card-bg);
-            padding: 1rem;
-            border-radius: var(--radius);
-            box-shadow: var(--shadow-sm);
-        }
-        .filter-label {
-            font-weight: 600;
-            color: var(--text-dark);
-        }
-        #family-select {
-            padding: 0.5rem;
-            border-radius: 8px;
-            border: 1px solid #ccc;
-            font-family: var(--font-main);
-            flex-grow: 1;
-            max-width: 300px;
-        }
-        .news-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 2rem;
-        }
-        .news-card {
-            background: var(--card-bg);
-            border-radius: var(--radius);
-            overflow: hidden;
-            box-shadow: var(--shadow-sm);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            display: flex;
-            flex-direction: column;
-            height: 100%;
-        }
-        .news-card:hover {
-            transform: translateY(-5px);
-            box-shadow: var(--shadow-lg);
-        }
-        .card-image {
-            height: 200px;
-            overflow: hidden;
-            position: relative;
-            background: linear-gradient(135deg, var(--primary-light), var(--secondary-color));
-        }
-        .card-image img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            transition: transform 0.5s ease;
-            background-color: white; /* Ensures transparent logos look good */
-        }
-        .news-card:hover .card-image img {
-            transform: scale(1.05);
-        }
-        .card-badge {
-            position: absolute;
-            top: 1rem;
-            right: 1rem;
-            background: var(--accent-color);
-            color: var(--text-dark);
-            padding: 0.25rem 0.75rem;
-            border-radius: 12px;
-            font-size: 0.75rem;
-            font-weight: 700;
-            text-transform: uppercase;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
-        }
-        .card-content {
-            padding: 1.5rem;
-            flex-grow: 1;
-            display: flex;
-            flex-direction: column;
-        }
-        .card-meta {
-            display: flex;
-            justify-content: space-between;
-            font-size: 0.8rem;
-            color: var(--text-light);
-            margin-bottom: 0.5rem;
-        }
-        .news-scope {
-            font-weight: 600;
-            color: var(--primary-light);
-            text-transform: uppercase;
-        }
-        .card-title {
-            font-size: 1.25rem;
-            font-weight: 700;
-            color: var(--text-dark);
-            margin-bottom: 0.75rem;
-            line-height: 1.3;
-        }
-        .card-summary {
-            font-size: 0.95rem;
-            color: var(--text-body);
-            margin-bottom: 1.5rem;
-            flex-grow: 1;
-        }
-        .card-footer {
-            border-top: 1px solid #eee;
-            padding-top: 1rem;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        .family-tag {
-            background: var(--background-color);
-            color: var(--primary-color);
-            padding: 0.25rem 0.5rem;
-            border-radius: 4px;
-            font-size: 0.8rem;
-            font-weight: 600;
-        }
-        .read-more {
-            color: var(--primary-color);
-            text-decoration: none;
-            font-weight: 600;
-            font-size: 0.9rem;
-            display: flex;
-            align-items: center;
-            gap: 0.25rem;
-        }
-        .read-more:hover {
-            text-decoration: underline;
-        }
-        .main-footer {
-            background: var(--text-dark);
-            color: white;
-            text-align: center;
-            padding: 2rem;
-            margin-top: 4rem;
-        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: var(--font); background: var(--bg); color: var(--text); line-height: 1.55; }
+        a { color: inherit; }
+
+        .main-header { background: linear-gradient(135deg, var(--primary), var(--primary-dark)); color: #fff; padding: 1.25rem 0; box-shadow: 0 4px 6px rgba(44,95,95,.15); }
+        .header-content { max-width: 1200px; margin: 0 auto; padding: 0 1rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem; }
+        .logo-area { display: flex; align-items: center; gap: .9rem; }
+        .logo-img { height: 56px; width: auto; }
+        .title-group h1 { font-size: 1.7rem; font-weight: 700; line-height: 1.15; }
+        .title-group p { font-size: .9rem; opacity: .9; font-weight: 300; }
+        .filters { display: flex; gap: .5rem; flex-wrap: wrap; }
+        .filter-btn { background: rgba(255,255,255,.1); border: 1px solid rgba(255,255,255,.25); color: #fff; padding: .45rem .95rem; border-radius: 20px; cursor: pointer; font: 600 .9rem var(--font); transition: background .2s, transform .2s; }
+        .filter-btn .count { opacity: .75; font-weight: 400; margin-left: .2rem; }
+        .filter-btn:hover, .filter-btn.active { background: var(--accent); border-color: var(--accent); color: var(--primary-dark); transform: translateY(-1px); }
+
+        .container { max-width: 1200px; margin: 1.5rem auto; padding: 0 1rem; }
+        .toolbar { display: flex; flex-wrap: wrap; gap: .75rem; align-items: center; background: var(--card); padding: .9rem 1rem; border-radius: var(--radius); box-shadow: var(--shadow-sm); margin-bottom: 1rem; }
+        .toolbar label { font-weight: 600; color: var(--text-strong); }
+        .toolbar select, .toolbar input { padding: .5rem .6rem; border-radius: 8px; border: 1px solid #c9d6cf; font: 1rem var(--font); background: #fff; color: var(--text); min-width: 0; }
+        .toolbar select { flex: 0 1 260px; }
+        .toolbar input { flex: 1 1 220px; }
+        .status { display: flex; justify-content: space-between; flex-wrap: wrap; gap: .5rem; font-size: .85rem; color: var(--muted); margin-bottom: 1.25rem; }
+        .rss-link { display: inline-flex; align-items: center; gap: .35rem; color: #E65100; font-weight: 600; text-decoration: none; }
+        .rss-link:hover { text-decoration: underline; }
+
+        .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 1.5rem; }
+        .news-card { background: var(--card); border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow-sm); transition: transform .25s, box-shadow .25s; display: flex; flex-direction: column; border-top: 4px solid var(--area-color, var(--accent)); }
+        .news-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-lg); }
+        .card-image { height: 160px; position: relative; overflow: hidden; background: linear-gradient(135deg, var(--area-color, var(--accent)), var(--primary)); display: flex; align-items: center; justify-content: center; }
+        .card-image.noimg { height: 96px; }
+        .card-image.noimg svg { width: 44px; height: 44px; }
+        .card-image img { width: 100%; height: 100%; object-fit: cover; }
+        .card-image svg { width: 64px; height: 64px; color: rgba(255,255,255,.85); }
+        .card-badge { position: absolute; top: .75rem; left: .75rem; background: rgba(255,255,255,.93); color: var(--text-strong); padding: .2rem .65rem; border-radius: 12px; font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .02em; }
+        .card-content { padding: 1.1rem 1.25rem 1.25rem; flex-grow: 1; display: flex; flex-direction: column; }
+        .card-meta { display: flex; justify-content: space-between; gap: .5rem; font-size: .8rem; color: var(--muted); margin-bottom: .4rem; }
+        .news-scope { font-weight: 700; text-transform: uppercase; color: var(--primary); }
+        .news-scope.cifp { color: #E65100; }
+        .card-title { font-size: 1.1rem; font-weight: 700; color: var(--text-strong); line-height: 1.3; margin-bottom: .6rem; }
+        .card-title a { text-decoration: none; }
+        .card-title a:hover { text-decoration: underline; }
+        .card-summary { font-size: .93rem; margin-bottom: 1rem; flex-grow: 1; }
+        .card-footer { border-top: 1px solid var(--border); padding-top: .8rem; display: flex; justify-content: space-between; align-items: center; gap: .5rem; margin-top: auto; }
+        .source { font-size: .8rem; font-weight: 600; color: var(--primary); background: var(--accent-soft); padding: .2rem .5rem; border-radius: 4px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 60%; }
+        .read-more { color: var(--primary); text-decoration: none; font-weight: 600; font-size: .9rem; white-space: nowrap; }
+        .read-more:hover { text-decoration: underline; }
+
+        .message { grid-column: 1/-1; text-align: center; color: var(--muted); padding: 3rem 1rem; }
+        .more-wrap { text-align: center; margin-top: 2rem; }
+        .more-btn { background: var(--primary); color: #fff; border: 0; padding: .7rem 1.6rem; border-radius: 24px; font: 600 1rem var(--font); cursor: pointer; }
+        .more-btn:hover { background: var(--primary-dark); }
+
+        .main-footer { background: var(--primary-dark); color: #fff; text-align: center; padding: 1.75rem 1rem; margin-top: 3rem; font-size: .9rem; }
+        .main-footer p + p { opacity: .75; margin-top: .4rem; font-size: .8rem; }
+
         @media (max-width: 768px) {
-            .header-content {
-                flex-direction: column;
-                align-items: stretch;
-            }
-            
-            .filters {
-                justify-content: center;
-                margin-top: 1rem;
-            }
-            
-            .family-filters {
-                flex-direction: column;
-                align-items: stretch;
-            }
+            .header-content { flex-direction: column; align-items: stretch; }
+            .filters { justify-content: center; }
+            .toolbar select, .toolbar input { flex: 1 1 100%; }
+            .title-group h1 { font-size: 1.4rem; }
         }
     </style>
 </head>
@@ -259,212 +101,154 @@
                 <img src="logo2.png" alt="CIFP La Granja" class="logo-img">
                 <div class="title-group">
                     <h1>Noticiario La Granja</h1>
-                    <p>Actualidad de nuestras familias profesionales</p>
+                    <p>Agricultura, ganadería, forestal y alimentación · CIFP, Cantabria y España</p>
                 </div>
             </div>
-            <nav class="filters">
-                <button class="filter-btn active" data-filter="all">Todas</button>
-                <button class="filter-btn" data-filter="nacional">Nacional</button>
-                <button class="filter-btn" data-filter="cantabria">Cantabria</button>
-                <button class="filter-btn" data-filter="cifp">CIFP La Granja</button>
+            <nav class="filters" aria-label="Ámbito">
+                <button class="filter-btn active" data-scope="all">Todas<span class="count"></span></button>
+                <button class="filter-btn" data-scope="cifp">CIFP La Granja<span class="count"></span></button>
+                <button class="filter-btn" data-scope="cantabria">Cantabria<span class="count"></span></button>
+                <button class="filter-btn" data-scope="nacional">Nacional<span class="count"></span></button>
             </nav>
         </div>
     </header>
+
     <main class="container">
-        <div class="family-filters">
-            <span class="filter-label">Filtrar por Familia:</span>
-            <select id="family-select">
-                <option value="all">Todas las Familias</option>
-                <option value="agraria">Agraria</option>
-                <option value="alimentarias">Industrias Alimentarias</option>
-                <option value="transporte">Transporte y Mantenimiento de Vehículos</option>
-                <option value="seguridad">Seguridad y Medio Ambiente</option>
-            </select>
+        <div class="toolbar">
+            <label for="area-select">Área:</label>
+            <select id="area-select"><option value="all">Todas las áreas</option></select>
+            <input id="search" type="search" placeholder="Buscar en titulares…" aria-label="Buscar">
         </div>
-        <div id="news-grid" class="news-grid">
-            <!-- News items will be injected here by JS -->
+        <div class="status">
+            <span id="updated">Cargando noticias…</span>
+            <a class="rss-link" href="feed.xml" title="Suscribirse con un lector RSS">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><circle cx="5" cy="19" r="2.5"/><path d="M2.5 9.5v3a9 9 0 0 1 9 9h3a12 12 0 0 0-12-12zm0-6v3a15 15 0 0 1 15 15h3a18 18 0 0 0-18-18z"/></svg>
+                Suscribirse por RSS
+            </a>
         </div>
+        <div id="news-grid" class="news-grid" aria-live="polite"></div>
+        <div class="more-wrap"><button id="more" class="more-btn" hidden>Ver más noticias</button></div>
     </main>
+
     <footer class="main-footer">
-        <p>&copy; 2025 CIFP La Granja. Formando profesionales del futuro.</p>
+        <p>&copy; <span id="year"></span> CIFP La Granja · Heras (Medio Cudeyo, Cantabria)</p>
+        <p>Noticias recopiladas automáticamente de medios de comunicación; el contenido pertenece a cada fuente.</p>
     </footer>
+
     <script>
-        const newsData = [
-            {
-                title: "Cantabria paga 4 millones en ayudas agroalimentarias",
-                summary: "El Gobierno de Cantabria abona casi 4 millones de euros a 43 industrias del sector para fomentar su desarrollo y competitividad.",
-                date: "2025-12-12",
-                category: "agraria",
-                scope: "cantabria",
-                image: "https://img.europapress.es/fotoweb/fotonoticia_20241212130706_1200.jpg",
-                source: "Europa Press",
-                url: "https://www.europapress.es/cantabria/noticia-gobierno-cantabria-inicia-pago-casi-4-millones-euros-43-industrias-agroalimentarias-20241212130706.html"
-            },
-            {
-                title: "Campaña 'Sabe a Norte' impulsa el consumo local",
-                summary: "La ODECA lanza una campaña especial de Navidad para promocionar los productos con sello de calidad de Cantabria.",
-                date: "2025-12-11",
-                category: "alimentarias",
-                scope: "cantabria",
-                image: "https://www.sabeanorte.com/documents/33877265/33877347/Logo+Sabe+a+Norte+-+CANTABRIA.svg/2b604a32-6764-0544-d3bc-143bd08f0b4f?t=1763371940729&download=true",
-                source: "Sabe a Norte",
-                url: "https://www.sabeanorte.com"
-            },
-            {
-                title: "John Deere revela su nueva tecnología autónoma",
-                summary: "Presentada la nueva generación de tractores autónomos y kits de actualización para 2025, mejorando la eficiencia en el campo.",
-                date: "2025-12-10",
-                category: "transporte",
-                scope: "nacional",
-                image: "https://www.deere.com/assets/images/common/our-company/news/r4f175043_rrd-992x558.jpg",
-                source: "John Deere",
-                url: "https://www.deere.com/en/news/all-news/autonomous-tractor-reveal/"
-            },
-            {
-                title: "304.000€ para policías locales y protección civil",
-                summary: "El Gobierno refuerza la seguridad y emergencias con nuevas ayudas para equipamiento y vehículos en los municipios.",
-                date: "2025-12-15",
-                category: "seguridad",
-                scope: "cantabria",
-                image: "https://images.unsplash.com/photo-1596627632363-241315518b53?w=800&q=80",
-                source: "Gobierno de Cantabria",
-                url: "https://www.cantabria.es/web/comunicados/detalle/-/journal_content/56_INSTANCE_DETALLE/16413/24682468"
-            },
-            {
-                title: "Acuerdo presupuestario para el sector primario",
-                summary: "Organizaciones agrarias instan a aprobar el presupuesto 2026 para asegurar ayudas como el Plan de Recría.",
-                date: "2025-12-03",
-                category: "agraria",
-                scope: "cantabria",
-                image: "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
-                source: "El Diario Montañés",
-                url: "https://www.eldiariomontanes.es/cantabria/gobierno-cantabria-aprueba-proyecto-presupuestos-2025-20241031115849-nt.html"
-            },
-            {
-                title: "Alerta por Peste Porcina Africana en Cataluña",
-                summary: "Detectados casos en jabalíes silvestres. El sector porcino extrema precauciones y se paralizan exportaciones fuera de la UE.",
-                date: "2025-12-02",
-                category: "seguridad",
-                scope: "nacional",
-                image: "https://images.unsplash.com/photo-1560493676-04071c5f467b?w=800&q=80",
-                source: "El País",
-                url: "https://elpais.com/espana/catalunya/2025-11-27/espana-detecta-el-primer-caso-de-peste-porcina-africana-en-jabali-silvestre.html"
-            },
-            {
-                title: "Nuevo Plan de Gestión del Lobo",
-                summary: "Cantabria culmina un plan para equilibrar la conservación de la especie con la viabilidad de la ganadería.",
-                date: "2025-12-01",
-                category: "seguridad",
-                scope: "cantabria",
-                image: "https://images.unsplash.com/photo-1614027164847-1b28cfe1df60?w=800&q=80",
-                source: "Gobierno de Cantabria",
-                url: "https://www.cantabria.es/web/comunicados/detalle/-/journal_content/56_INSTANCE_DETALLE/16413/24376513"
-            },
-            {
-                title: "Ayudas para razas autóctonas de Cantabria",
-                summary: "Convocadas ayudas 2026 para asociaciones que promuevan razas autóctonas: Vaca Pasiega, Caballo Monchino y Gallina Pedresa.",
-                date: "2025-12-01",
-                category: "agraria",
-                scope: "cantabria",
-                image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=800&q=80",
-                source: "BOC",
-                url: "https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=407883"
-            },
-            {
-                title: "Bruselas busca duplicar jóvenes agricultores",
-                summary: "La UE propone destinar el 6% del gasto agrícola a la renovación generacional para 2040.",
-                date: "2025-11-30",
-                category: "agraria",
-                scope: "nacional",
-                image: "https://images.unsplash.com/photo-1595841696677-6489ff3f8cd1?w=800&q=80",
-                source: "20 Minutos",
-                url: "https://www.20minutos.es/noticia/5672890/0/bruselas-quiere-duplicar-jovenes-agricultores-2040-destinar-6-gasto-agricola/"
-            },
-            {
-                title: "Protestas del sector agrícola por costes",
-                summary: "Agricultores y ganaderos se movilizan por los bajos precios y el aumento de costes de producción y energía.",
-                date: "2025-11-28",
-                category: "agraria",
-                scope: "nacional",
-                image: "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=800&q=80",
-                source: "RTVE",
-                url: "https://www.rtve.es/noticias/20250106/agricultores-ganaderos-vuelven-protestar-tractoradas-varias-comunidades/2512345.shtml"
-            },
-            {
-                title: "Ventas de tractores crecen un 23,75% en 2025",
-                summary: "Entre enero y mayo se vendieron 4.590 tractores nuevos. John Deere y New Holland lideran el mercado español.",
-                date: "2025-11-25",
-                category: "transporte",
-                scope: "nacional",
-                image: "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?w=800&q=80",
-                source: "Agronegocios",
-                url: "https://www.agroinformacion.com/ventas-de-tractores-en-espana-crecen-30-en-mayo-2025/"
-            }
-        ];
-        const newsGrid = document.getElementById('news-grid');
-        const scopeButtons = document.querySelectorAll('.filter-btn');
-        const familySelect = document.getElementById('family-select');
-        let currentScope = 'all';
-        let currentFamily = 'all';
-        function renderNews() {
-            newsGrid.innerHTML = '';
-            const filteredNews = newsData.filter(item => {
-                const scopeMatch = currentScope === 'all' || item.scope === currentScope;
-                const familyMatch = currentFamily === 'all' || item.category === currentFamily;
-                return scopeMatch && familyMatch;
-            });
-            if (filteredNews.length === 0) {
-                newsGrid.innerHTML = '<p style="grid-column: 1/-1; text-align: center; color: var(--text-light);">No hay noticias que coincidan con los filtros.</p>';
+    (() => {
+        const PAGE = 24;
+        const SCOPES = { cifp: 'CIFP La Granja', cantabria: 'Cantabria', nacional: 'Nacional' };
+        // iconos sencillos por área (trazos SVG)
+        const ICONS = {
+            agricultura: '<path d="M12 22V10M12 10c0-4 3-7 7-7 0 4-3 7-7 7zm0 4c0-4-3-7-7-7 0 4 3 7 7 7z"/>',
+            ganaderia: '<path d="M4 8l3-3h10l3 3M6 8v6a6 6 0 0 0 12 0V8M9 13h.01M15 13h.01M10 17h4"/>',
+            forestal: '<path d="M12 2l6 9h-4l5 7H5l5-7H6zM12 18v4"/>',
+            medioambiente: '<path d="M11 20A7 7 0 0 1 4 13c0-5 4-9 16-9 0 12-4 16-9 16zM4 20c4-4 7-6 10-8"/>',
+            jardineria: '<circle cx="12" cy="8" r="3"/><path d="M12 11v11M12 5V2M9 8H6M18 8h-3M8 18c2 0 4-1 4-4M16 18c-2 0-4-1-4-4"/>',
+            alimentarias: '<path d="M3 11h18l-2 9H5zM8 11V7a4 4 0 0 1 8 0v4"/>',
+            maquinaria: '<circle cx="7" cy="17" r="3"/><circle cx="18" cy="18" r="2"/><path d="M4 14V8h7l2 6h6v4M11 8V5h4"/>',
+            fp: '<path d="M2 9l10-5 10 5-10 5zM6 11v5c3 2 9 2 12 0v-5M22 9v6"/>'
+        };
+
+        const grid = document.getElementById('news-grid');
+        const areaSelect = document.getElementById('area-select');
+        const search = document.getElementById('search');
+        const moreBtn = document.getElementById('more');
+        const scopeBtns = document.querySelectorAll('.filter-btn');
+        document.getElementById('year').textContent = new Date().getFullYear();
+
+        let news = [], areas = {}, scope = 'all', area = 'all', query = '', shown = PAGE;
+
+        const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+        const safeUrl = u => /^https?:\/\//i.test(u || '') ? u : '#';
+        const norm = s => String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+
+        function relDate(iso) {
+            const d = new Date(iso), diff = (Date.now() - d) / 36e5;
+            if (diff < 1) return 'hace menos de 1 h';
+            if (diff < 24) return `hace ${Math.floor(diff)} h`;
+            if (diff < 48) return 'ayer';
+            if (diff < 24 * 7) return `hace ${Math.floor(diff / 24)} días`;
+            return d.toLocaleDateString('es-ES', { day: 'numeric', month: 'short', year: 'numeric' });
+        }
+
+        function filtered() {
+            const q = norm(query.trim());
+            return news.filter(n =>
+                (scope === 'all' || n.ambito === scope) &&
+                (area === 'all' || n.area === area) &&
+                (!q || norm(n.titulo + ' ' + n.resumen + ' ' + n.fuente).includes(q)));
+        }
+
+        function card(n) {
+            const color = `var(--a-${n.area}, var(--accent))`;
+            const img = n.imagen
+                ? `<img src="${esc(n.imagen)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`
+                : '';
+            const icon = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICONS[n.area] || ICONS.agricultura}</svg>`;
+            const url = esc(safeUrl(n.url));
+            return `<article class="news-card" style="--area-color:${color}">
+                <div class="card-image${img ? '' : ' noimg'}">${img || icon}<span class="card-badge">${esc(areas[n.area] || n.area)}</span></div>
+                <div class="card-content">
+                    <div class="card-meta">
+                        <span class="news-scope ${esc(n.ambito)}">${esc(SCOPES[n.ambito] || n.ambito)}</span>
+                        <time datetime="${esc(n.fecha)}" title="${esc(new Date(n.fecha).toLocaleString('es-ES'))}">${esc(relDate(n.fecha))}</time>
+                    </div>
+                    <h3 class="card-title"><a href="${url}" target="_blank" rel="noopener noreferrer">${esc(n.titulo)}</a></h3>
+                    <p class="card-summary">${esc(n.resumen)}</p>
+                    <div class="card-footer">
+                        <span class="source" title="${esc(n.fuente)}">${esc(n.fuente)}</span>
+                        <a href="${url}" target="_blank" rel="noopener noreferrer" class="read-more">Leer en la fuente &rarr;</a>
+                    </div>
+                </div>
+            </article>`;
+        }
+
+        function render() {
+            const list = filtered();
+            if (!list.length) {
+                grid.innerHTML = `<p class="message">No hay noticias que coincidan con los filtros.</p>`;
+                moreBtn.hidden = true;
                 return;
             }
-            filteredNews.forEach(item => {
-                const card = document.createElement('article');
-                card.className = 'news-card';
-                const categoryNames = {
-                    'agraria': 'Agraria',
-                    'alimentarias': 'Ind. Alimentarias',
-                    'transporte': 'Transporte y Mant.',
-                    'seguridad': 'Seguridad y Medio Ambiente'
-                };
-                const scopeNames = {
-                    'nacional': 'Nacional',
-                    'cantabria': 'Cantabria',
-                    'cifp': 'CIFP La Granja'
-                };
-                card.innerHTML = `
-                    <div class="card-image">
-                        <img src="${item.image}" alt="${item.title}">
-                        <span class="card-badge">${categoryNames[item.category] || item.category}</span>
-                    </div>
-                    <div class="card-content">
-                        <div class="card-meta">
-                            <span class="news-scope">${scopeNames[item.scope]}</span>
-                            <span class="news-date">${new Date(item.date).toLocaleDateString('es-ES')}</span>
-                        </div>
-                        <h3 class="card-title">${item.title}</h3>
-                        <p class="card-summary">${item.summary}</p>
-                        <div class="card-footer">
-                            <span class="family-tag">Fuente: ${item.source}</span>
-                            <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="read-more">Leer más &rarr;</a>
-                        </div>
-                    </div>
-                `;
-                newsGrid.appendChild(card);
+            grid.innerHTML = list.slice(0, shown).map(card).join('');
+            moreBtn.hidden = list.length <= shown;
+        }
+
+        function updateCounts() {
+            scopeBtns.forEach(b => {
+                const s = b.dataset.scope;
+                const c = news.filter(n => (s === 'all' || n.ambito === s) && (area === 'all' || n.area === area)).length;
+                b.querySelector('.count').textContent = ` (${c})`;
             });
         }
-        scopeButtons.forEach(btn => {
-            btn.addEventListener('click', () => {
-                scopeButtons.forEach(b => b.classList.remove('active'));
-                btn.classList.add('active');
-                currentScope = btn.dataset.filter;
-                renderNews();
+
+        scopeBtns.forEach(btn => btn.addEventListener('click', () => {
+            scopeBtns.forEach(b => b.classList.toggle('active', b === btn));
+            scope = btn.dataset.scope; shown = PAGE; render();
+        }));
+        areaSelect.addEventListener('change', e => { area = e.target.value; shown = PAGE; updateCounts(); render(); });
+        let t; search.addEventListener('input', e => { clearTimeout(t); t = setTimeout(() => { query = e.target.value; shown = PAGE; render(); }, 150); });
+        moreBtn.addEventListener('click', () => { shown += PAGE; render(); });
+
+        fetch('news.json?v=' + Date.now())
+            .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+            .then(data => {
+                news = (data.noticias || []).sort((a, b) => b.fecha.localeCompare(a.fecha));
+                areas = data.areas || {};
+                for (const [k, v] of Object.entries(areas)) areaSelect.add(new Option(v, k));
+                const up = data.actualizado ? new Date(data.actualizado) : null;
+                document.getElementById('updated').textContent = up
+                    ? `${news.length} noticias · actualizado ${relDate(data.actualizado)} (${up.toLocaleString('es-ES', { dateStyle: 'short', timeStyle: 'short' })})`
+                    : `${news.length} noticias`;
+                updateCounts(); render();
+            })
+            .catch(() => {
+                document.getElementById('updated').textContent = 'No se han podido cargar las noticias.';
+                grid.innerHTML = `<p class="message">Todavía no hay noticias disponibles. Se generan automáticamente cada pocas horas.</p>`;
             });
-        });
-        familySelect.addEventListener('change', (e) => {
-            currentFamily = e.target.value;
-            renderNews();
-        });
-        renderNews();
+    })();
     </script>
 </body>
 </html>
