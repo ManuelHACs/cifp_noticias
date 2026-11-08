@@ -256,7 +256,10 @@ def main() -> int:
         return d and d >= (lim_cifp if n["ambito"] == "cifp" else lim_general)
 
     noticias = sorted((n for n in por_id.values() if vigente(n)), key=lambda n: n["fecha"], reverse=True)
-    noticias = noticias[: cfg.get("max_noticias", 200)]
+    # las del CIFP se conservan siempre; el límite se aplica al resto
+    cifp = [n for n in noticias if n["ambito"] == "cifp"]
+    resto = [n for n in noticias if n["ambito"] != "cifp"][: max(0, cfg.get("max_noticias", 200) - len(cifp))]
+    noticias = sorted(cifp + resto, key=lambda n: n["fecha"], reverse=True)
 
     if not noticias and errores == len(origenes):
         print("Todas las fuentes han fallado; no se modifica nada.", file=sys.stderr)
