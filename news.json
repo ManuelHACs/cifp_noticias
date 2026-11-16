@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T13:38:34+00:00",
+ "actualizado": "2026-11-16T23:23:21+00:00",
  "areas": {
   "agricultura": "Agricultura y agroecología",
   "ganaderia": "Ganadería y sanidad animal",
@@ -12,6 +12,28 @@
   "centro": "El centro y la FP"
  },
  "noticias": [
+  {
+   "id": "e15942eff31ead11",
+   "titulo": "Reclaman un cambio de modelo en sanidad animal: «Hay que pasar de la erradicación al control y dejar de castigar al ganadero»",
+   "resumen": "La Unión de Campesinos de Castilla y León (UCCL) ha reclamado un cambio de modelo en sanidad anima, al defender que «hay que pasar de la erradicación al control y dejar de castigar al ganadero», tras la reunión mant4enida con el director general de Producción…",
+   "fecha": "2026-11-16T16:25:18+00:00",
+   "area": "ganaderia",
+   "ambito": "nacional",
+   "fuente": "Agroinformación",
+   "url": "https://agroinformacion.com/reclaman-un-cambio-de-modelo-en-sanidad-animal-hay-que-pasar-de-la-erradicacion-al-control-y-dejar-de-castigar-al-ganadero/",
+   "imagen": null
+  },
+  {
+   "id": "e5a1a29d8d3dbab4",
+   "titulo": "El Gobierno aprobará este martes una nueva subida del SMI del 5,3%, hasta 1.286 euros al mes, que disparará los costes",
+   "resumen": "El Gobierno aprobará este martes 17 la subida del salario mínimo interprofesional (SMI) del 5,3% para 2027, hasta los 1.286 euros brutos al mes en catorce pagas (18.004 euros brutos anuales), lo que tendrá un impacto en los costes en un sector agrario que…",
+   "fecha": "2026-11-16T16:07:06+00:00",
+   "area": "agricultura",
+   "ambito": "nacional",
+   "fuente": "Agroinformación",
+   "url": "https://agroinformacion.com/el-gobierno-aprobara-este-martes-una-nueva-subida-del-smi-del-53-hasta-1-286-euros-al-mes-y-disparara-los-costes-en-el-sector-agrario/",
+   "imagen": null
+  },
   {
    "id": "aadc616d9122275f",
    "titulo": "La nueva depuradora de Corralejo inicia su trámite en La Oliva",
@@ -26,6 +48,17 @@
   {
    "id": "274ec941a979e4d4",
    "titulo": "El Gobierno y la flota piden el apoyo de la UE a la pesca en terceros países",
+   "resumen": "El Ministerio de Agricultura, Pesca y Alimentación (MAPA) junto a la Confederación Española de Pesca (Cepesca) y entidades del sector reclaman la defensa de la \"dimensión exterior\" de la pesca de la Unión Europea, en una declaración conjunta.",
+   "fecha": "2026-11-16T13:25:44+00:00",
+   "area": "agricultura",
+   "ambito": "nacional",
+   "fuente": "EFEAgro",
+   "url": "https://efeagro.com/el-gobierno-y-la-flota-piden-una-estrategia-de-la-ue-para-apoyar-la-pesca-en-terceros-paises/",
+   "imagen": null
+  },
+  {
+   "id": "3a5d62de50658f5f",
+   "titulo": "El Gobierno y la flota reclaman el apoyo de la UE a la pesca en terceros países",
    "resumen": "El Ministerio de Agricultura, Pesca y Alimentación (MAPA) junto a la Confederación Española de Pesca (Cepesca) y entidades del sector reclaman la defensa de la \"dimensión exterior\" de la pesca de la Unión Europea, en una declaración conjunta.",
    "fecha": "2026-11-16T13:25:44+00:00",
    "area": "agricultura",
@@ -367,7 +400,7 @@
   {
    "id": "762186547dfe38f5",
    "titulo": "Planas pide a la UE renovar el acuerdo pesquero con Mauritania y Bruselas sigue negociando",
-   "resumen": "El ministro de Agricultura, Pesca y Alimentación, Luis Planas, ha lamentado este sábado el fin del acuerdo pesquero entre la Unión Europea y Mauritania y ha instado a la Comisión Europea \"a proseguir los contactos para alcanzar un nuevo protocolo cuanto…",
+   "resumen": "El ministro de Agricultura, Pesca y Alimentación, Luis Planas, ha lamentado el fin del acuerdo pesquero entre la Unión Europea y Mauritania y ha instado a la Comisión Europea \"a proseguir los contactos para alcanzar un nuevo protocolo cuanto antes\", mientras…",
    "fecha": "2026-11-16T08:13:14+00:00",
    "area": "agricultura",
    "ambito": "nacional",
@@ -2639,39 +2672,6 @@
    "ambito": "cantabria",
    "fuente": "El Diario Montañés",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd1lGdm93NEYzbzY3cnJfa3ppcTdJcGtJOTBqWE1aTm9LVmJxOXpnUTNIZ21BQzRMbl9XV0wwNE9jak1tZHdSemo2OFVHNzBhTVFmeDVSb3ZBblFoRUdmb0RRUlJhNFdkOHZLQ0RRLVhzMlM4NkdmWGVBQ1RIR1N2SDlrcTFabVVEeHVRNmZPdFJKc2gxSHNobDlVQUg1b1NHSlMtbUY1QnU2c0hhTTNTVWlBNzFuN21CTC1hTlVrS1BvZ2c?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "7246cae63b0a76ae",
-   "titulo": "Cantabria fija las nuevas normas para capturar erizo de mar en la campaña 2026-2027",
-   "resumen": "",
-   "fecha": "2026-11-12T08:50:24+00:00",
-   "area": "agricultura",
-   "ambito": "cantabria",
-   "fuente": "Demócrata",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMHc5ZWZuSE9aQW8tbTJPczFVUVZydTFDSXRaQXdYRzJtdHZKdmZHOXBZUF9aVndDRG9KaXBDUGN3bDF0TjAyNkZKWkEwOXlwcXFlZzk3aExhMTZqaTJQYXZDRlZ2YkY3X1Z2dzhOWmstYXg5czk1RUZteXhCbUd5VjVBVVBQdDBvZGE3OTA2LWN4VlFlWmlUbnFvY21qNW9rZFVHeGdfSk04cWYxQkFiVC1XSDBJVWZadTlnLTRrQ0tkQ1ZuQV9KV0J5eXZOak3SAdQBQVVfeXFMTk8wQWJmM1d4Q0pmb3p4cENrRlpZMGpqLWppQXo2UUR1QWR3MWtuXzh1Z0tHOTV4NTF1MFdoZmNaN3JhNW80RTZFUzhGaC15Y2Y2aDVfS2dBeUlxd0x6eDNYdEVFc1NnS2NvdWhHUjJuNnFSRFJXYnBWVjdpWENzQTA5VmFJU3ZCYlVlMlV2MGFHbEJHNkN1dUstMXhrMWdsYkJhNWg4NldaM1VBRWJfZmdTTnNZb3VaRmIyYXRQWlRzaURZek9jWkt1bHRyWXZoVnJTVl8?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "3cd9352586ed6896",
-   "titulo": "Control de plagas en caqui: menos tratamientos",
-   "resumen": "",
-   "fecha": "2026-11-12T08:47:46+00:00",
-   "area": "quimica",
-   "ambito": "nacional",
-   "fuente": "Plataforma Tierra",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVVN5YzB5QmVPTXJuMTVlWmI4R1FkSmRxaTVPVWY3X1pKMElLdXNhYzhmU2gyZnBEdWdlQ19KSkNaVE9VRGxmNHVhTzVxWmh6eEhLNjg1WTNLWlVPTWRxVDdUSk5hOWdwcTczeU5XeVU1OW5LOU5FZ0lfQVNIbVpRWUtXNy0tR0tBWGhZaTljVF9zVmNzVmc?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "17bc4ad7b4dcd95c",
-   "titulo": "Solicitan un aumento de 26 millones en las ayudas extremeñas, añadir el sector de la aceituna de mesa y mantener las elecciones al campo",
-   "resumen": "El Consejo de Gobierno de la Junta de Extremadura ha aprobado el Decreto-ley 6/2026 que establece ayudas para los sectores de las cerezas, cereales y apícolas, así como una modificación de la Ley de elecciones al campo en Extremadura. Esta norma tiene que ser…",
-   "fecha": "2026-11-12T08:14:51+00:00",
-   "area": "agricultura",
-   "ambito": "nacional",
-   "fuente": "Agroinformación",
-   "url": "https://agroinformacion.com/solicitan-un-aumento-de-26-millones-en-las-ayudas-extremenas-anadir-el-sector-de-la-aceituna-de-mesa-y-mantener-las-elecciones-al-campo/",
    "imagen": null
   },
   {
