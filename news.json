@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17T23:50:42+00:00",
+ "actualizado": "2026-11-18T13:57:22+00:00",
  "areas": {
   "agricultura": "Agricultura y agroecología",
   "ganaderia": "Ganadería y sanidad animal",
@@ -12,6 +12,479 @@
   "centro": "El centro y la FP"
  },
  "noticias": [
+  {
+   "id": "5378d090d7b0f3b3",
+   "titulo": "España se convierte en uno de los países más afectados del mundo por incendios forestales y fenómenos climáticos extremos",
+   "resumen": "",
+   "fecha": "2026-11-18T13:28:00+00:00",
+   "area": "forestal",
+   "ambito": "nacional",
+   "fuente": "Servicios Emergencia",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTXNXLWd6M3RKSnY2cFpBeE1lUkp6aW5uS01YRGI1aUw5cGtQOF9MMWZ0MVkyY0tXeUdXcER0X1poZGZQcWFiOGMtUTR1ZlBmRVdhYkNfZkYwbnotM1hQM1VmNldzYWRxWWhlNE9tQ09oSU9xSWFwbFB5c1Q5T3JZVnJaWTBOdEItOEwybktxOWlFRHNFSHoya0h1ZkpRbDZrUkkzREtmcUd3RXpoNGt5RGZKSm55VDduQUd0a2h6cjdLM1FjUnV4NkhEUlpWT01TLTdlZ1A0VWZwQWZWRDFPZVZwTU82eTc4ME5fUUpNb1F0cGM5dm12dnVB?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "b51a64ca0a825873",
+   "titulo": "Del mosquito tigre a los drones: Mortadelo explica la ciencia a través de sus portadas",
+   "resumen": "",
+   "fecha": "2026-11-18T13:23:51+00:00",
+   "area": "quimica",
+   "ambito": "nacional",
+   "fuente": "EFE - Agencia de noticias",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZkVGeDh1U2JibzgxS1J6c3YyX3JodEFKVnFJQUgtU2dWNnlxSmdNbXR5REFuMktZWDlIQ0RRQ3hBM195enZ4UkthbFlCY1FPTEVDclhKX3A3bWo1R0RZODVfOFVyUmRvcWZrYnNXRUZyMlJXRXMtam9wdUpfUHBSdndFQWhydmc?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "fe0b911abdf65c06",
+   "titulo": "El PSOE de Sevilla exige un plan urgente para revitalizar las barriadas de Triana y acabar con plagas y hundimientos",
+   "resumen": "",
+   "fecha": "2026-11-18T12:55:53+00:00",
+   "area": "quimica",
+   "ambito": "cantabria",
+   "fuente": "Europa Press",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSTh5V2Q3UjFRdkU4VGNnWllhQW1BYy1jRERXNFFMN1piR3g0Y3EySlQ5cm9ULW15LUJqWEJUbWlpNW9Wc2s5UjJMRG42c2FKaWFRT1NNNUgzT3U0MEFFMzlyVXRhNUJ0eVVOaV9zTnNUNGRkUlNwMm5iRkhZU2s0MXcwUWxTeVUxR0pfUTJPZy10a2lORzRGOExuQ3hueDhuVDR6NkdzYllUNHZFQ0Mzc1JuSmZVTTM5Q3d4bVlrWENUbFhFNGNDUUJCNG5yd0F1VGpfOFdtR2Z6Tmo3VTM3dWFSWUlNZ2VIS18xS1BYamJkYnBONEkzTFVR?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "13c83c5cd21c5e18",
+   "titulo": "Legionela en la Ciudad Deportiva y problemas con las calderas en Los Almendros: dos nuevos frentes para Deportes en Zamora",
+   "resumen": "",
+   "fecha": "2026-11-18T12:52:15+00:00",
+   "area": "quimica",
+   "ambito": "nacional",
+   "fuente": "COPE",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNR0ZzSFdUdExPdTZ1N3FHcGVtZlpiVWhfRktTVjZieGJhMDF6NEZVNlJYTjFpUWd6d1dyNExRQUgzZGFkaFE5T3Z3UHJBVF85bjhSSzF0bUVuWnNPWThDdDRSckJRSXlrRUlGZVo5UDhleEk1cVYxN2xGNkV5MFNHc2RMb0JndnlEOUhMWi1lSDdUWVRyVmkxeUZia2xidElzZHZCLVpjLTFLV09HRE9FMDNUVzg4V0ZCai15blgzZHU3Nm8zSGFuTzd3RmJxVFliZlRUSXk3cHdocEl0RTBRTjZoWHAxbHZla05GQzZfSkdiZ0FmN0hXZkFrcW52VlJyTDNHLV9ERDlPX2VJUW81dmYwd3hsTldyQ3fSAZ8CQVVfeXFMTkZhYUFLZlQ2X2t3MVVVT0FUTXNPclJiQXpzMTBNaXRJbk8tTFRJWko1VUt0N3ZnWkFsX1o2VV9FM1FZWE1xY2ZWYVFzdUhzVGRRcXhyamVhbGJ3eS1vLTNlbGJUQnhPU3ZZd1V2ZzZmZEVWVTRzSWpxS3JsdkVQRXQ4dWl5MVRvVTlrVGlndGhGemZyZmR2cGRGbVY0bWhYZVQxc1kzU0RSaXlmenNQNmw2WHBndzZtdUMxdjRlU0hqU2poZTRuanpvMmdlVUgwT2xjMDNIMHR5WGh2azRmd25oUzlXS044bTNwMGVBRTVwNVFfNXZwLXFfZzFaNlJJQ2F3bTY4M3BaWE9DcHpKTFNJZDRwZlc2MUtYQmxNNDg?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "5c717bde92750765",
+   "titulo": "Castilla-La Mancha reclama en Bruselas mantener los fondos de la PAC y reservar un 10% para jóvenes agricultores",
+   "resumen": "",
+   "fecha": "2026-11-18T12:49:14+00:00",
+   "area": "agricultura",
+   "ambito": "nacional",
+   "fuente": "El Digital de Albacete",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObFM0NmFxWnZwWThJS21CbTlOTzlwaWJaQmxjYnBDUHJoOGVrVm9KWGxGWmhaZ3AyQ0FzYzNHbVFzRDd6anVXLUc1WEl3WjRuQThoMkJaeWVsMHp5Z1d3Z3BCNWFTQmNFd0FoeTNxajRTZ0ZmeHZ4dVpyOWJSOUJBZzBPLWxwWGRsaV81SjBDT3FNRk95dm51QUt0NGIxRDhBRUhSMnZsOGdmMVRfSkI5QkVvUTlGTEV6RkhDaDFLWUlubXNfdW5seUVTWG4tcEdfRGt1QUl5RDNkd0phajZtaXN6dTFLY25PZ1FFWUh1VVA?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "efb71a4c65d51550",
+   "titulo": "Asaja reclama más ayudas para los ganaderos de Castilla-La Mancha ante el recorte de 2,8 millones en sanidad animal",
+   "resumen": "",
+   "fecha": "2026-11-18T12:43:50+00:00",
+   "area": "ganaderia",
+   "ambito": "nacional",
+   "fuente": "enTomelloso.com",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQWNaaWZCZ1dVbXplLXJIMGtvM0I4dm8wRHRTTms5ZVVXNkdaSGdrS3FMbWVhR2sxbko2eWJuQkNuRWdXS2dONUZMZDhCVllEaHNHaXJ6NXVQUXJvbDJUQ1ZtcVdZR2VreVFuQzZoWGtodUNCeWhMc0lwYkw3WlRCZkFKQkpuNnBQRmFtMDJEcFhDX0JYdTJSV2VrUktWdjVxS2lGN2tUc0JUVWo3bTNaX0NlZEMzTUg5TG9udVhnblhGNTlCN3JyZXZXQndvMkJodEE4VFZWSUxkaGxtcDlITFVLMUI?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "dc7d8eeaa4265709",
+   "titulo": "Cooperativas asegura que la retirada obligatoria de aceite de oliva ya frena la caída de precios",
+   "resumen": "La retirada obligatoria del 12 % de la producción de aceite de oliva, publicada el pasado 6 de noviembre, ya ha conseguido frenar la caída de precios en origen, ha destacado este miércoles Cooperativas Agroalimentarias de España.",
+   "fecha": "2026-11-18T12:32:44+00:00",
+   "area": "alimentarias",
+   "ambito": "nacional",
+   "fuente": "EFEAgro",
+   "url": "https://efeagro.com/retirada-obligatoria-aceite-cooperativas/",
+   "imagen": null
+  },
+  {
+   "id": "6538097c7ca7b3d9",
+   "titulo": "Pérez Llorca reclama la activación de la cláusula de salvaguardia por los cítricos y más controles fitosanitarios a las importaciones de terceros países",
+   "resumen": "El president de la Generalitat valenciana, Juanfran Pérez Llorca, ha planteado al Gobierno central que solicite a las autoridades comunitarias la activación de la cláusula de salvaguardia para los cítricos y el refuerzo de los controles fitosanitarios tanto…",
+   "fecha": "2026-11-18T12:24:46+00:00",
+   "area": "agricultura",
+   "ambito": "nacional",
+   "fuente": "Agroinformación",
+   "url": "https://agroinformacion.com/perez-llorca-reclama-la-activacion-de-la-clausula-de-salvaguardia-por-los-citricos-y-mas-controles-fitosanitarios-a-las-importaciones-de-terceros-paises/",
+   "imagen": null
+  },
+  {
+   "id": "2caa7fb15cdbf93d",
+   "titulo": "Los conductores, también en peligro: más de 1.000 km de autovías de peaje se quedan sin contrato de...",
+   "resumen": "",
+   "fecha": "2026-11-18T12:01:17+00:00",
+   "area": "agricultura",
+   "ambito": "nacional",
+   "fuente": "La Gaceta de la Iberosfera",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRmtFSW1ld1FGRXZBM1RCUllYcGlmMDZ3eVZ4LVVxcEUwdDVFNlUxQ21scU9NSlBSY1hrRVA1YU9BbkljWXg2OG9JWTFzb1hHbEtWRk9kTUhhbGwzOTJCNWhjNTg5Z2I4X3l4ZmsyWUVCaFIyZXJpY2t6S3pzT01qeGVqczhLajhaM2FIUWlwUU51ak44WkdNbzNnSWljSnhock5tTXdrbGJMbzFRTmVUek4tVFVieUFYa0UwU2JoTHVqUjRINWpOd0k4b2xCMEVoUE5QdTBJcXFwcXNNa2RJQW1jaWdRRDNzYVZRLVU1elJ5WTdNQ1ZBa1Z6WEc5NFlRMGM1bmdzZVJHNkxrckHSAY4CQVVfeXFMUEZrRUltZXdRRkV2QTNUQlJZWHBpZjA2d3lWeC1VcXBFMHQ1RTZVMUNtbHFPTUpQUmNYa0VQNWFPQW5JY1l4NjhvSVkxc29YR2xLVkZPZE1IYWxsMzkyQjVoYzU4OWdiOF95eGZrMllFQmhSMmVyaWNrekt6c09NanhlanM4S2o4WjNhSFFpcFFOdWpOOFpHTW8zZ0lpY0p4aHJObU13a2xiTG8xUU5lVHpOLVRVYnlBWGtFMFNiaEx1alI0SDVqTndJOG9sQjBFaFBOUHUwSXFxcHFzTWtkSUFtY2lnUUQzc2FWUS1VNXpSeVk3TUNWQWtWelhHOTRZUTBjNW5nc2VSRzZMa3JB?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "cd2ed6f1263a3838",
+   "titulo": "Detenido un hombre de origen moldavo por besar y realizar tocamientos a una mujer en plena calle junto a la...",
+   "resumen": "",
+   "fecha": "2026-11-18T12:00:31+00:00",
+   "area": "agricultura",
+   "ambito": "nacional",
+   "fuente": "La Gaceta de la Iberosfera",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxONzVhSXJpZXRIaDZaRUpiWW9ZNlMtcmlrX0RpUVprZlRZRjFoQWZGM1BRN3B1LVVsV1ZiM1E1WHJRMHR1cXd2YWR5VUhXYVlKN0ltdnIyX3BFSjV5VWM0ZHVYTHlDLUotT1RvdV9NVzVCN1Zhb3Y2Ynd6QXpGNk5nWVFHVUZCZkM4Rjh6dG0xbmY4b1hSR190S2tDUzV1MFhkZlh0NlFiRFI1SkJWQllkZWVIOE03S21MbW9XbUxEaWhTTS1Fd0hSZUhSYjlkQkVIS0I3X2I5Qi1WbVZfTGh1V1RFdlZwd3NYS0ZCaUMwSGZmQjNYNVVWemx3UHhxa3lpTGtsUnBydGFuM2R40gGMAkFVX3lxTE43NWFJcmlldEhoNlpFSmJZb1k2Uy1yaWtfRGlRWmtmVFlGMWhBZkYzUFE3cHUtVWxXVmIzUTVYclEwdHVxd3ZhZHlVSFdhWUo3SW12cjJfcEVKNXlVYzRkdVhMeUMtSi1PVG91X01XNUI3VmFvdjZid3pBekY2TmdZUUdVRkJmQzhGOHp0bTFuZjhvWFJHX3RLa0NTNXUwWGRmWHQ2UWJEUjVKQlZCWWRlZUg4TTdLbUxtb1dtTERpaFNNLUV3SFJlSFJiOWRCRUhLQjdfYjlCLVZtVl9MaHVXVEV2VnB3c1hLRkJpQzBIZmZCM1g1VVZ6bHdQeHFreWlMa2xScHJ0YW4zZHg?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "539b92b4cf20d1e0",
+   "titulo": "La Torta del Casar conquista una medalla de Súper Oro y una de bronce en la cata 'World Cheese Awards'",
+   "resumen": "",
+   "fecha": "2026-11-18T11:53:35+00:00",
+   "area": "alimentarias",
+   "ambito": "cantabria",
+   "fuente": "Europa Press",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVkI4c1pzaDh1eUZ0azJ0VzhXaF8zdXh4NGIxRzR0U3Y3T3ItME4wVGNDaTd3eHM5NnZJMllKMWNfbUM3RnNBS2d2b0FITGNOX3p2Ny13dWY4amhVemEtVGsyRl9QclZkNFhUcVBKOUdNZmtWd1k4dXJQVFg4MVBqeDJTeEpkWDk3bFZ4TElvQ2pPNDZYeWJkSFI0Q29GbkgtWHlvam1RZkd1RHpFNWlWYTlHUzJwelBFOHUzckdOYTNjeEg4eVd0QzFNemVqaGtTSGdIeA?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "38787b563627e376",
+   "titulo": "España perderá 10.000 millones de euros para los agricultores si sale adelante la nueva PAC en Bruselas",
+   "resumen": "",
+   "fecha": "2026-11-18T11:53:26+00:00",
+   "area": "agricultura",
+   "ambito": "nacional",
+   "fuente": "El Economista",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRzg3SXJUUlJvTlBhd3I4OHlLM1M1S1NOc3pReW1QWUp4Z1J6QVNwM3VYMUx5c2FRMTc5ZF9paXU5dkcxZjVaanM2aVZEc1hJdy1uOVl4ZTQzTVFFbzFDV1dZakxvM1RBanI3ek94RHlKc1VaUzRKd1IzcDJaS0MwR195dlpReVBiSFJEZ0w4YnZkVkRJQ1J2Q2dfWDVsN2Q5ZWlrSmtuTll5TzdsdTBWYzBOaU93OVN0YzBaLThjNWFTSWxBREZ6bzVQc29mMDRqSnBpcGo1V1JZZXRGQnF3RXA5OUhOaTZzVktkZUVPT0RFQmdGNTVENGZibGF5TkdtVEQ4LdIB7wFBVV95cUxPdjNNa1VQTnJ1bFR2MHJzM3lnbnNxemsyOXlja1kwV2Z2a3dTMFhmZlBvbVlYTXBkVWRvMG5EUFJYRHlCY0RscXdKN3d6UXFRX2FBSU00ZnpWOVozVjBSekwxZVBDaGNrZEZ3WTBpRXNKYjlkUkduamk1bUF0Sm5BYWQ3RkhDd1V5bm9JNHpiZE01c2lzeXZscE1UR2M2RVRsTDc3Z213bkJndWp5R3U4b2NrWHBxdEg0Z1pvZHE5N2ZBd3F6dzFYNXhIc1dkMzFzTlFzUXZDeGFOMFA4OWo5d3hYTGRPYm1od3ZmNU1DWQ?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "d1522b433701f81e",
+   "titulo": "Cooperativas España reafirma su defensa de la retirada obligatoria del aceite de oliva, que ya está frenando la caída de precios en origen",
+   "resumen": "Cooperativas Agroalimentarias de España reafirma su firme defensa de la resolución del Ministerio de Agricultura, Pesca y Alimentación que activa la retirada temporal y el almacenamiento obligatorio del 12% de la producción de aceite de oliva. Y es que…",
+   "fecha": "2026-11-18T11:51:57+00:00",
+   "area": "agricultura",
+   "ambito": "nacional",
+   "fuente": "Agroinformación",
+   "url": "https://agroinformacion.com/cooperativas-espana-reafirma-su-defensa-de-la-retirada-obligatoria-del-aceite-de-oliva-que-ya-esta-frenando-la-caida-de-precios-en-origen/",
+   "imagen": null
+  },
+  {
+   "id": "fb242ac869f1b2f4",
+   "titulo": "Ganaderos valoran positivamente el nuevo Protocolo de sanidad animal de Castilla y León",
+   "resumen": "",
+   "fecha": "2026-11-18T11:30:00+00:00",
+   "area": "ganaderia",
+   "ambito": "nacional",
+   "fuente": "Diario Veterinario",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNWRjOGtOUHk0aHNkRmJtRTdEWkVhSzM5MDZZZVV0SUxrYXI5My1hVVI4Uy1JRndfOG8zYU9fRUhDQTJueVVydHUyWmlxdDR0ZzhoS2ctcm5aRVBqMjMwMTREcWFlcGZvbWI0STQzRFBGTFVxTndKcXRjMVNzeHUzcVc1ZnBMZVhGRkFKUVVQV0xYOVllbVdtNHgwNV9oNXdFdHkyT1NBWExGT2VHM2E2M1p1S3NYa29EOHJhVw?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "ce6ca90226f2be46",
+   "titulo": "Asaja Castilla-La Mancha fija su hoja de ruta para defender la ganadería y denuncia \"recortes\" de la Junta a la sanidad animal",
+   "resumen": "",
+   "fecha": "2026-11-18T11:16:48+00:00",
+   "area": "ganaderia",
+   "ambito": "nacional",
+   "fuente": "El Español",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPbXB4cHV0dE1NRGFybm5sbXdONmNjVWtzak9ZM2NpU3FuaHNXM3FjMGdleElXSzRDemxSZ1JXcFY1TkZwY3RheEJhNVk2ajYwdG9Md2N3SE1yYTRvNVNNcWFkLWljdDRXZmhFWm9LUWJEY3FKS1NqOGNITHJwcGRDbE5lYS1zSU55OHFWY29NOWs1NG5jZDMxWVRpMnd3RlVQZGpTOEtJQ0lGUGdNb19yNGdwa1o1aERwLUtnenBiTWpXN056R0ZlVlBTTkdMa1dQUGhiZE9SXzF5aVJKckh5RXBjMzg3NzZTM0lXalg1dzV1RHVsY19UV280Zkc2RVFCVjJuLTRoLVFvazhUZ2FkQURIcHpqN1Fmc1I2UExMQWVqeFNZSzlMNNIBqAJBVV95cUxPbXB4cHV0dE1NRGFybm5sbXdONmNjVWtzak9ZM2NpU3FuaHNXM3FjMGdleElXSzRDemxSZ1JXcFY1TkZwY3RheEJhNVk2ajYwdG9Md2N3SE1yYTRvNVNNcWFkLWljdDRXZmhFWm9LUWJEY3FKS1NqOGNITHJwcGRDbE5lYS1zSU55OHFWY29NOWs1NG5jZDMxWVRpMnd3RlVQZGpTOEtJQ0lGUGdNb19yNGdwa1o1aERwLUtnenBiTWpXN056R0ZlVlBTTkdMa1dQUGhiZE9SXzF5aVJKckh5RXBjMzg3NzZTM0lXalg1dzV1RHVsY19UV280Zkc2RVFCVjJuLTRoLVFvazhUZ2FkQURIcHpqN1Fmc1I2UExMQWVqeFNZSzlMNA?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "80ce7d5c3813afd0",
+   "titulo": "Dívar (PP) anuncia un Pacto Nacional para el campo y promete mantener la financiación de la PAC",
+   "resumen": "",
+   "fecha": "2026-11-18T11:12:01+00:00",
+   "area": "agricultura",
+   "ambito": "nacional",
+   "fuente": "Hoy Aragón",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQem9lNFVEemJMVmZVd3VOcEl4NG1WdW11N1h5cldSSkZiem9Bbl9Fdkd1ejA5TFRZYlhRX3ZqdkJJRjlpZHJrNVhCSXZ0dkIyNDIwTmt4YUhLYmpIVlZNOC1EeVFDRXF1NDhhdlFRT0l5c2dXOXlVejR2VVRnM0ZHQ1N6WV91ZHpvdVdPNmRWVmxVeXQteE1vOVMwb3kwTWxfdW1KcW54R3FfNG0yY0N3OVNEdmgxSzUteTRHdG5BWloyRUJ2cUFxMFlsTFdJRUMxUV81eEpUZnVRSFd4cW9Uc0xn?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "eefe1f9da7b2e81c",
+   "titulo": "Castilla y León confirma el primer caso de lengua azul de esta campaña en una explotación de vacuno de Salamanca y pide tranquilidad",
+   "resumen": "La Junta de Castilla y León ha confirmado el primer caso de lengua azul de tipo 1 de esta campaña en una explotación de ganado vacuno de la provincia de Salamanca y está coordinando la respuesta de control con los servicios veterinarios, por lo que ha pedido…",
+   "fecha": "2026-11-18T11:11:13+00:00",
+   "area": "ganaderia",
+   "ambito": "nacional",
+   "fuente": "Agroinformación",
+   "url": "https://agroinformacion.com/castilla-y-leon-confirma-el-primer-caso-de-lengua-azul-de-esta-campana-en-una-explotacion-de-vacuno-de-salamanca-y-pide-tranquilidad/",
+   "imagen": null
+  },
+  {
+   "id": "dae275d39559e084",
+   "titulo": "Ayudas de la PAC para jóvenes agricultores: el PP propone adelantar hasta el 70%",
+   "resumen": "",
+   "fecha": "2026-11-18T11:03:40+00:00",
+   "area": "agricultura",
+   "ambito": "nacional",
+   "fuente": "Aragón Digital",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUWNEajBpNHM3TFJMeTJiUllCVzFhWXVlc0pqbnZDZ2dLVlhYcHJEVmY5Z1FDd3FOSjZ5WV95ckQ1SXpsbTVIY19oWl9mSlBjNm1IZjRBRzVkZDlJc21vdlRJSXdORmxZbDBmeUh3amtjLWNYREpCOEhKX0RuRkZTTXZVM3FjMDdxUndCZElJM2dSV3Nzcm93UDBlSGxrYWpuS01EOEpkWkUxZ2ZUV1ZodGplQ1F2RmgtSmhPWHZoRzVUclNRWEtpeNIBzgFBVV95cUxQUDI0R1NpOXZGTmNTVmZnZ2pyeE9JbTlDSzFwRS14dzNLNzFkRFNSYnQtTy1Oc2EzUlVORXhxUkJPbjRselJ4WU02QURsQm85N2F5NjNwWC1ZU3NiM25HYkFYMmdXYWI3elV5OWk2RDFaeGFXdzdzcXRrckpka0o2dGVycTB6RlVFWjM5aTFESkdoZ19vcTlsbmE1NzNGZEJ6Q1o4QzJiMDJmbUExUTlnUWhnYVdMelY5aUdadmlSb0p3Q1d5OWg2TTZhMndsUQ?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "49d6416bd8e00a65",
+   "titulo": "Agromuralla tilda “de limosna y de burla” la subida de un céntimo en el precio de la leche en origen que plantea la industria",
+   "resumen": "La Asociación de Ganaderos y Agricultores Agromuralla manifiesta su profundo enfado ante las nuevas cifras que las industrias lácteas han comenzado a trasladar a las explotaciones ganaderas, menores de las esperadas, con incrementos en el precio de la leche…",
+   "fecha": "2026-11-18T11:00:18+00:00",
+   "area": "alimentarias",
+   "ambito": "nacional",
+   "fuente": "Agroinformación",
+   "url": "https://agroinformacion.com/agromuralla-tilda-de-limosna-y-de-burla-la-subida-de-un-centimo-en-el-precio-de-la-leche-en-origen-que-plantea-la-industria/",
+   "imagen": null
+  },
+  {
+   "id": "368fd2499b9ab45f",
+   "titulo": "El delirio de Ada Colau: quiere imponer la \"agricultura ecológica\" en todo el campo y limitar la cantidad de...",
+   "resumen": "",
+   "fecha": "2026-11-18T10:52:10+00:00",
+   "area": "agricultura",
+   "ambito": "nacional",
+   "fuente": "La Gaceta de la Iberosfera",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOVVowLXJ0T0R5T3FTUVlrY3J2cGZFWGpncXJnZ082bi0zNnEwTGtBMWthWWQyV2wyd3pQV2poV0VIZEtjdzR3dFJJY2prYVBZZ0xITXVrRVB2RHZDbV80aHFfMXZmbUdveUQ2b1R3eTc3YUtBcGZidkRGV1lIZkJhb2kxcTVadzBDOG9JeUkwdkNPQXRPMk5feUY0UXhVOWk1bEhvMmhZRW1PY1Y2emxaSlpibVZsVGpTdko1WW5Xdm9TZFRqT3NsMlo2Q1hiTnREdlpGcmJzSVFneVcwbzEya0JEME1MaDQ5M2dCVDRRaVlZZHZzeVRpcFZyQjExT3ZJQ2V1aE9hT3V0bi1pcUHSAZMCQVVfeXFMT1BCU2FsYTdBSVZYRUFUNkZTV29kY3JCeVVLMUV2ZmkySmtxQk0xa050RE9WaUZsZ0xHVjlqMFlXWnQzY1NQV2xKQ0hJRDQxYUY4RnMtLTEzaDNUaUx3cUgtVGNBeGw3NWJoenF2SE1oNDFuR0VfQlVyemxVdUlUcHZDejRPM0Z3azBuT2dSSXBLbWdOc1p6YV8zcVZaSTBNU2JsMG1Oa3NIUWZFekFYamtCVHAtTGZwSTJfeUhtNlNvcE1SU21VWTh5N2MxdWp1RXdCOFIwUnF4Vk9MSEY5ZjJHQTRYSlAydGFkSFZfaUR3SU90bGJlcmg5U01Wbm5RQmF3WU5ycXN4QWItZURCWjVuMFk?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "b53524e1cb10e158",
+   "titulo": "Agricultura presenta en Datagri el proyecto piloto para el acceso de los jóvenes a tierras públicas",
+   "resumen": "El Ministerio de Agricultura, Pesca y Alimentación dará a conocer este jueves, en el foro Datagri, el proyecto piloto con el que el Gobierno quiere dar un paso más dentro de su programa Tierra Joven, para facilitar a los jóvenes productores el acceso a…",
+   "fecha": "2026-11-18T10:39:41+00:00",
+   "area": "agricultura",
+   "ambito": "nacional",
+   "fuente": "EFEAgro",
+   "url": "https://efeagro.com/agricultura-proyecto-tierra-joven-datagri/",
+   "imagen": null
+  },
+  {
+   "id": "821526dcf868bde6",
+   "titulo": "Tres quesos españoles se sitúan entre los 14 mejores de los World Cheese Awards 2026",
+   "resumen": "",
+   "fecha": "2026-11-18T10:39:16+00:00",
+   "area": "alimentarias",
+   "ambito": "nacional",
+   "fuente": "Interempresas Media",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQldUcEFWYTlObXBkOGlPei04Y1MtZkxmZUF2QklROWdWZTR3VFY4MHdaNzNRcjFLOHY5THFXTGI4UmtDOTNhWEZOY1RWNWdKSkRXbUNGZTIya2tpLU1pZks5QnQ4Z21KOXMwcFNNQ1lhb3A0ZXB1bXhyekVqUUxWWHNwX2lJMElFUGVJU2hySTJMdjNyMTNWT1B3X2lIaFMzbXoyTWVCWUQ4RjREaWRNSE00LXZscmJWZ0VrWklTcEdQeDRmRXlTQ0VFM2NRbzZvMHgwQw?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "6e5896fb65b2215c",
+   "titulo": "La Junta confirma un positivo de lengua azul en Salamanca y llama a la tranquilidad de ganaderos y ciudadanos",
+   "resumen": "",
+   "fecha": "2026-11-18T10:15:13+00:00",
+   "area": "ganaderia",
+   "ambito": "nacional",
+   "fuente": "La Razón",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQTFYTVF3NllVVzJCdHpUb1lYQ1poQ1FKanRzVk9zU000dlBBdWZNT2t3N05WS3MzWm42cm5xOFhhTy1RQmxCbjlyYjhnZFZ1S253U2ItQ0hwUm94OTU4emdhSVFieGFvbGRuemFhS3V3RkFxcllwQTdDN1RES2RVa1VfZm9fMElzZE9SZG1SY0d2b3JUYVBvX3poQWRkbW9YLTd1Zm1CVlhsaWdYaGxYeDk4NnhrTVdzTEtueEtrWmpObXdNU1Nhb0U5R2h4bEp6V05zcFpudEhYSERHS2ZPeFVCVjhtdWxHajN1U0V0a18wcUNJ0gGIAkFVX3lxTE5wczlaVlNicHFfT0IwdU1vcGcxVy1CdXR0emlMYnJwMGJUN2EwNHNpX29XNWVZUVJLSmUzN3F3ZVBvMkl3VkRvY0RMNERRYldpYjVNV1ltdmxkMUZyVmtyUW9IQk9BMkstQURxdmVqbE1uZmZveE1mVUF5VEhDUlhPakxxcTBJWFBDck5RcXdPaG0ySV9XbVFaUlZ3UW5wREVTU1QzZlZud0gtUHVRNGRqT1BUTjA5bk9OWjZNZjFFRllSem42aThaNmlvWmFnSl9BYnJTSjJ2dXVkRl9sU1h5U0xienNsdUYzaVV1VGNBUlRjR3VIdGZPVTR2OGR4a1RWekgybVF1cA?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "4f0aa8b67b5b0aeb",
+   "titulo": "La ganadería extensiva española y portuguesa se encontrará en Salamanca con el V Congreso Hispano-Luso",
+   "resumen": "",
+   "fecha": "2026-11-18T10:03:42+00:00",
+   "area": "ganaderia",
+   "ambito": "nacional",
+   "fuente": "Tribuna de Salamanca.",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM0duMGJOSm80U2YwZ21zSTU0djdfcC05emJZOTRHR3d1S0wyZmhXQzdEcGJjeTl5bUtzTzlfRVp5Q1JwbGxuc18tMy1ORHBkY1lmeVFETDhHN3FTQmtGQ0toU2MzNVctRGx1MTNqQ1VfWkRCUEJCOFpsb2c2UEFPNDZQYjBvZk92dHpjakVLdVNpaEpqNmhJVkp3bVlsRV9rZGRTVVlHOFZWUm5OZk1ZN3NEY09HY1BDdXExTGIybEIxQ2t1eW55Vi05Y3dLdUlLVkRLS1dHWW85emtCSU9reG1hVkEzdw?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "92af293024861a12",
+   "titulo": "La presidenta del Parlamento asiste a la inauguración de la 36ª edición del Salón Internacional del Caballo en Sevilla",
+   "resumen": "",
+   "fecha": "2026-11-18T10:02:35+00:00",
+   "area": "ecuestre",
+   "ambito": "cantabria",
+   "fuente": "Europa Press",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPelRpaFVBQXVhT182eGt0MEsyUlFFbTlZemtfeFh5cHd6QzY1OGhfNG9uRjEzQjhLZUZwXy1wQjFZN3QwNy12Z25MWmVmLVBTQ1FLT3UyZHhacFdpMXR5WEJ5LVNHV1FtdjA3WjdYT0hCSVhOSFpvc1VfOGpWZHF0aFM3MDFTMm8wbU9FU081SHVvbWFObmRMRVNDNGpRbnhqME9pNVdVN2ZXeENDLWo4WFdyMXJMSDJRUkh2bjRkb2xvTERhMk5tdTJsT1dXQmxQc1VLWmlYVUN4NWMxTjhTTS1lVjgyaURmMGQ0cXNUTzd0NTY3SEl2amRoaw?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "16d35c5050f1201f",
+   "titulo": "ASAJA advierte al futuro Gobierno: la PAC 2028-2034 y la rentabilidad del campo, en juego",
+   "resumen": "",
+   "fecha": "2026-11-18T10:00:24+00:00",
+   "area": "agricultura",
+   "ambito": "nacional",
+   "fuente": "agronewscastillayleon.com",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcHFtY1ZLZ0VjRmhuTUtzbkNWMkJqb094N05NNUdqdUhJVkcxa2xXdTR2TTgzNlBZRUxxSFRBM0JjaXYydm1DajU1UmN6Q3BLTjdLM2pKV2l4eURpd0ZkUnczeGNGX3pteUx0RVZXeHUtTFYwNlQxbkZYWDhVQ1RTOHZBMzZ4N1J5LWc?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "78edcf856ef830a1",
+   "titulo": "Baja el gasóleo agrícola a 1,546€/litro pero sigue un 60 % más caro que antes de la guerra",
+   "resumen": "El precio medio ponderado del gasóleo B o agrícola se sitúa en España a 1,546 euros por litro, un 1,4 % más bajo que el lunes 9 de noviembre, pero un 60,2 % superior al registrado antes del inicio de la guerra en Irán, que comenzó el pasado 28 de febrero.",
+   "fecha": "2026-11-18T09:58:48+00:00",
+   "area": "agricultura",
+   "ambito": "nacional",
+   "fuente": "EFEAgro",
+   "url": "https://efeagro.com/gasoleo-agricola-baja-mas-caro-guerra/",
+   "imagen": null
+  },
+  {
+   "id": "799d9763a09146bd",
+   "titulo": "CyL llama a la \"tranquilidad\" ante el caso de lengua azul en Salamanca: \"Estamos coordinados\"",
+   "resumen": "",
+   "fecha": "2026-11-18T09:57:43+00:00",
+   "area": "ganaderia",
+   "ambito": "nacional",
+   "fuente": "ABC",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVGI2N2tEWFhnU3BsRG5ZYlZjLU9uWjFNUjJDT01YMWlCRGhIdjA4a19rSTV6OTcwWXRTejdZczV6WDZvVUwzVGFKN0FuTGV6WTdjRm1EaTlBYS1sQjdaUTNiSDJiNnhuckhUX21zYzlMWTlFXzJsQ3NoV2I5VEZxVG4zLTFZSUpXemJaa2xQYnFhTUhObTFMQWVOSlUza0HSAaQBQVVfeXFMTkRQaWNJTEgycGR2LVdDYTZkYWVoSmMwZ0hHOV9iRmRkSzlGUEV5Njc3MVJYWjA5Z2tqaXl1alZxaENuOG5KRGdZWU5HSXJOdmptVVotYWlrWjQxVGhkMjhaS29Ld3BmTzF6dUpCSk5tejlfQkp2NjEtNFRZYUhaV0JFQ3J1QTVHZ2hLMWx5dU1qVlpHcnBVakVSMzVISGl5ZUVfRmg?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "2f81b75879410fab",
+   "titulo": "La Ingeniería Agrícola reivindica el criterio profesional como pilar del avance de la IA y los drones",
+   "resumen": "El III Congreso Técnico de la Ingeniería Agrícola ha arrancado este miércoles 18 en Ifapa Córdoba poniendo el foco en uno de los grandes retos que afronta actualmente el sector: cómo incorporar la Inteligencia Artificial y las nuevas tecnologías al campo de…",
+   "fecha": "2026-11-18T09:53:30+00:00",
+   "area": "agricultura",
+   "ambito": "nacional",
+   "fuente": "Agroinformación",
+   "url": "https://agroinformacion.com/la-ingenieria-agricola-reivindica-el-criterio-profesional-como-pilar-del-avance-de-la-ia-y-los-drones/",
+   "imagen": null
+  },
+  {
+   "id": "67b5d843acd346c6",
+   "titulo": "Las explotaciones de bovino y pavo deberán notificar sus emisiones",
+   "resumen": "El Ejecutivo ha aprobado este martes una nueva norma para la notificación obligatoria de emisiones de las explotaciones de ganado bovino y de pavos, según consta en las referencias de la reunión de ayer martes.",
+   "fecha": "2026-11-18T09:34:25+00:00",
+   "area": "quimica",
+   "ambito": "nacional",
+   "fuente": "EFEAgro",
+   "url": "https://efeagro.com/explotaciones-bovino-pavos-emisiones/",
+   "imagen": null
+  },
+  {
+   "id": "e790227047254ec7",
+   "titulo": "España, sin focos de dermatosis nodular desde marzo: Cataluña y Aragón finalizarán la vacunación el 31 de diciembre",
+   "resumen": "",
+   "fecha": "2026-11-18T09:11:00+00:00",
+   "area": "ganaderia",
+   "ambito": "nacional",
+   "fuente": "Animalshealth.es",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQWRmQnN3UGJKZGVIOF92RXdJcnQwSXNaV2RmZDY0b2lLWXpQTzY2enA4UUVRTTNtdEh6bGt2U2xBdEl4NGN4U0RiaElOekttNXJJWnMwUnBGR0RuSlQxZG9jUWlmS0NaZzFNU3gxOTRvSF9LdkI4b2xVdk9IOElSWmEtYmQ2ZzRZVEl3WnAzTTFUeTFZSVZEZFdKeEZ0RjhfNXIxMmpEanliemk4MXNQcG1obk8xTDlfMFJPLVFOOGVoNmlaLXhtOUE5ZkZJTXF5TDBnemtqZV9oMGlmMTl0Nkpn0gHiAUFVX3lxTE5BZGZCc3dQYkpkZUg4X3ZFd0lydDBJc1pXZGZkNjRvaUtZelBPNjZ6cDhRRVFNM210SHpsa3ZTbEF0SXg0Y3hTRGJoSU56S201cklaczBScEZHRG5KVDFkb2NRaWZLQ1pnMU1TeDE5NG9IX0t2QjhvbFV2T0g4SVJaYS1iZDZnNFlUSXdacDNNMVR5MVlJVkRkV0p4RnRGOF81cjEyakRqeWJ6aTgxc1BwbWhuTzFMOV8wUk8tUU44ZWg2aVoteG05QTlmRklNcXlMMGd6a2plX2gwaWYxOXQ2Smc?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "13f61cf7ea556686",
+   "titulo": "Mundial de los quesos en España: Argentina se llevó 17 medallas y se consolidó como el mejor de Latinoamérica con un parmesano",
+   "resumen": "",
+   "fecha": "2026-11-18T09:01:54+00:00",
+   "area": "alimentarias",
+   "ambito": "nacional",
+   "fuente": "Clarin.com",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVHdHckpqRkVCWnZRem5BbjVOSUVTRElPYTUyOUZsMkZrSGxhVnlpUG04SGI2SkFkMXU0bDBEdVgwanFXb3NISHg0UDNrOUhfWGJCTjhEMkJqVzIyRWdMNFduMFBNWVlUZ1Z4VEhkR19mM2JwVGJWeUhzTVhKQ25SZ2E2ZTBqZ0JTbkczblVKWkRmLVlTS012ME44Tzdwb25YcDZHRHlGOXVqRXVOaHlwR3d6Nlk2VVRIMzdIdC05OTZHZUZZSE5iSktCdnBwUmRZMExZZNIB2gFBVV95cUxQUV9VSGJyaDdFQ201cHROODBaUU5SZ0kxTFY4U2JkVksxRlNNVE1ieFlHeVVlQy1vZXFIS2J2Q2VVV3lHM1lFdllHU3E3VmFXcUhjeW9VMDYtUkRpVjRZUk91LWZCbmwzTVRRRlVuZTA3cUswNV9FakhocEtBU2RtVDl6c1RLVXg2VXh4U3JmanF1aDU5QnVWbXhXUEtoUFpSSGtNRW1nYUx6WWpTVDhSMndjQ2c4akk2X3YwREpLZDRnQ0RaUFI2akNUd0FiLWVDUXdtak41bWxRZw?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "96d6bf4299f1ae73",
+   "titulo": "Tareas para el próximo ministro/a",
+   "resumen": "Donaciano Dujo / Presidente de Asaja Castilla y León Volvemos a tener que elegir papeleta para votar. Solo han pasado ocho meses desde que lo hicimos para decidir el gobierno de Castilla y León y dentro de apenas seis meses, en mayo del año que viene, las…",
+   "fecha": "2026-11-18T08:23:07+00:00",
+   "area": "agricultura",
+   "ambito": "nacional",
+   "fuente": "Agroinformación",
+   "url": "https://agroinformacion.com/tareas-para-el-proximo-ministro-a/",
+   "imagen": null
+  },
+  {
+   "id": "066fec2b06454672",
+   "titulo": "La realidad empieza a imponerse: las regiones de la UE urgen a conservar al menos los mismos fondos para la PAC en el futuro presupuesto",
+   "resumen": "Aunque todos insisten en defender una futura PAC sin recortes, parece que poco a poco la realidad empieza a imponerse en el debate. La coalición AgriRegions, una alianza que agrupa a regiones con un fuerte peso agrícola dentro de la Unión Europea, urgió este…",
+   "fecha": "2026-11-18T08:20:39+00:00",
+   "area": "agricultura",
+   "ambito": "nacional",
+   "fuente": "Agroinformación",
+   "url": "https://agroinformacion.com/la-realidad-empieza-a-imponerse-las-regiones-de-la-ue-urgen-a-conservar-al-menos-los-mismos-fondos-para-la-pac-en-el-futuro-presupuesto/",
+   "imagen": null
+  },
+  {
+   "id": "69673a29e8cdef1d",
+   "titulo": "Calor, tormentas e incendios colocan a España en el podio mundial del clima extremo",
+   "resumen": "",
+   "fecha": "2026-11-18T08:16:00+00:00",
+   "area": "forestal",
+   "ambito": "nacional",
+   "fuente": "EcoAvant.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQU1BbXFVaFBPMURURmVYNlFmVWVMSEY2SldIWE5JWjEzNFhjTVNJR0xPdzdUVjAyZWVLdnVMaVBqMzRobEVVZHBCaVN3b2lKX3MtNXdOd3VFa0lvLTVSUDdtcWcyNWFOdFA2dG1Mc0J6V29seUlrSVY1RnBnNjBaa2NHNXAtcGNsYWZRS1p2N0V6VE01c2w3OVhuZmxxeV9rbWtoTElsSC1xdmJUSU9PSkVJV3BEdm9lVVlVZ0dZdGZBWFdr0gHKAUFVX3lxTE84WEYyQUV6cEc1RUswdVJZQWhpMVdhc1VVOFR0NG96M28zbnk1VktTdVB2bzVXZTNEelVuMkF5bGhFdlliWkVXZ1F5UU0xV1VEODBqSEs0d2ZTRVQ5NVpfWEg3Qy1SeEx6X0NNeVhoSDUwbTRHZWpEZWhIMXQyajhmNGMyUXl2UjZCeGJvLWR4X1k2LW9mU0lneXBwclJMa18wTFEyaVhrMndtMGhYY2VUejhJWlYxR1VKN1RxN0N4V2VwM1VXYjU1a3c?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "542b02780eec647c",
+   "titulo": "Solicitan a los cazadores batidas con hurones para frenar la plaga de conejos que arrasa los nuevos cultivos en Extremadura",
+   "resumen": "La Comunidad de Labradores y Ganaderos de Almendralejo (CLYGAL) solicita a la Sociedad de Cazadores José de Espronceda que lleve a cabo batidas con hurones, para frenar la plaga de conejos que arrasa los nuevos cultivos. Según denuncian, la proliferación…",
+   "fecha": "2026-11-18T08:15:20+00:00",
+   "area": "agricultura",
+   "ambito": "nacional",
+   "fuente": "Agroinformación",
+   "url": "https://agroinformacion.com/solicitan-a-los-cazadores-batidas-con-hurones-para-frenar-la-plaga-de-conejos-que-arrasa-los-nuevos-cultivos-en-extremadura/",
+   "imagen": null
+  },
+  {
+   "id": "196aaea83714b33f",
+   "titulo": "'Jerteñas' homenajea a cinco mujeres referentes del Valle del Jerte en Tornavacas",
+   "resumen": "",
+   "fecha": "2026-11-18T07:08:47+00:00",
+   "area": "agricultura",
+   "ambito": "nacional",
+   "fuente": "Hoy",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOam1uODhYY20tX3IxLWxOTW5QbXFfM0E4MEJ4dVd2bW9PUURtZnBmb0VlT2M1NmMtUTJzc3lsZWM4Tm9OcHRSRzNVaDBBMGp5WkcxWm5JbVd0T3JwRzVpZnd1elVaWG1xTk10Si10QXQ2SmgtbUxsUEZObEV1akZzMFFrLUhSNERscklLRkRBMnQ4TjhjT1A1UDlsNXU3TW5tVklUTVk0N3ZpQkx6ZVpN0gG0AUFVX3lxTE5xbjVXVE5fLXhtUG95V2tPQ0xST0RNTTYyRUF3Z0FITEUxWWhPZnoxeEJLZ3dKY1ZPQ2ZsMFF6RVBla0VZcGJwY3M1RVh4VXViX0I4N2hoME5NZVJQby1CY1BWYXl0R3lnakUtV29IblE2cW9FcUVrX2NkVWJVNWVJd1N4emFfSDhPckhQUlVTZ2pMWjF4eUU2d1JHN0pZRzVlVjd0UUpINncyR1ZRVE5ZOGJaeQ?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "aaf64a100ea3b385",
+   "titulo": "Villafranca de los Barros se convierte en la capital del queso con la feria Quesarte",
+   "resumen": "",
+   "fecha": "2026-11-18T06:59:33+00:00",
+   "area": "alimentarias",
+   "ambito": "nacional",
+   "fuente": "COPE",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPTmRiS2V4bGcxZXlBVm9Vd2x4bzV3bFpYdzVWMzAwTE5MS3piRjNXcW1yMS1MaHdFWTJnWlI1ZUFJUzVUeGx6dmFLb0ROZGN6WUlhWTg4aXVaa0pTNUlELVJQN1U2dHRmeDZTTzhGc3FkVjRtVllZOUhpN2xBaWM2MVFtU0ZwaUFmVm5fT2wwc09TZ2NRdVc1blZQWnFDU1Rwd252S29ZbHdxMFl1NVdrem80RWxfMUZxdDRBNHBmdUJwZk1RRURxVnhjcG95OXo5VXJfaUJsWkl1R25kckZ0WlUyVFFacnVOUzluYXJPX2pxaXZmZkg2ZHhXRjJSSVFSWnAxZ2N5dGpldEpselHSAY4CQVVfeXFMT05kYktleGxnMWV5QVZvVXdseG81d2xaWHc1VjMwMExOTEt6YkYzV3FtcjEtTGh3RVkyZ1pSNWVBSVM1VHhsenZhS29ETmRjellJYVk4OGl1WmtKUzVJRC1SUDdVNnR0Zng2U084RnNxZFY0bVZZWTlIaTdsQWljNjFRbVNGcGlBZlZuX09sMHNPU2djUXVXNW5WUFpxQ1NUcHdudktvWWx3cTBZdTVXa3pvNEVsXzFGcXQ0QTRwZnVCcGZNUUVEcVZ4Y3BveTl6OVVyX2lCbFpJdUduZHJGdFpVMlRRWnJ1TlM5bmFyT19qcWl2ZmZINmR4V0YyUklRUlpwMWdjeXRqZXRKbHpR?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "5c925492926c7a85",
+   "titulo": "El nuevo serotipo sin vacuna de la enfermedad hemorrágica «preocupa» a Ganadería",
+   "resumen": "",
+   "fecha": "2026-11-18T06:14:46+00:00",
+   "area": "ganaderia",
+   "ambito": "cantabria",
+   "fuente": "El Diario Montañés",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLWc5TDh2TEZYUFM0SGQzZVRkMUJrMFF3aE5VbDFud2o0S2RjVlNxbVRQcldqcUkxeDJCZmw0MzBaUmF0LWRGTVlLV3ZULVYwejF2U3E3c0RldzVqYXlycFdKbDVjOTJiSk00VWVHYm55Mldod1hoTHlYdk9xTVRYOFBSZE5sNUR2bEZkRGZTd3BOSTREVjEtalVVVXJPdXVMX2k5YVR1MXlVaXVLZnFCY0dLVW9YZ19VTVFDMnB1S3pfdTNWWUNj?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "92758273ed5a5b8f",
+   "titulo": "El Frente Amplio de Colau propone imponer el modelo ecológico y arruinar al campo",
+   "resumen": "",
+   "fecha": "2026-11-18T04:18:07+00:00",
+   "area": "agricultura",
+   "ambito": "nacional",
+   "fuente": "Libertad Digital",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbUpJaXVEMENKOTR5WVVHUkJTV25WMTE3cXBUOGVhVXE2VzRfeFhsSHhyN2c3V2lpYW1ZalNvaTNEaVY3Y2lycld0TldfMjJmYWhaR1dPWWFYWWZuVWtZYVVHZzJOQ1F1RUtweThuWXlaT1JlcU9HTTlNTkl6ZXRIbzB3N2dOdVZRdzVmYXdNc3J0b0JhUkE0LWdsbTNFcmlWSTZsc3IyQWU5Z180ZnQ1UExrazVyN3ZoaFR6YXhhU2VZd2NEYXZDTUc3T3lHMnYwR3NFTGRYSEFZUjRFMnJn?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "fb008cdb8261936d",
+   "titulo": "Valencia reúne por primera vez a la industria del caballo para impulsar el sector ecuestre",
+   "resumen": "",
+   "fecha": "2026-11-18T04:10:54+00:00",
+   "area": "ecuestre",
+   "ambito": "nacional",
+   "fuente": "Valencia Noticias",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUW5WSy1hS0dEUW1rS1paeC16ejF5V0FZV0IwUkMwUnFZeWozZlIwcVBVdjBFYTBNUmtRRmVUUkYyV1J6RmZpRmVTeHlLTzFnLXhFNnBoTnRRNUR3YXc5eFpES3lKZkdlUGZSOXBlNGktSjMxdWJQLWRTM21lSWJHM1cxSGRpS2dENzFLdVRjb2JsVTR3bTQzY19FTDVZUUI1dkxoNEFpRDNGV2xlczdJQmNrWDFZRDNtOFJNeg?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "e4a8dcb4e4aa3c11",
+   "titulo": "La UEx pone en marcha un curso online sobre prevención y control de incendios forestales",
+   "resumen": "",
+   "fecha": "2026-11-18T02:58:36+00:00",
+   "area": "forestal",
+   "ambito": "nacional",
+   "fuente": "Onda Cero",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWFRJX28wU2pTSktVMVh4TkdHdDhydTJUWF9aa1I5ZHZwYU9YYWRCb0ZzMDkyeWtnOUlsUWp3R2hNZDJ5UXNzTElMNnE5QnFLWkVCLTRlelY1Y2lMbVNlNWIySzE2RVB4UHE3STFtOG52UHRYU2FxTFQwM3VNRmlORHJwNFp3WE5OYTVITG1xNDBuSWhuY3ZMbFlaUFZMWUc2QW1UWG9HZmJ4NlE4OGUyRURFRTFLUWxFWWRNMXRiNjdiZU9UUWF1OUFsSHNENTNiajE3WVUteXd3WWpTbnJLcURvSjBJVHhVRm1ZeUFnLW5nQdIB8gFBVV95cUxPV1c4YThxZWg0akg4ZjY4VmJVa0tHZi02Y3dnUldXRFp0X2d3aEkwUWpSMHB4a2VTZWVvX1JqUGNTSzV5bl9yQlJmLWI2Z1Z3b1RBUXFqSExjMENsX0h5RnRkdExwRHV3Rms2a0pvaU9yUnBqOTNESWVsX3BSUkNCdl81R1lCT0NOV3ppNXdXWGdrYVRQaVJtT1BmVUpKS2lma3M4S2REVnFRNkhiQlQyWVJFOVdDdmhoOXFvMUJxTVlta0liSl9vWklYQnZ6eVh3NlNFNExZdEJFQmJSUS15Q01ZWWhHbDdJbWJOemF1bWhKUQ?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "71b5713bcfec745f",
+   "titulo": "Fedagro saca la cara por Fedegán: Desde el Magdalena Medio llega un espaldarazo a la autonomía ganadera",
+   "resumen": "",
+   "fecha": "2026-11-17T23:57:03+00:00",
+   "area": "ganaderia",
+   "ambito": "nacional",
+   "fuente": "CONtexto Ganadero",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcWJPcXM3RC0yZUNWRTdDWWpfaUxIRlJIbTJqUVlQZE0wZGRTNTd6VjllVWIxdmQ4QmlPUmVva1hncXlDbC02c042XzZoUG5XaUZkWG9wSVduMGhvTHU1QUdEdFdBMWVEaXk0U1VVdzlpZThkQXo0Z2NzcllWT3FoYWoxcFozNFJ3NEZ3bzRfbWszS0RGNmZVZTBfbEc1aU50aEJtd1EwMGxESVdWVDJqbVVxcWxHd1VzN3h6b3dhamFiRXVFTkVPbzZTVzZKWl9RSFUyeFJtbERlNDF2X29adnFCcjUxSmRW?oc=5",
+   "imagen": null
+  },
   {
    "id": "32e8d86d49f38682",
    "titulo": "EIMA 2026: Tractores, cargadoras y soluciones de automatización de New Holland",
@@ -41,19 +514,19 @@
    "fecha": "2026-11-17T20:31:52+00:00",
    "area": "forestal",
    "ambito": "nacional",
-   "fuente": "diariodelsur.com.co",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTmF5UERQaFpfYlNFRXlJMG1UdHlLSHJXZ0pZdUYzalhERVBuVktETWwycm1xcUhocXgwSURwMHlFc2ZtQkF6eVpxeHBrNmk4SzBTLUhCRVN2RTZYdWlaaFZyeWI0ZUlBOFdoMDV3MGhTX2FKZjgzb2RrLUNvSWhoVDJnLWFEWTNhMnhaQ2JwQXVyb3JiSnllcTRlSm13ZlRjR1lwbzVodldnVzNmb1BzY1VtRFVmcUdu?oc=5",
+   "fuente": "Diario del Cauca",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMDZkQVVDMGtVV1htSEt5Y3JtYXU4cE5oWEdKS1dBdkRyczNKbGFKaXZhRHZiUFlldTVqemRoajlINzJaSzEzQ3M0amd4ZWViemhnOUg1Q0dzUG1ZNG1BeDd6dC12emhRX3RqeFB6WFd2dVBJQ3hUSnlDX00tZGJ1Tkl2M3JRRE5kbzgtM05TNjZ4T2wxU2h3Q0FITFRXR3MwX1BpRGwzeW4zUENsOFFERmxMaU1xYnVUZk1r?oc=5",
    "imagen": null
   },
   {
    "id": "a631cde8f19a693a",
    "titulo": "Quesarte reunirá a 25 queserías y expositores España y Lusos en Villafranca de los Barros",
    "resumen": "",
-   "fecha": "2026-11-17T19:53:16+00:00",
+   "fecha": "2026-11-17T20:26:09+00:00",
    "area": "alimentarias",
    "ambito": "nacional",
    "fuente": "Región Digital",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR2xsanpndHZrRWltZmNKOU5pM25zOVB0NWxvck1yZmpacDRlV1pCRXFpWVB6bVRGSHExM0I3NjBCWkhZWlB1NjFCT1NjSHFwdkhHM1JlRkV1TzNPbkhtYkNJcVlZZEg2LUZzNnhWYjFqS2JUcVlXbzFSNllvNy02SVRDdzB2a1pKNVdGR2RCN2pBR18yMVJjN1MwUll5WEpkVW45YXFFVXNHejgwS0ZtdHRBR3I0SHhGRFUtVFZmcU53ckdDMmxLZ0RMVVRnVFhERFdybnhaMmVvamxmR0NPMkUtdjNZZ09mMDNkRVNHWU5ST3FlbWk00gH3AUFVX3lxTE1HbGxqemd0dmtFaW1mY0o5TmkzbnM5UHQ1bG9yTXJmalpwNGVXWkJFcWlZUHptVEZIcTEzQjc2MEJaSFlaUHU2MUJPU2NIcXB2SEczUmVGRXVPM09uSG1iQ0lxWVlkSDYtRnM2eFZiMWpLYlRxWVdvMVI2WW83LTZJVEN3MHZrWko1V0ZHZEI3akFHXzIxUmM3UzBSWXlYSmRVbjlhcUVVc0d6ODBLRm10dEFHcjRIeEZEVS1UVmZxTndyR0MybEtnRExVVGdUWEREV3JueFoyZW9qbGZHQ08yRS12M1lnT2YwM2RFU0dZTlJPcWVtaTQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUjNHSk5DaUR0RjVaSV92ZHg1UFhfNDgwckFaSGd1VHVsUUxaUHc5YzBIRWlSNWpWMWlwQWNvR2dITEZuakdsb3A4NEFwMFlyRzE3bm0yOV9sWWRES0VUNkNibWgwdko1anR3M3pLZ193NzBwT21vNVFNWEdYa2daSWctTVU1WnJ4RllSVS1qdEtQZURrQ0pUM2ZpcUVhZENSNGcyRE1nS3JwbXNBZW1SVDJkcE9IV19qQmhsWnJmU2Z5dlJuVGg4eTNsTkRXWnAybUY3S0M2Y0tEUENQM3NVOWFwRVBoQU1Td0tpdUktcjBEQdIB9wFBVV95cUxNR2xsanpndHZrRWltZmNKOU5pM25zOVB0NWxvck1yZmpacDRlV1pCRXFpWVB6bVRGSHExM0I3NjBCWkhZWlB1NjFCT1NjSHFwdkhHM1JlRkV1TzNPbkhtYkNJcVlZZEg2LUZzNnhWYjFqS2JUcVlXbzFSNllvNy02SVRDdzB2a1pKNVdGR2RCN2pBR18yMVJjN1MwUll5WEpkVW45YXFFVXNHejgwS0ZtdHRBR3I0SHhGRFUtVFZmcU53ckdDMmxLZ0RMVVRnVFhERFdybnhaMmVvamxmR0NPMkUtdjNZZ09mMDNkRVNHWU5ST3FlbWk0?oc=5",
    "imagen": null
   },
   {
@@ -90,6 +563,17 @@
    "imagen": null
   },
   {
+   "id": "40529c04b0660b65",
+   "titulo": "España y seis países piden tasas a sectores contaminantes en la Cumbre del Clima",
+   "resumen": "",
+   "fecha": "2026-11-17T17:41:54+00:00",
+   "area": "quimica",
+   "ambito": "cantabria",
+   "fuente": "Europa Press",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWHNybUplcFRrUGZKa2Z4TEZuZTdockQydjNPSWFNUlVXU2FUd3V0MHMwdnRQNFVMWTZiUnItVFJwblVVV1BDRXd4c09lbXZkWW44UnVhd3poQUlpZlp4Rm1kVzZQeHYxMndVMlUzQWJRcEx0eVE2ekE0TlNFekE3SG9KX1NqZnlNekdDRV9NM3I2NWFZYmtpYmcxWDRlUl9QVGhQZEhmNVJoUTQ3OWRnVTRGVXpBdUttVHRKQUFaWjJUR0VmWmJfandB?oc=5",
+   "imagen": null
+  },
+  {
    "id": "c2bf8af485bdcf48",
    "titulo": "El cromo, principal contaminante del pulpo de la costa de Marruecos, según un estudio internacional",
    "resumen": "",
@@ -98,6 +582,28 @@
    "ambito": "cantabria",
    "fuente": "Europa Press",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYmw1YTZYZk5KWk5IeTE3WVZUYUMtUnIxOTdWVjZETnJkdjJ0ZlE4cE5tYkpGZHVKaW5GY3g5VjU2WmRoUVdNVTRrQ3JMZlBOcy1CYno0bWtrN2g3R1ItcDJuNEtHVVFkQVVPbWJUY1RQUWNkSFllakFMcV9UbzhVQloyR3lPT1pBZFpndlQ3QVdCX0daeFhkazA0OGszcmx3aVktZEtGcFRIZEIxNl9weUktQkhUS2ZaNEdIbEdmRXhuUUE5SVhlaUR6RFlkRUtsbkFwQXFjamczdw?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "bde1827878b3e285",
+   "titulo": "El alcalde de Sevilla inaugura oficialmente SICAB 2026",
+   "resumen": "",
+   "fecha": "2026-11-17T16:21:16+00:00",
+   "area": "centro",
+   "ambito": "nacional",
+   "fuente": "OcioCaballo",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS1hnMk01MkhjUDJTczJXUEU0b1dubDNyY19VaXN5U05yTUtHLURoaWNEeV9jcGFOQkxXMWdFSXpOdXFFUEM0aUpETExodWJZeDdFSF9IQlczOE1OSW9ndlYtNERuUWNya1BIb1lURVJ0Yi1JQjJxemtILVpoWTdrNlQ5MURjYUVpaWNSdW42Zl9JTmE0ZlE?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "8c388f7542fd8e7a",
+   "titulo": "World Cheese Awards 2026: Argentina se destacó entre los mejores quesos del mundo con 17 distinciones",
+   "resumen": "",
+   "fecha": "2026-11-17T16:21:12+00:00",
+   "area": "alimentarias",
+   "ambito": "nacional",
+   "fuente": "Argentina.gob.ar",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRTRlcWpKaUtEQkxXLXdiZ3M4NkNrbEVjU0VJcEtGdG9odmdLbDJVdFdRTFlHbkJpZ2cxaEZxLXJsRnhXVE95dEpzNHdCNVVHaHJ5VlRQZHhVbkdYSHRpblRyc1lfdDJDdFpKZWNzS2xlZlFiV3RWM3ktQzlZMm5mREt0Y3FwczVlNGJaQ1lOUkQ4bjBFWEpVN3g4dE9ObWJQUFQtWUlUN1JKVVptNXE4OUpBUEk5RmktaFFEd3FnVFNwTXM?oc=5",
    "imagen": null
   },
   {
@@ -197,6 +703,17 @@
    "ambito": "nacional",
    "fuente": "ConSalud",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbGsyc3Y5TF9IcUlWNS11OF9zY3NZVkprUmZwV20wVnFEYTlhNjhrVTZzMzExRlEtWmlJb3VybnFXcDVBOVQwdnBQNThXdWt1X2YyMnNxVUlWdXlVM0tnOTByei1hQ0tqdUdxa05zUEs5SkE2c2c2QWJBYjhOUXNzNUZUV3BIUHpYYVFQSWFZWTNlbC1iXzJKSFFzOGVBNHQ3aUp3TnVHOTlpUi10d2h3dllXUTN2YmpIV2pWdllGSnl6MWhlOTRDMXBiUlhTMTRMNHJpQXRGV3ZLckprel9jVnRIQVJ5V2c1?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "a6fdec2487790155",
+   "titulo": "Máximo Huerta publica 'Una maleta, dos libros y un corazón', un libro de viajes y recuerdos con ilustraciones del autor",
+   "resumen": "",
+   "fecha": "2026-11-17T13:28:13+00:00",
+   "area": "agricultura",
+   "ambito": "cantabria",
+   "fuente": "Europa Press",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOY0JmaFFyQlFDNHJuQUlFZ2hfVGdYWjJZMGI2clIxNEh0YjNBRFoxbkZ2UTZhRWZKVTFlX0ZXY3lfemk3ZERFRGh0WmkyMkQ5M08zWlU1SFhwR1EycV8tNG1kZzNxakhMd1dtOTFnQUxnR0FpeFVYLXhIRE4tbWdFbmpBRjVjclRTWHhPek40bEl3M3kyUkpsaEZPUHA0ZUVsXzRxZm1WV0EwWkJ5WDhBb00tQ2M3OGpQYnVRQTRBY2xWaUlaQXBxSzI1UmUxSXhHN3JpQkRGTjBlNTVoOTJsMzA5T2F1NVN6LXRmbHRneXAyZVotRjdKekJR?oc=5",
    "imagen": null
   },
   {
@@ -394,7 +911,7 @@
    "area": "alimentarias",
    "ambito": "nacional",
    "fuente": "Canal Extremadura",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ19xUThfZjdiaFR2andoM0lhNmdGcjQ2N2Q5Q0lCc0hyNVhzbW05U0VZb0V3QU8wWXlWeUFTOExsT3c0WkREYlo0MXV3UU1jYlYtbzhiLTRVTzlGaUJ5S3RQaFpoa1NsV00zbkZVQUdRa1B2ejZrQXpCTnU0bTJ6SkxyWHRDcVBTM1JnbmdESzNxaW1pQnFZTnAydXRKcmhseUlSMFd0SjFMdHAwVFJtN3hZWmtOTTluLVREZG5relluTVVFemdhYw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSXFRMWFtZXZTN0luV0hzNU0xUUNsQUpCY2x6bG4wNEhMQVR3UFJXRjVZdGNtQ1ZfY3JvdUxyaEg1Y2FobldOX2N6Rl8xdUJfUUVSdVlkcVZfZFQ5TEVaakNIU1VSbTZoT2Y3aUNRdWNuS3V4VVFfWWs2ZFFEM0VaQ1E5ZVVHbFlISGdlZTJLRUR1ZlhJajFUSXRpbUg1ei1STkRlcVNsY1pEQ191MWxpSDVLNmFUcXE3eGxjOXE3V2N2UVFiN1Vn?oc=5",
    "imagen": null
   },
   {
@@ -433,12 +950,12 @@
   {
    "id": "63a9ec2e51ff4d95",
    "titulo": "El campo europeo se moviliza y el Copa-Cogeca convoca una marcha en Bruselas para el 26 de noviembre contra los recortes de la PAC",
-   "resumen": "Copa-Cogeca convoca una marcha en Bruselas el 26 de noviembre contra los recortes de la PAC, coincidiendo con el Consejo Europeo extraordinario sobre el presupuesto comunitario. La convocatoria se anunció tras la concentración de cientos de agricultores el…",
-   "fecha": "2026-11-17T09:06:48+00:00",
+   "resumen": "",
+   "fecha": "2026-11-17T09:11:18+00:00",
    "area": "agricultura",
    "ambito": "nacional",
-   "fuente": "Agroinformación",
-   "url": "https://agroinformacion.com/el-campo-europeo-se-moviliza-y-el-copa-cogeca-convoca-una-marcha-en-bruselas-para-el-26-de-noviembre-contra-los-recortes-de-la-pac/",
+   "fuente": "Agroinformacion",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUHNtWUlDQ3NsS3RkM1ZFbzZ5dnBRZkRtd0VuaE9jOUNobzNBMWxISHloT1RYY3hCNUttMnI3SXdFVjVIbXlweVJ1cGlFSTdIZVV0UXVUcmFpbkY3TUI2SXRRb1lnQlNZS1FYRjJ6bTR4WE9IT0JqaXA2SnRpYTlBaVBHU2c4VF9iNkRtV0J3RUxMN2VBTTFhU2tEZ0o1a3JyczBZc1M4WjNTeDhiRGRSdDBhOGFBYXVkTkRmZ3hOQnVKZHFsY2pDdnVnLXlWblBGbHhfTmNJNjFLNi1ueE5oQ2pCV2RJTVdiY3FoaEt6Ujk?oc=5",
    "imagen": null
   },
   {
@@ -493,7 +1010,7 @@
    "area": "alimentarias",
    "ambito": "nacional",
    "fuente": "Interempresas Media",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZkNlTG5GbGhkYmVzWUV4YTlYdWwwazJVdnF6MUtfQWdGSVZMcDFJXzJYT1Rqdm95SXpmNGZCY2dHLXBoTWljdkJOY2xDeTlrNVhBZ3d4SEtGcjFjWHc3bVRHUnNMdHozdkZ4MVp1T01RemI3ajIyYWFCTllQQ0pqamxHY3B1RWVGVFlLN2lUbTRTZ2xlRDBobmJpM1lON0NmSVl3bXI4MW9hZGNaX2NBaGRYTWFjY1VyZW9RRTZzS1Rib3VydU1YUGRZM3I3bFFNaXNWOWt3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJRmxqRXFyQXdvTVRCTWwzd3h4UDFvOEZpbndtSUQ0clBPakZCOXRCWTBEOXZpVEEyYUtIbzNkQmZVYkFnWGxjR2lsWmQ0Zw?oc=5",
    "imagen": null
   },
   {
@@ -526,7 +1043,7 @@
    "area": "quimica",
    "ambito": "nacional",
    "fuente": "Diario AS",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSndnd1B1NUFBSXQ3bWlORWxQZEdYZGxYdWsyX3MyVk5kZ2g5MlZjSFI2amFaQ1pIUWlOWVJsdzVfT2VHWHlIV3RWM0xEVktpdmNmNGZ4X3FEeXRxX05hUzBpa0NsaDFJT3FicFpKTm1PLXVwVm5vVlpiVHhXWGZ3YVEtSzNuYVlhYkt3S2txaWNYZFNWeFpBUUpPQ0NZMnk5NHNKeEtKeFpreG5lcTY1V3JqNThJTXFmRmtHNjRzUlR5SEREQjBRZzJCVko2WWxaeFpVbGxfcE40dUd6T1VkY2hxSkYxdUMzVXfSAf4BQVVfeXFMTTlkNzFMRk55eDhrYUdhT1oyR2lTbmRwT3VVaGhQdFVDajNGRmdtTkp1Z3d3VEQ5dWtMa24tMGhxaUYyTGxHMk5admROQ1BaeG5iN0FZd0V0YWZFN0lULU5DRW1qYlgzRVdMTENGTEhxM0UyQ2tWT3Y3N3RMMV9vQ1JuVXY0cHlWUkk0R1pxeUREdC1LOG5EblluN3EwaTBSTnA1REQwNHdIZFhmYzFWODdiQ01KN2llWkZ6VDZwZm85ZlhPUzhLcWZhaXBpUDZjX1VteThON3JHSTlDVXp0dlcwNkp1TFV2TEVjdER3a011UVoyTmh4OFozRGpZWkE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOWQ3MUxGTnl4OGthR2FPWjJHaVNuZHBPdVVoaFB0VUNqM0ZGZ21OSnVnd3dURDl1a0xrbi0waHFpRjJMbEcyTlp2ZE5DUFp4bmI3QVl3RXRhZkU3SVQtTkNFbWpiWDNFV0xMQ0ZMSHEzRTJDa1ZPdjc3dEwxX29DUm5VdjRweVZSSTRHWnF5RER0LUs4bkRuWW43cTBpMFJOcDVERDA0d0hkWGZjMVY4N2JDTUo3aWVaRnpUNnBmbzlmWE9TOEtxZmFpcGlQNmNfVW15OE43ckdJOUNVenR2VzA2SnVMVXZMRWN0RHdrTXVRWjJOaHg4WjNEallaQdIB_gFBVV95cUxNOWQ3MUxGTnl4OGthR2FPWjJHaVNuZHBPdVVoaFB0VUNqM0ZGZ21OSnVnd3dURDl1a0xrbi0waHFpRjJMbEcyTlp2ZE5DUFp4bmI3QVl3RXRhZkU3SVQtTkNFbWpiWDNFV0xMQ0ZMSHEzRTJDa1ZPdjc3dEwxX29DUm5VdjRweVZSSTRHWnF5RER0LUs4bkRuWW43cTBpMFJOcDVERDA0d0hkWGZjMVY4N2JDTUo3aWVaRnpUNnBmbzlmWE9TOEtxZmFpcGlQNmNfVW15OE43ckdJOUNVenR2VzA2SnVMVXZMRWN0RHdrTXVRWjJOaHg4WjNEallaQQ?oc=5",
    "imagen": null
   },
   {
@@ -626,6 +1143,17 @@
    "ambito": "nacional",
    "fuente": "Cocampo",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13N19NUl9FV0QyRlVRWmJ0dm1jb0RBSWgyWmMtMmdHTjcyTm80clQ3cDl5NF9QdlBfUHdxSUxISHBDWUtJbkRPTFpGTGpac0xFeTRhWl81ZzBadlhmMlFPTElyMlNONXRzY0g0dXNmaS1zLXNKSFFSeFplVnpPRGs?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "0a396d3bd28b55fc",
+   "titulo": "Incendios: dramática situación en España y Francia",
+   "resumen": "",
+   "fecha": "2026-11-17T06:04:34+00:00",
+   "area": "forestal",
+   "ambito": "nacional",
+   "fuente": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFU4OUhfWUZtYmhEa3c3dTJ3WFhIeG1MblRacEVWRnlfS3hoTktGVEpOb2ktYkM2VWpYcU1VVTZTX0paR3ZjcHU1OFN0dFB3b2J2M2Y5TmNmLUt4YkY3WEg3aDJhX2Nqa2g5T2FUM0JqY3hoTmt6ZTZrY3BPQ1hoYjNpeWk3amlBVHdkRFNxc2pLMDdaV2Vuc3JISkluZU5NTGdIbnl2M2ZuVjgx?oc=5",
    "imagen": null
   },
   {
@@ -992,6 +1520,17 @@
    "imagen": null
   },
   {
+   "id": "71a237f3368feace",
+   "titulo": "Cantabria recuerda a las mujeres que el cáncer de cuello de útero es uno de los pocos que se puede prevenir y curar",
+   "resumen": "",
+   "fecha": "2026-11-16T13:29:29+00:00",
+   "area": "quimica",
+   "ambito": "cantabria",
+   "fuente": "Salud Cantabria",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ1BweXZha0pyMDVuT25naHZtbGwyQ3E5WFBEcWtVQU5xSlZrWHJpV2p2Mm5MZ19EY0NsUm9zSDI1RG5nZndWRDFqaWhkczFrVEY2UXVSSEJ1cHVOOFpvcEF0bVVxWW1xMlJHejVNbEhINE94SDVRQm1xZGZIX0RwbVJDN0dqUWdnbTBJUUN2SVZENlg1bTJzSjVLdGxsLUFiUmxCQ050eVptUEFRSkF0WjFONl80ejJEc2lFN0gwaG5nbERzZVRsSFlGNDY5Nm10UzhVWXB4RHYxWENOV0ttZnQtcXM?oc=5",
+   "imagen": null
+  },
+  {
    "id": "274ec941a979e4d4",
    "titulo": "El Gobierno y la flota piden el apoyo de la UE a la pesca en terceros países",
    "resumen": "El Ministerio de Agricultura, Pesca y Alimentación (MAPA) junto a la Confederación Española de Pesca (Cepesca) y entidades del sector reclaman la defensa de la \"dimensión exterior\" de la pesca de la Unión Europea, en una declaración conjunta.",
@@ -1129,7 +1668,7 @@
    "resumen": "",
    "fecha": "2026-11-16T12:25:55+00:00",
    "area": "ganaderia",
-   "ambito": "cantabria",
+   "ambito": "nacional",
    "fuente": "Europa Press",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbzUxb05sR0RtbnhpVUJndGpuSUhaR1FYN0h1R2lxcjFMdlJYRW80SV95X0dtOWJwWXVOTjhWRDE3YS1ZWG5Fem5UVmZIaFJGRDNnUWQ4cllld3ZHaC15Ri1fckwyaVZFZzZrN3RtTjN4c0tWR2VXSlphTXg5N0Z5TmVLRHJTNzQtSl9rZXpIOFltM1R4SmpELWRkLXpOLXFGemZ6M1FMX3NqNDJxWm5iazE2cjRGd1pJZmtyNDUwMFItTE1JMUZUMjJkOGFOS0x3STdaRHR0Wi0?oc=5",
    "imagen": null
@@ -1154,6 +1693,17 @@
    "ambito": "nacional",
    "fuente": "Las 4 Esquinas",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObUljTWFIZEVoUVctS1NwRmlsVy1TQmc1LThVdTNLU3E0dGYtOUtCcEk4WUlHN3Z6dzZ5LXBVdWtVbE5yZGtPRTdmQ1lfbHZEckttb3pLVDg2WmNWa1ZMczNBeUljbHh6eGFZU0loWXpnX1BxNEZCaHF6WmlQZHRGTkdCZTJEd01kOFpTdVVlZ2d3cUgxeG1LcWtIVVl6MV9lMlBwNkxaVVQ?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "33e68bbca7137c54",
+   "titulo": "Un total de 269 jóvenes agricultores y ganaderos se beneficiarán de 11 millones en ayudas de la Comunidad",
+   "resumen": "",
+   "fecha": "2026-11-16T12:02:33+00:00",
+   "area": "agricultura",
+   "ambito": "cantabria",
+   "fuente": "Europa Press",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLThXbkkwRWtzc2o3X05kQlR3NXJXV0M5M1hoUnUwcDZWQk1PWl9zRWNXcEpueW93NE5tc3ktYVhSZTQxTkVsYjNKSjZSeVJiN0xCSEE2V3JxZVY1MUZjRmNBR2ZHQW5DUi0wblJWb01xWVRqYVJUUGJxVVNqY1hnaEJ5U0gwMVBNeTlFWExFTmU0aGpmM2lPN24tVmN3Z3ZVR0NzZ2UwYjVpSTRTeVM5QjVDTXRlRmNBTlNIeG5MdVdSc1JhaEpTUzQzNE1uZGI4TGtraXVsSGtQNnBK?oc=5",
    "imagen": null
   },
   {
@@ -1231,6 +1781,17 @@
    "ambito": "nacional",
    "fuente": "Agronews Castilla y León",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa05aaUJ1X1hKNGRfR0pwR0VEYXF6MGZwY1lxVVMtN1BWWU9YRU95b0h6SVNyX3ZkNHBNVzhJU094TFdaTmtnazNEd2FPSVMyU1JGRWZqdHoyMDNxaExoLUprckVrSm1MOUc5ZU1oNTVnejd3aUZ5ek8yQkMxX0drMHlDMUt2Q01k?oc=5",
+   "imagen": null
+  },
+  {
+   "id": "00ea84abb3992a40",
+   "titulo": "FIAB participa en la misión de la Unión Europea en México",
+   "resumen": "",
+   "fecha": "2026-11-16T11:14:32+00:00",
+   "area": "alimentarias",
+   "ambito": "nacional",
+   "fuente": "EFEAgro",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlJVNkFibzIzeG8xUGczUkR6TXN5Y285VEdRWjhWakQ1YUh6VTN1R19IaHhUdFRLX0wxVXZHempueW9EbGVacFZuQ2lPSFRfMVgxb3JUTzNJUkJ4dzk4V1N6dVlfeGdmUlhNSGJuT2hrdkcyaTFGdEkyTXJqVGhRNUROSC03S1oxTjU0MzJSSHI5UUVFaXJDRjUyTHk?oc=5",
    "imagen": null
   },
   {
@@ -1758,7 +2319,7 @@
    "area": "agricultura",
    "ambito": "nacional",
    "fuente": "Castilla y León Televisión",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNW9DUjhjcFhwM0FZZUpmbTJfVEhRaUFJTTk1YVMwd3NYUWhJOXBpSzdWMTRRNGFZbk95OFdmbE43T1N3cWU5TTliQXQzcFk1NE02OXVQbF9pTk9uWjRnS1hYeGJOWEJfWG1ENVgxY0o3eXZoeFRmakRkRlVGclJHaVItREZHbTVKRFlHdzEzQWNwcTBVbVc1N2pjQjNCcW5XR19iSG9XODFmbkhnTXMzTGthcDFzUDVjV2pVaE15RmZnbHdYSDBWdVQycUxPR28yUE96Z1daaU8wS0JKSVN5UVVtRDZ3QnNXUDZFNERKTG1wZGZiM3RN?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNUpSVkxRRC1lZE5OUDZwWEczMVl5eWhvNFJON09lelppeFZHSk51VWY5eXRIRGVUVV9wMjM1VERBNmJFY3hBYVJLTElDQTFoYW9Lel9uaXRERlRfYVZtMVI3cGE5elk2MEhPNGRRTUVIeEU3WGYyRkZ0VmkyR3ZCaHlWTlNlUkdiM2tiN2hUMUR0cnhVTTBTb2hOUWhKRi1tY2V0Q1R1NGtNME92TEo4UHQ2OFBmZVB0ZmVkZ3pvUnpkRUNNV0lHQy1rSUJLbUxoZkRhVDVwRjlrdWRBY1ZWbFRTT2tUVFNqUWoxUmFEQ3NIdUFveTRkZ3pqY1RsWkw5T1dUUg?oc=5",
    "imagen": null
   },
   {
@@ -2040,11 +2601,11 @@
    "id": "21bcae1b90c01f1b",
    "titulo": "EIMA 2026: Kubota reservó un sitio en su stand a los tractores Farmtrac",
    "resumen": "",
-   "fecha": "2026-11-14T12:55:14+00:00",
+   "fecha": "2026-11-14T12:55:12+00:00",
    "area": "maquinaria",
    "ambito": "nacional",
    "fuente": "Interempresas Media",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TR1plRDNhQmoxalA0bXB3YzdZSHZEQVFtMkhBVXZ6b2VLTHllSkFlMUZKdnNWbTdJUEJST3NFZzZFZzlqODFYN0lZSHVhQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWlmTVFvWjlZS0ZJMk82Ni1Xc2VPOUdrcTFGai04eXNORXN6YnlETW04ekJ5Nmd5WGRnd3BoZllLU0tIdTlUWE5LRktyMXNRbmlEVndjOXJETWl5V2QtUnRoVmp4ZnZ3dHFYb3NhNE5XZUlya1pqeE45d19uVVNkeFhqRUhTOW0ydVhrUGlaUHVVQnhkcTJXbmpuNTQxbXFHLXlZc2JWY3BwVzNlRjhabzlsZnBjYkU0VWdGSGRR?oc=5",
    "imagen": null
   },
   {
@@ -2125,556 +2686,6 @@
    "imagen": null
   },
   {
-   "id": "d6000cb1bcb7ccf2",
-   "titulo": "Reclaman al futuro gobierno que la agricultura y la ganadería sean consideradas sectores estratégicos y con políticas reales «no de despacho»",
-   "resumen": "Unión de Uniones ha trasladado a los partidos políticos un documento con 100 compromisos concretos, articulados en torno a 13 prioridades, para que el próximo Gobierno cuente con una hoja de ruta clara en materia de agricultura y ganadería tras las elecciones…",
-   "fecha": "2026-11-14T08:28:31+00:00",
-   "area": "agricultura",
-   "ambito": "nacional",
-   "fuente": "Agroinformación",
-   "url": "https://agroinformacion.com/reclaman-al-futuro-gobierno-que-la-agricultura-y-la-ganaderia-sean-consideradas-sectores-estrategicos-y-con-politicas-reales-no-de-despacho/",
-   "imagen": null
-  },
-  {
-   "id": "9ca7704e83660bf5",
-   "titulo": "Un sello reconocerá a las empresas y actividades rurales que ayudan a reducir el riesgo de incendios",
-   "resumen": "",
-   "fecha": "2026-11-14T07:58:00+00:00",
-   "area": "forestal",
-   "ambito": "nacional",
-   "fuente": "Radio Interior",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWEJoVGpQVlR3WDdjRkM2a1h6OHF4SDBDQTBtMDRwTzQ4R0JRSE9GS0hFc1doSHMwNUZRY3cycXNRd1prUjhNa3ZKYi1WbWR6X1RDb0hnQll6SVVlQjJFNF85VWh1cFBZUDZjM3ZCUWl6ZFRmYU1ZYzdDeVBxa083Qi1kVUxNRFJHZTlkUjh2THBDQlIyUjdNZVlJRHJMQWtLRDRtUmJxVlZEcEZHZlM3U2U1NXEzOGxMZ2VtdU8xYVZMRFNiRGxVMk96bzVJV2o2?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "2cfb40535a0e69ca",
-   "titulo": "El viticultor Martínez Lacanal se perfila como nuevo presidente de ARAG-Asaja",
-   "resumen": "",
-   "fecha": "2026-11-14T07:20:57+00:00",
-   "area": "agricultura",
-   "ambito": "nacional",
-   "fuente": "La Rioja",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM0QwLVV0U0lrZ0ZYd0pQVmE5SjJqWGlJcXJkRWEwUHpOS2NRMUVqWU1vVldiVGVpazVvQmc5bFFfcTNDNmtuNmJZZnRrdmNfM2dKcGhvYmp3bVdIeGdXX3d4NnN2aW1qbXY2cEVzb3JSRThsT3FjRnE4T2dOYU1jNHlFUk1nVUFSalFfaVZieWd3VndIRFdVQUFWNlRRdkstSjFSRWphZDd5Sm5XbktV0gG0AUFVX3lxTE1XeENwWlpGZGIwVldJOHYtMDZjdlRWdzd5enpUSkxmLXdlUHFnWXBFT1FIcVd5bjFqeENWaW0zMWZ6SWZQamlHY0taR19xa1BuRjYwckFINHhKZUxQRU95cnpjVVY1QU8yZXkzazdQdXJZdmU0d2cxTFQ3WEZiTHQ3NGxjSkk2UXRmOFJuQUZoTzhVdTRzV2dpaDZ1UktuOEZWSmRISEM5bUhJZlRLb2g1eU1DRg?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "d3fb5c4c3996df96",
-   "titulo": "Sergio López, 31 años, agricultor: \"Importar de Marruecos baja la cesta de la compra, pero los precios han crecido un 700%\"",
-   "resumen": "",
-   "fecha": "2026-11-14T07:18:09+00:00",
-   "area": "agricultura",
-   "ambito": "nacional",
-   "fuente": "El Español",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ3BSQm92OFNmTngwcEFtRGYzendNSm9IOTJucE5NYTM2YlM4N2hRdExQVlpHWkRqX0t3b1A0ZHZGTEdHSUFaVGNWUU9zeTZfejhXSE9ndC03eGVnWnZ1bXd2R093WGUwZlJaMnc1WUNpd2N1ZW9STFlyQjFyWW9EZGFhR3JhNzRlRFdwbV9id2o5ZzlhZlVEVkM3d29CLXdROGlpVmw0NWRhZGg5VzFOOE0zOEwzUDltblJhNG9aTXdxTE9UZVR6bnMycktTTjlJMTNPcXF1MHNpRjh4c1pxYjhrSUnSAeQBQVVfeXFMUGdwUkJvdjhTZk54MHBBbURmM3p3TUpvSDkybnBOTWEzNmJTODdoUXRMUFZaR1pEal9Ld29QNGR2RkxHR0lBWlRjVlFPc3k2X3o4V0hPZ3QtN3hlZ1p2dW13dkdPd1hlMGZSWjJ3NVlDaXdjdWVvUkxZckIxcllvRGRhYUdyYTc0ZURXcG1fYndqOWc5YWZVRFZDN3dvQi13UThpaVZsNDVkYWRoOVcxTjhNMzhMM1A5bW5SYTRvWk13cUxPVGVUem5zMnJLU045STEzT3FxdTBzaUY4eHNacWI4a0lJ?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "502406c3d3cc5786",
-   "titulo": "Jubrique ajusta 2.995 € para el mirador y jardinería",
-   "resumen": "",
-   "fecha": "2026-11-14T06:56:39+00:00",
-   "area": "jardineria",
-   "ambito": "cantabria",
-   "fuente": "boletinbien.com",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaXFod05PMEZlUXFBaERFM2JoMHk1X095QXZadnhfVVZTWXZSTVZNckRXR25fRHYyRUF4ckVpSGdTV0k4cHBsVW5WLUFKbjMwMHRmYldnQ3pCNlN2NnVlQ0ljUml1MUZDLTlHbThsZ0Y1a2NSRW93VnozMlhSa1BFeGpfMzdfai1wS3kw?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "65467fb5e2e21e02",
-   "titulo": "Lucía Rábago: «Detrás de cada productor hay muchas historias y mucho trabajo»",
-   "resumen": "",
-   "fecha": "2026-11-14T06:38:11+00:00",
-   "area": "alimentarias",
-   "ambito": "cantabria",
-   "fuente": "El Diario Montañés",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSDFienhQTDIxTXg5clVmbjhrenlESkJ0TXRJbkpVelFyNjJyZkxabTBMdmNGTnZwTXZ4VkVpckVlUzVFa0J2ZzhZcFh0OHNkdDdPRURKbG9FS24wZTBVR2JqWTdZZ2xsek5iUllZZk1ra2RteDItb081cFQ2MHRxMVAwblFQQTZDOHRvVzBwSWJiOGV2aDN0NEpWSDgwbkNaVGsySzFGejc0c3hmX2JFWWZGb3ZMMGla?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "cae7bc526a79b991",
-   "titulo": "Del olivar a la gandería: España y Portugal estudian en Cáceres crear un sello para las actividades que ayudan a prevenir grandes incendios",
-   "resumen": "",
-   "fecha": "2026-11-14T06:00:19+00:00",
-   "area": "forestal",
-   "ambito": "nacional",
-   "fuente": "El Periódico Extremadura",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY2RFb25QSXNOUFp4emJmZElNMnFoZlVlbE1qbFhDbGxnOGZNbFBuaFFPZkp2RFhMWS0yV0JVOVFBdEFVSWR1cEhZZFBGNmllNkwyM3kzdjlLVVdla2QwbnNzVXJUUlhHeG4yRFZmUW5pNklpYkEzWkVxMTY1MmJnNlpiSExvQU1rZ211NVA3azBqYVB1dXQtRDA5c29CRnotM1U2dVpQRkRvSmNBaGFlOGdVT0lSUHZYbFNR0gHAAUFVX3lxTE1NbnNJNS1UUElJUVVLOUtNRmZXUEtJUWFfOXpNSzdsa3NiZWFmSFZUVS15MWRQUUFqbUg5eWdXa2g5SWI0SHZnRU55ZkMzUkp3TThHam1VUjMwdVp2dHdnOWluMDZnMFA4WkhfUV8tSDZXZmRfMTRIUFVDbzdiY2xqNUVnMjFFR0lQTTBaNUNLLXI5TVg4WkhNcUM3dVNVTEtDOUlZMzNjU2NiQXJXMW9uOTRVTTEyN0JxTzh6SXBoVw?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "4f88b057285d4d18",
-   "titulo": "El lado más desconocido de Carlos III de Inglaterra: es autor de varios libros infantiles y un apasionado de las acuarelas",
-   "resumen": "",
-   "fecha": "2026-11-14T06:00:00+00:00",
-   "area": "agricultura",
-   "ambito": "nacional",
-   "fuente": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOamZrd1Z2cWR5VXRzMWRIcGFzOThhN0xUd1JTR0FLMG1tY0xCYk85Q01ZRFhMSU5sN21oNXJZZ1ZVTmZTdHRwVTBHRG5WR2dIRVpSdHBrTEpnTlMzdkNMbmNldDRtdG0zaFB6Q0NJVExaWG5uUDJaZ21COUs4b1lEZms2WmFNU2RrMHRMOHdZZ05ucUJMS2lZWmdjZ0ZrZjFNQXliVDJubkducDhOTi1lZHEydlU1NFhLTzltcnQ2TjV3UEhvdlZtR0E0aTZDTWRobTR5ZUlmeE1JMTdFbnZzUjRVdDFfUFVObnktU29VTW8wWXZ4UWN30gGSAkFVX3lxTFBwM3ZabkQyanFfNzNUNDBXOXVONlBCOGxTSkExRUMtamJiekcxdlNMa2Q2RG52aC1uU0hoR0NYWnZ6a1YzWTBuV1VEc2FybUNSUzJOck1EUjdzX0pSRXlPOTBDa3pqR2RRaUh5VlRsTXNjalptTGJCYS1ZQlBidEhPN01Ld013UlNmQU1YenU5encxcXNqSDEyTUh0Vmg3MFhxbVFVVzAzNEl1WjJobVZHaHVCbmVoWk00V1E3OWl0aUFSNFB2QVVXT2ZZZkFDYzd4UDVNQ1gybjRiTUphaVBKWGZ3MWpmbzRSajctUVN0OUtLMmF1bEVmV0wwYWJ2LTlNbkpvZ09GNHlFdmtLcktjWVE?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "6a011bfe61806ecd",
-   "titulo": "Uno de cada cuatro empleos en la Región de Murcia está ligado al sector agroalimentario",
-   "resumen": "",
-   "fecha": "2026-11-14T05:01:08+00:00",
-   "area": "alimentarias",
-   "ambito": "nacional",
-   "fuente": "La Opinión de Murcia",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVmhKRWRseHVhMjVZRG0zNzR1dlBXVl9pRlFHTGVtUGF2YjFnQ0JZcnZlVnFQUl9Ec0UzWFpqRkNoT2QxOW1hZ3ZuQXBZMU9WZmIyTnF2WGlsVlVCZFhtQ1ptakRhTWlfQ1ktQ25FLTR2UUhGdkYyNkdqdE43UDB4MFZYdzhOdGJfMklySU1BYXhJNVVLZ3o4MFdqbjFEWWRtb1d2bDV5b9IBrAFBVV95cUxOTmEyS0M5Y29naDRrZkswbWpBb25jbkVvZnUyV3dYckp3QlMtdFFBQ0xrWmM2SU05UjZaZ1pMMTJOcGpwcWMyRzhfWU83V25vV0hPRHJ5WWMxbk9qaTZLRHFCMUFYLWJiMXlwOXB4S0N1UHpWSGMtdGxQU1FVSXRXbTV0YWVialdLZ3p1SkNTTktvTFFGWHpaUm9RZ0FhdXkzNVBRbGsteEFEZTZf?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "882d4bfb2be8f9e5",
-   "titulo": "¿España está preparada para ciberataques como el de los supermercados? \"La ciberseguridad tiene mucho margen de mejora\"",
-   "resumen": "",
-   "fecha": "2026-11-14T03:45:00+00:00",
-   "area": "quimica",
-   "ambito": "nacional",
-   "fuente": "Vozpopuli",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTTJFcWdwUXE1ZUdaWXdTWGZ0U0FMVmR3aEtjY0x2YzZQcV9iNWdaVFlUNXQ1QTRtN3V6STVVZDBvZ1AzMkVzcFRUdWNTUHptRkxBN3hsNGM1dE1HMlRPTlp1ckVlbXQycXZyek1meDJyNFVlMl9iSDR0clU1Z3o4aE5xYTB4ZktOVmFXZS1wZWlpMVNPSGJaV3RVVUJ5a3VaR1l2eFpod3NJWEVjblFUbF9jcHdEcmIyNGRWRlduSmtFVFdBbm1ZU3ppX3lCU2JQODFOQWcySjA3UHB5a3BCUkRqdHo4bWZVUkptb1h5RDdBWjDSAfMBQVVfeXFMUE0yRXFncFFxNWVHWll3U1hmdFNBTFZkd2hLY2NMdmM2UHFfYjVnWlRZVDV0NUE0bTd1ekk1VWQwb2dQMzJFc3BUVHVjU1B6bUZMQTd4bDRjNXRNRzJUT05adXJFZW10MnF2cnpNZngycjRVZTJfYkg0dHJVNWd6OGhOcWEweGZLTlZhV2UtcGVpaTFTT0hiWld0VVVCeWt1WkdZdnhaaHdzSVhFY25RVGxfY3B3RHJiMjRkVkZXbkprRVRXQW5tWVN6aV95QlNiUDgxTkFnMkowN1BweWtwQlJEanR6OG1mVVJKbW9YeUQ3QVow?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "907eb51490a296d3",
-   "titulo": "Miguel Riera, escritor: \"La izquierda española se suicidó hace tiempo”",
-   "resumen": "",
-   "fecha": "2026-11-14T03:45:00+00:00",
-   "area": "quimica",
-   "ambito": "nacional",
-   "fuente": "Vozpopuli",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTExoVVJFNF93aTRtc05SSFItc282LUY1M1NxY0JkZDdYOUpKVmVjTnBwTmdJb3JOa3ZNU3VCUkFTWU9UdXlkSXJGdUZRVlRqSHB5NE9GQng2WkhsdzM5Uzd0aXBaYzdJMXY0VnJFNjR3bkdZWk5Ga2E0blY3aTZsLV96alpiX3JLMkFRX2lNakpsekRDX18tbFpFSUd1XzJ2MU85eS1GZVhjWmhVSTdHdXZTekhoTUFR0gG4AUFVX3lxTFBMTGhVUkU0X3dpNG1zTlJIUi1zbzYtRjUzU3FjQmRkN1g5SkpWZWNOcHBOZ0lvck5rdk1TdUJSQVNZT1R1eWRJckZ1RlFWVGpIcHk0T0ZCeDZaSGx3MzlTN3RpcFpjN0kxdjRWckU2NHduR1laTkZrYTRuVjdpNmwtX3pqWmJfcksyQVFfaU1qSmx6RENfXy1sWkVJR3VfMnYxTzl5LUZlWGNaaFVJN0d1dlN6SGhNQVE?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "2ce49c71876a6723",
-   "titulo": "Gavà convoca una plaza fija de técnico de jardinería en PRESEC",
-   "resumen": "",
-   "fecha": "2026-11-14T03:26:10+00:00",
-   "area": "jardineria",
-   "ambito": "cantabria",
-   "fuente": "boletinbien.com",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdjFKT3Q2akhYb2Izdjl0TXVDeGViaURURVNSNmN2UjRQc2EtWF9pY3lxUWpWYlpyd0MtVXg2dkJmcjJDUHhuU1Izdm4zbzJsZDk0TTlKX2NONWsxeXR1THI3d3BDTEtabmc2dGM3dE9EZ2pEeThOcmluN3F3Y3p3bDRYV1Npa050YTBQR3c3eDBaUzN0WlFBNEc4SE5iNEtBR3lVT1AtVzkyQ2FJaVhiZkdBRlhFOGhBR0Zkd3VUVzZKbHc3dnc?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "faaf1dbf9cd58e9b",
-   "titulo": "Mercados Bonaerenses dirá presente en el 2° Congreso Provincial de Agroecología",
-   "resumen": "",
-   "fecha": "2026-11-14T03:02:43+00:00",
-   "area": "agricultura",
-   "ambito": "nacional",
-   "fuente": "Prensa Mercosur",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdlEwS0pWOFRDNTNGS1k1NDNaQnhOU1VLUGVqUWh6YU5HcXJ0RHZBMVFqWVAxVUFIZ28yM2dNZkE1OVVuUlhwZjZROXNtc1JiZGwxSWkycUd5eThwdGdKYUN6Z0xpTmpLRFBpSk5MSDJmMFAxTS1TTThreV90V1NNeFJtY1k5OHNNbDB6NVRkdnJXaEJST19rTE5KNFFrNGlrek8tMVdLMl96UW01OHdxTlJCMGhVY01J?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "ebc8705fd4a67d2d",
-   "titulo": "Treinta años del Consejo de la Producción Agraria Ecológica, que celebra aniversario con 700 operadores y 25.000 hectáreas de cultivos",
-   "resumen": "",
-   "fecha": "2026-11-14T03:00:51+00:00",
-   "area": "agricultura",
-   "ambito": "nacional",
-   "fuente": "La Nueva España",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa1AtLTNPRUdBQWkxX2JRWHg5My1iM015VERpUW1iTXNFV0t4bE1BbW5iN3ozUDhiRlRFTUhDdTBzeHNoQnZSTmRoWnhjb3hZQWVYajNlXzBHNjVRemh1UFF3R3RPNk80eFBQZzlrYkxvb3loZy1kUXVncWpWRXZTRW1DcXB5aGsta0dkbzdaRjFjenRHVkhOWTdFYmbSAZwBQVVfeXFMUGtQLS0zT0VHQUFpMV9iUVh4OTMtYjNNeVREaVFtYk1zRVdLeGxNQW1uYjd6M1A4YkZURU1IQ3Uwc3hzaEJ2Uk5kaFp4Y294WUFlWGozZV8wRzY1UXpodVBRd0d0TzZPNHhQUGc5a2JMb295aGctZFF1Z3FqVkV2U0VtQ3FweWhrLWtHZG83WkYxY3p0R1ZITlk3RWJm?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "e8b3b79e00d146f8",
-   "titulo": "Caballos menorquines en el Salón Internacional de Sevilla",
-   "resumen": "",
-   "fecha": "2026-11-14T02:59:01+00:00",
-   "area": "ecuestre",
-   "ambito": "nacional",
-   "fuente": "Menorca - Es diari",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLWlHVWQwQWFLeDVvVHFvUXVfbENoVG5iZ1JZQ0RaRGptOGlxWW94Tzh6RGp5dzJUVlhScnlKSU9MalVqS1hjTjVGVGxBUEtPbFJONXF5d29Pa1pOdU1UVjZhdUI2cTJuVGd1ZVZoT3RFd1diaDdtUDR3ckZCdzBjUGVFRzdFTGNZN2QtbjltaVU5NXBMSF9FeXJLWUdIUGxWVmc3eTdlWndkeWR5MDU2alcwQ3FrenNMamVB0gG7AUFVX3lxTE1IV1BSSVZoODlCX0lsQlh3dXQ5Y1FLUDIyaFM3ZU1iSEQxeEJoUGpTS2hQdV9YNGxna2doOEZxYVNQR2t4SGxqeWNnLTRGdFRsemdleExtdmdQblJ4WDR3U29aWHBRUTNRNDdSazQyNUJVbzVtX0NwMXBaY2xrbVJORjVkNzAtejFrSnNFaXZDQUZ4WDB0b19BUnBxZWIzREhOcHRVc1JzX0E3Z0VseHg2OVZhNHMybjBjMmc?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "b581dab3cb8590c4",
-   "titulo": "“Creemos en el diálogo con el Estado, pero también en el derecho a discrepar con independencia”: ganaderos de Trinidad",
-   "resumen": "",
-   "fecha": "2026-11-14T02:52:50+00:00",
-   "area": "ganaderia",
-   "ambito": "nacional",
-   "fuente": "CONtexto Ganadero",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNalh2cTZvYVlMT2Z2S3lEWkxPWWNGeTZwVHVEWGtSM21mYnhEQzEtOEVRdnZtazk0S2FBYkM1X05QLXJ4VjZoZWlCTy1HMFJwQmsyRmoxTkdOb0tDMXJraFk2aEdaamRXS1haNFZ4dUdaY0g5MUhiZXMtbHpfLXJVTFlJYXo4bVh1RS1JaC1YRjJyTFpxWlE4d1ZpbzlIODVrSVN0cUJUNERNNEJVVWJ2R3hIam5ZZ2JqNmoxbXUyQnl6V2JnOEM5MFdyV2QtSV9ETDBJSEFmV0NmU2wxZ3BESndrOXQ1RlJSb1FDTjZjdkRCcHdDYlN1TQ?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "79c4953ee7144929",
-   "titulo": "México fortalece su liderazgo mundial en genética ganadera y sanidad animal: Ulises Mejía Haro",
-   "resumen": "",
-   "fecha": "2026-11-14T02:38:27+00:00",
-   "area": "ganaderia",
-   "ambito": "nacional",
-   "fuente": "La Razón de México",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVnY5ekMySkZwVlY2NnFZVGdJZWxmcVo3ZVBKTHg3NGJPeXctZHVkb1gzS1dIUzJZUXpzM3FYMzZqbmVFaDdpQ3liMF9DOW5kVHZjd05zbnV4M0xEbVE0Wmo3cXBaZGVGNXdqSUhqcURXRjBTNjJZYWJia1NuSlhzanpIeEtvQmlWZ3dpeFVrUlhvcmFkTDdGR0o0dVVWeHlIdi1UNDZ6M1hHR3ZDc3otamZCMTVzQkwyVFhvR0FEbURXaUhSS3lEVTBRcHFjYVdWUFpR0gHuAUFVX3lxTE4wc1ZVNFJqVWp0N1BHem12OGs0MW1hOGpWbXhOTDRoOWhsRVNQNlV0eGpqUlExSTBkb3JkYzdsMHBPbXhmRlRLSXNKMF9Cdm50eksybm9GWklieEx6TXplNnpFaDhzbDNVMkZnY0dDMmM4VnlaVU8zY0lmQVNCLTRNYUhCMXpZSUFaa1hwUmN3RnVVemRDOE1RQTQ5YlpTOGF0UzBXWXVLMVJ0U0ZFTUIxOXRrdTZMOUtFVldFWGJNblVyVF83b2dHLWpJREdaU0JNRTFqV1NRY0RtTFZQRTJFWk5FSWhnMm1zXzUzVlE?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "016f724ea44eeedf",
-   "titulo": "El Ministerio de Agricultura, Pesca y Alimentación establece la retirada del 12 % del aceite de oliva en la campaña 2026/2027",
-   "resumen": "",
-   "fecha": "2026-11-14T02:08:26+00:00",
-   "area": "agricultura",
-   "ambito": "nacional",
-   "fuente": "Ministerio de Agricultura, Pesca y Alimentación",
-   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOeVFlS1lxZFlnU216MTdUTml5WjNxR2RuREZvTG5YLTU3empSSEtWcFRIU3JvdUh0N1gwVHBKVmxaMm8xRFYwSXVtQTdDaVFJRUpSWVpwaHlma0FyMXBEQUFjX3lsNmZMZHR2YXR2WHNZaU5QNVoycVBiNWRNa1JhMGhncVdDU1Z3UVk5LU1HUnVSX05TR3Z0ejYwZDdNR2lQM0hlazRnTlhBMDBNdlBIRGhoU01OVUVIOU43NnFKRUM3WVVSS1lONlNkTHY4RzBtWXlwNHlwLXg4bnliUllHZlVFMjR2YmItTXBxZXlYdlRSZG5MLVBKMXNPdzlvRFpUZFg4SXk0SkdCX3hrN0NDWkIzczNYR0tvOG96SFdJaG9rSWpiMkpuYTVaVWFiOTg5WFlsVGNvTXItRVdOM2xFblEwUzA4N2tZRENnZkU0aw?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "07e108b34ef6c14a",
-   "titulo": "Es oficial: vuelve el parque temático navideño más grande de España desde hoy, 14 de noviembre, con una noria gigante de 42m, pista de patinaje, espectáculos y música en directo",
-   "resumen": "",
-   "fecha": "2026-11-14T01:00:00+00:00",
-   "area": "quimica",
-   "ambito": "nacional",
-   "fuente": "Vozpopuli",
-   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQS0VIdUFDU1R2VTRoY2U2bl84VWJxZWFfRG1janFKcUgtUTk0U0piZkx0V1FmdlR1eDQ3TU8xWHduRFZqTW12WUVoNFVHZG5qWFotZ09oN2M5dXRsR015OXVwbXRVZ3JfLUZGTmc1WGhPODdkSnU4cXJjd25zcE1kdW1oeTFKSzhXbHc2bGRYWDVMbl9BSWowOG9JaFN4YUtydHNVelJDRW1NZ3U3VjBLd0VFTWM2WXRsR1V5bDRkRWZUdy0tM0lrUU9zenlMNm9hX2gwZ2haOXJMOXJfb0RYYXJBajNidjRHZUF1SWdQSW0xLUxHbHA5a19QZFhZZGw0bjJGOUh3ZFAzeGVfLXY4M1RHMlBrTkJWYTI1R3BnS3hpOEt1M1hGcWpHSXVZamE3RGlYX0R0alA1UdIBugJBVV95cUxQS0VIdUFDU1R2VTRoY2U2bl84VWJxZWFfRG1janFKcUgtUTk0U0piZkx0V1FmdlR1eDQ3TU8xWHduRFZqTW12WUVoNFVHZG5qWFotZ09oN2M5dXRsR015OXVwbXRVZ3JfLUZGTmc1WGhPODdkSnU4cXJjd25zcE1kdW1oeTFKSzhXbHc2bGRYWDVMbl9BSWowOG9JaFN4YUtydHNVelJDRW1NZ3U3VjBLd0VFTWM2WXRsR1V5bDRkRWZUdy0tM0lrUU9zenlMNm9hX2gwZ2haOXJMOXJfb0RYYXJBajNidjRHZUF1SWdQSW0xLUxHbHA5a19QZFhZZGw0bjJGOUh3ZFAzeGVfLXY4M1RHMlBrTkJWYTI1R3BnS3hpOEt1M1hGcWpHSXVZamE3RGlYX0R0alA1UQ?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "0640e00c22b7d6ac",
-   "titulo": "Se refuerza liderazgo en genética ganadera",
-   "resumen": "",
-   "fecha": "2026-11-14T00:31:26+00:00",
-   "area": "ganaderia",
-   "ambito": "nacional",
-   "fuente": "La Razón de México",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVnY5ekMySkZwVlY2NnFZVGdJZWxmcVo3ZVBKTHg3NGJPeXctZHVkb1gzS1dIUzJZUXpzM3FYMzZqbmVFaDdpQ3liMF9DOW5kVHZjd05zbnV4M0xEbVE0Wmo3cXBaZGVGNXdqSUhqcURXRjBTNjJZYWJia1NuSlhzanpIeEtvQmlWZ3dpeFVrUlhvcmFkTDdGR0o0dVVWeHlIdi1UNDZ6M1hHR3ZDc3otamZCMTVzQkwyVFhvR0FEbURXaUhSS3lEVTBRcHFjYVdWUFpR0gHuAUFVX3lxTE4wc1ZVNFJqVWp0N1BHem12OGs0MW1hOGpWbXhOTDRoOWhsRVNQNlV0eGpqUlExSTBkb3JkYzdsMHBPbXhmRlRLSXNKMF9Cdm50eksybm9GWklieEx6TXplNnpFaDhzbDNVMkZnY0dDMmM4VnlaVU8zY0lmQVNCLTRNYUhCMXpZSUFaa1hwUmN3RnVVemRDOE1RQTQ5YlpTOGF0UzBXWXVLMVJ0U0ZFTUIxOXRrdTZMOUtFVldFWGJNblVyVF83b2dHLWpJREdaU0JNRTFqV1NRY0RtTFZQRTJFWk5FSWhnMm1zXzUzVlE?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "2fdf7af7273e1fbe",
-   "titulo": "Castillo de Coca pasado, presente y futuro de la formación medioambiental",
-   "resumen": "",
-   "fecha": "2026-11-14T00:17:19+00:00",
-   "area": "centro",
-   "ambito": "nacional",
-   "fuente": "El Adelantado",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX3Yya1BrUlgweERiMUEyQlNKQ01XTnk0ZFdLYTE4cDNHb3dzWlpOcVhGRks2NWtPOFBzdVhpX0tPYUZiMFV1Tld1ZXNOTTAyd2NoNWgwRGJQRUlBbXdvOHEwRE5sSnduSG1yekhiV0wzR2RpX0hpeDNDZ0JVTTN2UG91LWZ1ajAtTWZLRzYtYzlld0xBR1ZGbzBUZlZqMlZhVEZLYkhuLVV5TXVvaUpsZ2lEX1ZjZ0dBMkVz?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "321f02fb485b4f41",
-   "titulo": "“Esta conquista es patrimonio de todos los ganaderos colombianos”: Chiriguaná defiende el estatus libre de aftosa y respalda a Fedegán",
-   "resumen": "",
-   "fecha": "2026-11-13T23:53:44+00:00",
-   "area": "ganaderia",
-   "ambito": "nacional",
-   "fuente": "CONtexto Ganadero",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVTIwOWtuR0loSTdNV3dSazdUbmROREhINkIzYjM1TzdpRTVlUUtIYVVlT3JqODJFMGxGMjMzZy1kLS15SS1tcW1LYXBJS0c0OV95bXJaNFRDc2h3NV9nc0EwaFRfeE0zRmlpdUZIdnpESE9rYko5UHN4WFdua1ltUHVvNHZBOUtzLWwzRkYzTHd4aTIzV0ZIdlExQTVLemMzNVhJaWRpcG9iUDM3QXZQaUhlTGlsYkxoeE9kWmxlTDN6clNrNkN6bXpzYWdxQmRpdGkzeHVEdTlfYjZDdFgzRE5QTU9NYmJPUGwxM1ZGNHB5M2I0TWozSXhjaHd0V0NCS2dPODh4bEd6X21taDlV?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "314d2a7f0a8f71af",
-   "titulo": "Ganaderos santandereanos invitan al Ministerio de Agricultura a hacer equipo con Fedegán",
-   "resumen": "",
-   "fecha": "2026-11-13T23:53:43+00:00",
-   "area": "ganaderia",
-   "ambito": "cantabria",
-   "fuente": "CONtexto Ganadero",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYUUwbFVYdlhNTWtLVEZsd3d2bGVyYzJZbFF6czZJeTBMZTBYTVBnbE91SmhuaEVfdDd3dmpaYnVqNHRHZ3lERzlzMExhcXB6SVM4dGlwdDQ1UTlqQ1FwWUtpSE1SSGRZc0ZIV1pTcFNpRXhSdlBHTlNIVXdZUnVOT01ENXVHbGxmODNobnFwdklsR2Z5NEFhQ0Q0Nk0waDBvUEJOV0pBbWZKaDI5RnRDTF81cUotX2RnZmNBay1nR3c5emVkM09GWEllSnNWWF9KT280MFNn?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "06f9f0b61c0cebd2",
-   "titulo": "Desde Urumita, La Guajira, apoyan a Fedegán y reconocen su aporte a la ganadería colombiana",
-   "resumen": "",
-   "fecha": "2026-11-13T23:53:42+00:00",
-   "area": "ganaderia",
-   "ambito": "nacional",
-   "fuente": "CONtexto Ganadero",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQamNveWQ2d2h1NWFYWE9XUm5aQXp0Z1l2bEFxXzhmaXZGOFVTeDJFUzhZTWFGRjFTQTYyTXRrZWg1aUQ4RTA0V0xuemZzWGJrVzNFWnVLUEZGei1tSks5RXdqOTl0aVVBZlctQ1l3b0QzOEphem1iY0ZxN0xjTkNxMFJwVHJYdWQydHNIckJLdUZ5UGtlbEFDRGtISzRYOUc4bWxHMnhLSDNrVjNPUF8xUnUtYWVpdWViTFJsNlBuZWxqakFSQnFENWN2b081TlhoTnRsQXJlVQ?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "6a57fa095ef0c201",
-   "titulo": "Guía para hacer un maridaje perfecto con los quesos y bebidas de Cantabria sin salir de casa",
-   "resumen": "",
-   "fecha": "2026-11-13T23:27:53+00:00",
-   "area": "alimentarias",
-   "ambito": "cantabria",
-   "fuente": "InfoNegocios Madrid",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQUpNWjZFMnVWNWRUY1JsbjlWMlF6S3U5R2JMZENTeTZDQ091SWQ4MV9BajUzR3JTT1dCZzRkNkoxZWZvWGRIZ1hNSU5sR3FGMHdmSnVITlRnTVVyTkdnNzRxMnVlbHN2ay1tVTQ4YTJaTHJjN05PQmRwLWJyckNLaVRKVnFmUzNjTlNidUVIMzBWeFdaR0dGUWpwS1l5QUFZTnd1V25HdmtZclRrbVZPWkotODNtRmNyWWRnOFdxa0w2cTBpOVZB?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "b4e904dd01ed8dbc",
-   "titulo": "Un Comté de los Alpes europeos gana el Mundial del Queso tras un triple empate",
-   "resumen": "",
-   "fecha": "2026-11-13T23:16:00+00:00",
-   "area": "alimentarias",
-   "ambito": "nacional",
-   "fuente": "Diario Lechero",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZW1xUlcxOEVDMk9pUmVuQnF4RFJHcEIzOXhjYVFkSFJQVEFUc3hITTl2XzN2cE1HMXNaUzJWZEdHVjFzeEpPLWQ1b1R1czVNdUpnaVBMVFg5by1ScGJ0WGRpWXBqOEsxcFdjS2kxYVJmRXJDU3pFYlk3bmhDbUt6RkZtZ2VCREphZzBaT19pb0ZDUk1fZDNHbWFkQTAwdjkwY1NvWmltT0NocGlMTDk4Y3ZWUmhFOWFXY0pqRjRrODRFVUNjRktYZ28yMFhKZVE?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "fa81c15a1eee449d",
-   "titulo": "Un Comté del macizo del Jura gana el Mundial del Queso tras un triple empate",
-   "resumen": "",
-   "fecha": "2026-11-13T23:16:00+00:00",
-   "area": "alimentarias",
-   "ambito": "nacional",
-   "fuente": "Diario Lechero",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR2tUQmZqUmh1TUdTMEFOb1E2Uk9JYWh0QkNGNXNVOVpmb2wzZ3FaTktMZmNJRGNrbXJVZVM2ci1kSnVCdDZ1M09Qd0NscmVPSFJfbmtlUmFobDJ5UHJ5YlR5aTFLdGlidng1TVE5b2wtaElvbzRIem53dkZhb1JCUU5LTTJlY1VWM3hNcWhDeDVDZ1AyWmFkUkJiSl9pNzM1dDh6eUxDbVhROUFOYlVzSzNoUlljMzYyc3ZqN1Y3Q21mU2xKUGdkS3MwdWk?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "9b7b7ffcae74a8b7",
-   "titulo": "Alberto Nadal defiende en Villanueva de la Jara una PAC fuerte y menos burocracia para agricultores y ganaderos",
-   "resumen": "",
-   "fecha": "2026-11-13T23:01:00+00:00",
-   "area": "agricultura",
-   "ambito": "nacional",
-   "fuente": "Cuenca News",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQYi1YSUxtbmhFTmRYdlZlRTlScTlrVlN1Qmk2ZTd5U3B1MjFmR2lqRjJaeFUzLWI0S3NlQkR1Tm1VX0lCb0V1eEhvTFczTTdkTTVEYXdlemRFeVhfVmxvWl81QTA5WWNQRmVMTFdneThQNlA4QUVmYVozWDBaclpISnlmUEtFbnJIcl9FakNFQVdrZllHT2JhaG45bG9VUlhMbXhES1gyU2VzT29CQjhhdHF5N0dCZXRLZ2Z5aHAxTGdsQ2p4SmU1cnh0QXU1eHItdWl0bEpjbmxjMVJkMXJLZ284OWREaG1qUVVVSVlFcVduV196b2UwR3prYw?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "98718459eb8ef7ba",
-   "titulo": "El comté francés es el mejor queso del mundo: gana el World Cheese Awards de Córdoba",
-   "resumen": "",
-   "fecha": "2026-11-13T21:01:49+00:00",
-   "area": "alimentarias",
-   "ambito": "nacional",
-   "fuente": "Qué.es",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LQVJ2Y2YxRW93dDVnWmNsZkZER2I1UnRkZDlnMkp6bEV6eGwtbzBxb0g0eEVzT2x0TzZVRDNoaGJBSjlEQjZ1dHRKUDV3X1A2Mk9Ka0VPV3JNbnhJR0g0UXJfZzdjVV9oZkE?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "9d7fe6b57d96184e",
-   "titulo": "Abascal abre la campaña de Vox con una llamada a la \"movilización masiva\" y a no confiarse: \"Nada está hecho\"",
-   "resumen": "",
-   "fecha": "2026-11-13T20:43:45+00:00",
-   "area": "quimica",
-   "ambito": "nacional",
-   "fuente": "Vozpopuli",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaFBzSUJrZTlOTENHWjdDLXV2dlNvUHRxRlpTcUtEWVNwbWhhUlVFbmxwZjNlaG1vbTV4SXRhRC1jLXp3S2M0cFhTUFl2dEhjSGx6VlpJUzJycmlRYVRSNzNXRGI1TXNHUHBkdThNYzdlVHZCeC1xUXBySTRyMjkzck10SThXdklINWRhTUJrVFpMOExtaHM4dGdBTXhMdU9OUHpUYVdzRnZyVkhXTnFzajVzaDlodW5QeHYxcFVqWFZLSTI1U1REWXZWNGc1b3daY2ZfSTM4VFZxdDF2UG130gHfAUFVX3lxTE5oUHNJQmtlOU5MQ0daN0MtdXZ2U29QdHFGWlNxS0RZU3BtaGFSVUVubHBmM2VobW9tNXhJdGFELWMtendLYzRwWFNQWXZ0SGNIbHpWWklTMnJyaVFhVFI3M1dEYjVNc0dQcGR1OE1jN2VUdkJ4LXFRcHJJNHIyOTNyTXRJOFd2SUg1ZGFNQmtUWkw4TG1oczh0Z0FNeEx1T05QelRhV3NGdnJWSFdOcXNqNXNoOWh1blB4djFwVWpYVktJMjVTVERZdlY0ZzVvd1pjZl9JMzhUVnF0MXZQbXc?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "09f011d185d2cd5b",
-   "titulo": "Viñas Jalón: cuando la historia se convierte en leyenda",
-   "resumen": "",
-   "fecha": "2026-11-13T19:34:59+00:00",
-   "area": "ecuestre",
-   "ambito": "nacional",
-   "fuente": "Lily Forado",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOWhKSDBlYmVRbUt3b3ZpR2xJX3luMm9GN29hWXdCUHFtQzRFRUhvdldUeTNWR0swTmYtOUtCMjl4emxuNVFoX0hYWEhLX3FMU0RVRG5wYjNuU1Fjd2QxdDhtbVZKdGFGdjFNNlE2RWZXSlIxVnNzTGtvYjZYMkg1VUtjRnQ?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "65c5b6728486b88c",
-   "titulo": "Veintiún quesos de Lanzarote buscan conquistar el mayor concurso internacional de quesos del mundo",
-   "resumen": "",
-   "fecha": "2026-11-13T19:33:07+00:00",
-   "area": "alimentarias",
-   "ambito": "nacional",
-   "fuente": "Lancelot Digital",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQkNRTlZNZ09XcGVOcHdUTGJENEVJSE5TUl9hZ3Y1RmxKajZnenFSUTZ4ZDZEbUtKYUlrMGM1U2tKR1JyUzladEw1LXNscjBKblh3eE4zSTN4MHIyUGFhdGg2ZVdFc1VHVzJMcE9NX0J3SUlGcjhXLXBXTmxlczhwMFM0ZGE1UkRTa2hGVUNBNDd5UHdTMFg3NUZhZW1UWldvbGdoZWladkhQQ1U5M2hONlVTMXdqWHNuYUVuWmhDY1ZGZ0ItZm1zbFpQZmw1SXFaZ0J2anlFZw?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "960d26e03cc1f17f",
-   "titulo": "Expertos España y Portugal estudian sello para acciones económicas que prevengan incendios",
-   "resumen": "",
-   "fecha": "2026-11-13T18:54:47+00:00",
-   "area": "forestal",
-   "ambito": "nacional",
-   "fuente": "Región Digital",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYnRjZndNbW1aY0hVVEp2bEdhNUJQaGJ1S3V3OFF2TFlrWmp0SmZpQUNzbl9fcmxrRlUyWUpFLUpOQ2dYOUhBU0U2bThscDljb3piRXVlMFZpcmUzd3kyZUxPck5NdDlFaER1NzgyU2NaV0tSSGNzYWhwQUJQSVkybm1HUVRKUlFMb0N1RUFPcXptZVBzM0pTMlpfcmc0bEIzTHczdmE4Zk8ySFR6TWhYQXJ2bUxJa0lkaDgxdUJ2NE9MVHVxS2ZKaEZnOW5ZQVZ2a291ZE1OU1ZYZ2JGN1FkckdiNTJtbW1GSmNWSEln0gHuAUFVX3lxTE1idGNmd01tbVpjSFVUSnZsR2E1QlBoYnVLdXc4UXZMWWtaanRKZmlBQ3NuX19ybGtGVTJZSkUtSk5DZ1g5SEFTRTZtOGxwOWNvemJFdWUwVmlyZTN3eTJlTE9yTk10OUVoRHU3ODJTY1pXS1JIY3NhaHBBQlBJWTJubUdRVEpSUUxvQ3VFQU9xem1lUHMzSlMyWl9yZzRsQjNMdzN2YThmTzJIVHpNaFhBcnZtTElrSWRoODF1QnY0T0xUdXFLZkpoRmc5bllBVnZrb3VkTU5TVlhnYkY3UWRyR2I1Mm1tbUZKY1ZISWc?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "b11ad6242fbe49ed",
-   "titulo": "Experiencias en el extranjero: estudiantes de la UACh enriquecieron su formación profesional en pasantías",
-   "resumen": "",
-   "fecha": "2026-11-13T18:43:33+00:00",
-   "area": "centro",
-   "ambito": "nacional",
-   "fuente": "Universidad Austral de Chile",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU0V3bFN5MlpMSkZ4dkp2YjBxQUZOaUtzOS1nWFFLdlJhcWJmLU9NTjVqNDYxbXR4bGQ2YndCYzFMYy13ekplSGZTdzNZZmViWmlZcGRRbE1xN3IxTnlheDJPdUZJZkUxT0ZlNkpibUxCWno0YjZWVVBPNlNfU0ZGeVVWazNaUHZKVldqM3ItTHBydjBvdHd6c1FOWEF0WGdpd2JDU2xOU1RaVUExMXBjYUpzejZlZ1pOdW1IMEpJSzdMZ1RJb2dn?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "181c4ae9fcc2f2e3",
-   "titulo": "El Gobierno pide \"no alentar falsas expectativas\" ante la plaga de trips con una materia \"prohibida\" y sin \"futuro\"",
-   "resumen": "",
-   "fecha": "2026-11-13T18:23:16+00:00",
-   "area": "quimica",
-   "ambito": "cantabria",
-   "fuente": "Europa Press",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRzNja1FPNzF1OEJteG91VjVIUTlFTVFNNEpqQ3NsWU9NUmcxcDdYN2FRSFZ5VmxqYjJfcDhRYm11TFFGTnNqZUJqcTY3TS1SVWtZMTZqVkdpdTRlLTRJS2tGLWxmUFhzazBkMGFEdW5lb0JSOGNGS0JGdU5mZFZPc21lempQQUNKZllyQVNvMTktcGtUY29kbWJVdnF0cWhXQkpTcVZBanBuVTRkRVF2NGxxZHp3OG5mMjMyanJDck84V3plQm1vSEhfcHBHU1Rpd1JjX1B6aUtKdnp5b1NQR29HNWRWNXpFblJyV2pLLTVLUQ?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "5e6f7715c9649125",
-   "titulo": "EIMA 2026: Case IH apostó por la conectividad y la innovación práctica",
-   "resumen": "",
-   "fecha": "2026-11-13T17:40:14+00:00",
-   "area": "maquinaria",
-   "ambito": "nacional",
-   "fuente": "Interempresas Media",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOW1XZDVUcW5jQkZTbERHX2VPMzlmNEhTaEJDd19nU2tfM2QwV29qNmZsaFowOXRoWmZkVUdhWk1DcUdiWTlMVU1TSEQ1TW1WNElaTFlpNVJZTGxpRjhteGZRYWp5LWRBYWNfY2p1eU43Rmhjd3pib2k0dmxYVHJMdndLYmE1UUU1YW5wZU5QLUExSEE3Qm1XaWN3SlBKeHU4Rm8zODk3b3NVQk1GWTF6NHAyWlFtNE9YN2JN?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "e6ebe13f4c33aebd",
-   "titulo": "El PP promete a ASAJA una auditoría hídrica, una PAC justa y menos burocracia",
-   "resumen": "",
-   "fecha": "2026-11-13T17:17:01+00:00",
-   "area": "agricultura",
-   "ambito": "nacional",
-   "fuente": "AgroCLM",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkNHNWU3Z2ttT2tYMnJFc0MyemoxMGF4aDhhdENPc21SS3plQzkzVmdVLVVMNDZrQ2d4b0NQSkxna0E1Qmk2QmdBWnZkR3RjUnJKQkt5bC1td2FwWHRYa0R2RzVUOUdmT0x3NDl3RHRsOVVxbVlIYUJYbXdUa2U4bHhlN0FaaUNnZ2Vrc2VpSmVYSUhjUUtXeFhTZjhmUkZ4eEZsUWVSVFV1NlM1OXAybFFB?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "c3727a06788f62ee",
-   "titulo": "À Punt Ràdio ofrece un fin de semana trepidante de deporte con el España-Inglaterra como plato estrella",
-   "resumen": "",
-   "fecha": "2026-11-13T17:14:40+00:00",
-   "area": "quimica",
-   "ambito": "nacional",
-   "fuente": "Vozpopuli",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVVFrbUhOQW1Zc3RpZWdmaWVnT2J2SDFRQkV4NFR2ZmxPS2tjNFE3M1kxZjZOU2l2WWVfTTFOUXdpWTRtRzJkd2ppMVJJREdzUWFBSFFVUVo1b1dNV21ISTdHSm5IZDNIYzF4cHZKTkYtRFJjQ0hhTWQwNkZGUXVDSl9RVmhhMDJUclc2SkxJLTkwd3g1Xzl2aXNJQm04c09lbktiNTJiQl9aSHc2SEF3N3BkR3ZXZC1WS2lhcHl5T0NOVmdIT1pLTXdWal9ZbUJsWXNuU2dBUHIwZVpmdno0LXFaT1U5TVFCd1pNZUtla3BpeWdvN2RYMzlB0gH6AUFVX3lxTFBVUWttSE5BbVlzdGllZ2ZpZWdPYnZIMVFCRXg0VHZmbE9La2M0UTczWTFmNk5TaXZZZV9NMU5Rd2lZNG1HMmR3amkxUklER3NRYUFIUVVRWjVvV01XbUhJN0dKbkhkM0hjMXhwdkpORi1EUmNDSGFNZDA2RkZRdUNKX1FWaGEwMlRyVzZKTEktOTB3eDVfOXZpc0lCbThzT2VuS2I1MmJCX1pIdzZIQXc3cGRHdldkLVZLaWFweXlPQ05WZ0hPWktNd1ZqX1ltQmxZc25TZ0FQcjBlWmZ2ejQtcVpPVTlNUUJ3Wk1lS2VrcGl5Z283ZFgzOUE?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "4388b5c92016bd22",
-   "titulo": "El consejo de la producción ecológica celebra en Llanera 30 años de historia",
-   "resumen": "",
-   "fecha": "2026-11-13T17:10:35+00:00",
-   "area": "agricultura",
-   "ambito": "nacional",
-   "fuente": "El Comercio",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQnBoSXJod080cVUwUTBiNklZS1FjSGFnUUNzS3JvNWdJTW0tUS02Q2FBckt3Rm1tYnI1LUc2T0hhMEV5Yk5oN2RUS2VFODlRa1UzdTg4TWpNZ29BLW14SEVJRjVrNkd4ZGdrYlk4Z0lIQnlTbjZndExVRVhzYWlFTVNZYjJOMnF3SURtYUNuTUJVYWdFazI3aGtGOUpUaXM3NlVLT1QzbTU4TTA5TGlrWmx2VmxKWmpRNlcxYkhUUFdiUFc5LVF4NEVyck9BSHpnWjk4SHM5b0FSYUZHUnMwWWNn0gHnAUFVX3lxTE5XMlpaandLc05fX3hUZEVHOVdITVRuODE2d2VsSnVVdS1hY2JlZnAzcE9rSW5jTkNYOEZhTjFEMTgzM1FyVjFIQzFiN0tOeko3XzBFNEpoMlhQMFFTV1J5eW43Z1gyMjRTT2pPY2taNEJqZXJnRFA5MDRxMWZYZ0FEcWZSTjZsOWNPOVJhVGZtV28zZG1TSUdFNVZ2UXpOUVo2MUxOQjJndDFaOVlSWXM4QVg2SUtLUWxIQWJGdG10WHp2VWlTRzVQZWFFQ2VuU0dNbVpDMnZadnM3a3VOOWt5NjhITEFtbw?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "fa4106ba05e4b544",
-   "titulo": "Pañales y comida infantil entre las necesidades más urgentes del Banco de Alimentos de Cantabria",
-   "resumen": "",
-   "fecha": "2026-11-13T17:08:28+00:00",
-   "area": "alimentarias",
-   "ambito": "cantabria",
-   "fuente": "Onda Cero",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQWxYd01vUUpCOXVKMXItZEJCYXc5QmZCNGZSSjQteFZsUmswMjh1WDJTMzhreUtpVy0xQTJRcUFIalUxczZRZmNkSGFOck03aDRMa1hNYkk2c1FNUTFWUnB2ODlpaHlHNk11Y19fOUx0MFdFaXhwcFlIWmRBMS1PRUVPZmM5QzlqUmYzZjFQcUVPZkNPYzF5VlNhbjRHZWNQSzU3dUpPS3FISldRYzgxOXBCbWNKbGZlZEtHeWV3YzJiZklNaFpvQWlvRzZOdHRzNWY5U25OV3N2eFZ2RTFGZkZUcEZtaTAwLUlYbS10N3dCaWJBeWhz0gH3AUFVX3lxTE5TOHlKWXA0eHRCTFFDX2hTSkhGQ3h2cDlFa0h2bzhSRXRacWxHVnFVZHI1RjVMNnFXdkU5VGNtYW5xUWtSOXZEa0FmZUdPbFlwQVRITDljV09haFN4R0o0eDJ1NTFZSjkxai14eDZ0X212Vzk3NmgyNmxJdTRtVEVsNmJyYUwtT3lBMFJGa3h1VkN5eDE3VlVDdTYxTVd3Q3ZCRHJuMldvcGxMLVFCQzluRTc2VmdBUWMwckZPbWEzczNoWWZoeENENzZkQlBzVFV4Sm1yOEFhMExtaHJ5SkIxeGVqei01bk0tVXBhUjRqempXeGdrM2s?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "881a2e548fb83e9c",
-   "titulo": "Un queso de Pedroche conquista el sexto puesto mundial en los World Cheese Awards",
-   "resumen": "",
-   "fecha": "2026-11-13T17:00:31+00:00",
-   "area": "alimentarias",
-   "ambito": "nacional",
-   "fuente": "El Día de Córdoba",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNmtKQ3hQa01tMklSTkt4Q2cyTUhDUW5CWFNtdFZBZERZMWQzZjNZR3pneDV6SVVPVmc5V3hMLXZGejUzMmRIb2NKbUgtbkZWbXhzUkpBSzN1ZWF2NVZVX1A3X1JyRW90QmJ5VUtfdzQ0eWJqMjJwWWNUMjRRZTUxaldJLTNGakRoakpiLVFvcnE0TVp1MmZDcWlwZGM2U1cwdlZ6SkpRYU5MejhwMnhCMjFsaDZZaG9VbFAxTUcySGZPVkF3N2gtUDlIQnZtWEdmWEpBc3NJR0hEZ9IB3wFBVV95cUxPRGVSbFNjaVQ4cmtFdWlKY2JGek5GYVQweW9NU2QzeDVZZjVPckRSbklmdnNIV1JxQTRxV2lyQ0IwRk03SEs4ZW8yb2c2XzZPbWk2NVR0eWFKcXZuLW5RWTdKZEE3endIeXFzTTVGSXFySER1WkwzV0hpU1VCRDRMUWtPVGZic1N2dF95UzNfLVR5UzE2WDRCdFhYbjdXXzVaai16M0I0dFhNSGd0dU1TVDNER3BkNTNHTEN5VzlDUC1yVmNjRjZDSjZsb1VtUnl3TWJxX3pUakphMGVTMGJF?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "0cf3769b6767b6b1",
-   "titulo": "Los ministros Planas y Tolón visitan una cooperativa de piensos en Pulgar",
-   "resumen": "",
-   "fecha": "2026-11-13T16:51:52+00:00",
-   "area": "centro",
-   "ambito": "nacional",
-   "fuente": "La Tribuna de Talavera",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVnlWWmlXdFkwbUF6QXZLNV9RWEhaeUlVc0MyYmg3VGFIQnJCblBwajI4Nk0wUnBLRXoxbkhnRGpOTmNORlI3S1N4UVZBR0lNbUh3bmpwUElKWHg2aDdoR2c4SFloS0ZnYnJ4TDhzS09vVE00ZVp5TlVBSldXUjYyZm9odmhqX3ZvcG5GTjUtNC13MUhxX2E0YW9rRnpzbW51eXpzdFd4VEVSQUJuVDM3UW15M1JfTjNTWlllbXk0RkEyZW5SVngtQS1JUTFiUm9FMzhjZzVsVC1JT1pBZHk5ZmZ5RQ?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "c226b507aa01ba0a",
-   "titulo": "Los ministros Planas y Tolón visitan una cooperativa de Pulgar",
-   "resumen": "",
-   "fecha": "2026-11-13T16:51:00+00:00",
-   "area": "centro",
-   "ambito": "nacional",
-   "fuente": "La Tribuna de Toledo",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd2FiTkdIN0JlUy1sWVJZZmhVUHoxZG5GZGhfdF90SlVuZ3hlT3BCTmdPTU45eTg5WVhsdEk5SnltYUJpbzhIU2kxd2JSNXJBZWhSc3laS3ZwUmtFOHBVZXI2N29UQkVHVkdHTXkzWi1MVW8wZ0VyOVR0cXdVcW5SOWVqVWxadjQ4cjBhRmVFNS1SZ1VsdG4zU3V6Y1hnS0pGMjdlR1IzZ0Z6N1hWdFlYWFhyU2RXTkVPNjJoZFloNXg4cl9HOXJhRm1uanNuNDZ1TTRYMGJOV1o3YnFJaGQybA?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "ba094a8d3d9ac28f",
-   "titulo": "Un manifiesto reclama que el 30% de comedores escolares tenga certificación ecológica en 2030",
-   "resumen": "",
-   "fecha": "2026-11-13T16:47:54+00:00",
-   "area": "agricultura",
-   "ambito": "nacional",
-   "fuente": "La Vanguardia",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSmxVUllpMkp0YUtsalplMzB2RTEtbW1ieGpFNG5jNUVXUmtrRUxEbEtqWmRKWmJMdGdnR2JpUnA1cWw1Y0FEeWk1V04wcEdMUHlVaWpTdGtxTW9fZVE0dHZocHBZY2ktMGE1TFhqbXo2a3hINHBEUnlFaHBIMkRleElxeGZoVWtoZXNqeERFYjJSQUZZY3owTmVzemNzQm9PNHYzLWhtNEs5Xzl0SUwxZm1TTWw4NEM0QzJJbl9Hd2FKWU1hVEZneXZscXVyd0xLQ3fSAdcBQVVfeXFMTWZCS0g4cDBsWnZ3OHFDenhab1Blc19TcjFyRFRvMlN4YlpwNDFpN1I3V2hlSHFnbHRWTnhIamhhODVaNG93Mnp4aEZMU0VUMFJCdE16OTFUb0EwOHVzYTdWNTFUQmlTSzZDSmpZSlhoTXBnRVhJNGJZcEVJbVNXZ1BlSnM4R2ZSR29EbW8wRTctQXgxblAxTzl3YkNVVEw4d0tmVFBhdHR0b3VjUTBHUmpYVTAwS2M2dlVfWVl6UGhVZVNLaWN4UWRtUWYxOG4yc0xhc0hKcXM?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "297097383b092469",
-   "titulo": "El PP apuesta por un campo más rentable y con menos burocracia",
-   "resumen": "",
-   "fecha": "2026-11-13T16:40:38+00:00",
-   "area": "agricultura",
-   "ambito": "nacional",
-   "fuente": "La Tribuna de Cuenca",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcVUyUXhMSkROUnZNTTZMMVlKQmdpMlZva3lPQ0JsVzVqTml3T0Q4bXNMdUxlYnhYVW9XQkdxTUtVY3YwbktkOU10dlBPMXpEcVQ0S2hLYVRsWVZkMl9Ic3IyS0h1RGV3S3NtbFEtWTNHNVpGRlhrdGQ5OFZxTlQ1SkZYaFRuYTRGdUhZU3ItOVd2NkVLbm5HcDBuT1E5Y2hiMzRPMElXOHpmX19PRXFfQzg3ZDc1Qlh0WU44WW1OMzlMMXNLdkRXd3dwS3lFZFdPaklkaUZ0eGpadGhnM3IzSA?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "42248a09b1746933",
-   "titulo": "Los analistas destacan los “sólidos” resultados de Telefónica y la fortaleza de los negocios de España y Brasil",
-   "resumen": "",
-   "fecha": "2026-11-13T16:11:27+00:00",
-   "area": "quimica",
-   "ambito": "nacional",
-   "fuente": "Vozpopuli",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYXRGVUplaWp5WEhOQ2tWcUQ5U2FoTGpvOEpUSHVqUmxuVVpIUEFaeTJFVndHdTlUUU9LeWdyNjhlakg2Zk1pS2tTcksxSURhR2ZrRnhaTzBkNnZKcWxrR2xMd25XS0lhN1hJQW9ST3BBT2FZSXVLTjY3UmRjMVk2TVBHTFJPbGxOZDA4a3N3VVFTT2RjTEl3ZzhNOFloS2VkYXFjb2FEb210YnBOZkVidWJLdDdrNnZlZXdiUmZUYTNSU092VXFqeExPSkJIRGtEQVU5VG1HS1J2Vmw4Y0p4S3RtcW9sNHBkSHB2bi1KZmZlRVFP0gH0AUFVX3lxTE5hdEZVSmVpanlYSE5Da1ZxRDlTYWhMam84SlRIdWpSbG5VWkhQQVp5MkVWd0d1OVRRT0t5Z3I2OGVqSDZmTWlLa1NySzFJRGFHZmtGeFpPMGQ2dkpxbGtHbEx3bldLSWE3WElBb1JPcEFPYVlJdUtONjdSZGMxWTZNUEdMUk9sbE5kMDhrc3dVUVNPZGNMSXdnOE04WWhLZWRhcWNvYURvbXRicE5mRWJ1Ykt0N2s2dmVld2JSZlRhM1JTT3ZVcWp4TE9KQkhEa0RBVTlUbUdLUnZWbDhjSnhLdG1xb2w0cGRIcHZuLUpmZmVFUU8?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "d15464a3734e7a04",
-   "titulo": "Fúnez anuncia una auditoría hídrica y menos burocracia para el campo si gobierna el PP",
-   "resumen": "",
-   "fecha": "2026-11-13T16:02:37+00:00",
-   "area": "agricultura",
-   "ambito": "nacional",
-   "fuente": "La Voz de Tomelloso",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObUZqQVZNRXVrR243ajdYcXBsWEFEZmd6YkpnM0VNZTM0ajkxUjFVQUxjSXpaV2pDcWdaMXh0NVQ4M0JsU1RreWxlWGFvaXBwcWJDM1pZYk9yTDZLSjhvaGhGOHVzYlBCX3psOEcxUGxsVVB5MmVFMG1HbDJhMVIwRzh5TlpnaWN3UkI2b1B0WmRVbno2X1J4ZndBblVIYVc5NEF2aXVB?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "f2ce87e580fe68d1",
-   "titulo": "Expertos de España y Portugal estudian en Cáceres crear un sello para actividades económicas que ayudan a prevenir grandes incendios forestales",
-   "resumen": "",
-   "fecha": "2026-11-13T15:52:00+00:00",
-   "area": "forestal",
-   "ambito": "nacional",
-   "fuente": "Onda Cero Sur Extremadura",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOc1h1eEFhU3V6S2pNZ1lUSXRwa1V2dTRKQXQ2N2FwcktBd2hXNHBGc2ZTczgwVkk1RlBQOG5YLVg2R3E5SHI2VlNaY1p3S1BGUy1vTnE0ZDgwSk1FR2x5dEU4Q2ZPVTZ6YXVsNm9hWGhhSi1xYVFCU25hTDJMTXl3cC1laDF0ZURGTWp2RnBmV1ZIZG12N0EzUHFhMHRyWlJlY3ZHOEVib0Y5VGVhYUo5RWsyM0xlREhEbE1hLWRkUFRKT29xbmdUVXZtamhEeU8xUkUyLVE5NHVGYld3bXpVNDZVZ3VwU2pPYjFkdjJuSXJWZ2Y0WjRkb2tVLS1uajFGREJOSGFn?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "5bf8dc358d928d5d",
-   "titulo": "Los cántabros muestran su cara «más solidaria» en la gran recogida de alimentos",
-   "resumen": "",
-   "fecha": "2026-11-13T15:33:59+00:00",
-   "area": "alimentarias",
-   "ambito": "cantabria",
-   "fuente": "El Diario Montañés",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSWt1M1lJeG9qbDQ5YURXV3liOFJRS1hpVlZpXzFtZmI2QXEtTmRWOUJEUk5TTUhJdl83T09DMXFBb0k3UG9LQ3hURG9RaTF6aGV5MHZxNkNUSWsxbWxJM1F6MFBXQi00V1pPQmdscGFwVVk3aUFpNjMyaWRkVzJnbTliRFNBNTM5MURtbmxDVXhqYVAyWHhhZW94UW43ZVhIZC0xb1dLVFZKMV9HOVFkMHE2RHg4YnNIcFEwWXcxSQ?oc=5",
-   "imagen": null
-  },
-  {
-   "id": "b74ea08544cb38d4",
-   "titulo": "La Fiscalía denuncia a TikTok por la difusión de material de abuso sexual infantil en su plataforma",
-   "resumen": "",
-   "fecha": "2026-11-13T15:33:23+00:00",
-   "area": "quimica",
-   "ambito": "nacional",
-   "fuente": "Vozpopuli",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd1dFWlNRZUVZRktGakNUQnFoWmN6UFFLNDlsNkZjOVUzeUNLNUEyNmhtQ2NMMzlLM2FQQWZ1U04yajhjTzdaVjVLblpDSWRUVmhhYVd2azcxZ0wyN2VEX2dzRGVGV3F6cVU0VzM1Z1J0Nmh4RmlsZG9ZNG5tM1loUUFNZzNvbGpqVVRrZU9tdkRmcGFTZTlDMGszNHpjNVFrSGQwb1hiRHRvUjlvLW50RnZZTE9XNEcxRGk3RXRldnlNTFlHUUZDdm55ZEYwMHc3QjNaQUNmUzlaSW9jT1HSAd4BQVVfeXFMT3dXRVpTUWVFWUZLRmpDVEJxaFpjelBRSzQ5bDZGYzlVM3lDSzVBMjZobUNjTDM5SzNhUEFmdVNOMmo4Y083WlY1S25aQ0lkVFZoYWFXdms3MWdMMjdlRF9nc0RlRldxenFVNFczNWdSdDZoeEZpbGRvWTRubTNZaFFBTWczb2xqalVUa2VPbXZEZnBhU2U5QzBrMzR6YzVRa0hkMG9YYkR0b1I5by1udEZ2WUxPVzRHMURpN0V0ZXZ5TUxZR1FGQ3ZueWRGMDB3N0IzWkFDZlM5WklvY09R?oc=5",
-   "imagen": null
-  },
-  {
    "id": "b7d72da68caa5b4e",
    "titulo": "Concurso de Calabazas 2026",
    "resumen": "Heras, 15 de octubre de 2026 🎃 ¡Llega el V Concurso de Calabazas del CIFP La Granja! 🎃 ¡Prepara tu calabaza y participa en una nueva edición de nuestro concurso! 🍂🏆 📅 Sábado 17 de octubre de 2026🕚 11:00 h📍 CIFP La Granja 🏆 Cuatro categorías con premio:🎃 La…",
@@ -2749,17 +2760,6 @@
    "ambito": "cifp",
    "fuente": "CIFP La Granja",
    "url": "https://cifplagranja.com/el-cifp-la-granja-cierra-el-proyecto-erasmus-vet-skills-un-camino-hacia-el-exito/",
-   "imagen": null
-  },
-  {
-   "id": "722f3811bfdd4ed3",
-   "titulo": "El CIFP La Granja, presente en las Olimpiadas Forestales Europeas en Austria",
-   "resumen": "Litzlhof, Austria, 22 de mayo de 2026 Las Olimpiadas Forestales y el Campeonato Europeo de Estudiantes Forestales se celebran estos días en Litzlhof, una cita internacional de referencia en el ámbito de la formación forestal profesional. En esta competición…",
-   "fecha": "2026-05-22T12:36:03+00:00",
-   "area": "forestal",
-   "ambito": "cifp",
-   "fuente": "CIFP La Granja",
-   "url": "https://cifplagranja.com/el-cifp-la-granja-presente-en-las-olimpiadas-forestales-europeas-en-austria/",
    "imagen": null
   }
  ]
